@@ -1,0 +1,6026 @@
+Len stacks  9
+------------------------
+Stack  0  -> NDMQBPZ
+Stack  1  -> CLZQMDHV
+Stack  2  -> QHRDVFZG
+Stack  3  -> HGDFN
+Stack  4  -> NFQ
+Stack  5  -> DQVZFBT
+Stack  6  -> QMTZDVSH
+Stack  7  -> MGFPNQ
+Stack  8  -> BWRM
+------------------------
+Amount  3 Origin  2 Destination  5
+------------------------
+Stack  0  -> NDMQBPZ
+Stack  1  -> CLZQM
+Stack  2  -> QHRDVFZG
+Stack  3  -> HGDFN
+Stack  4  -> NFQDHV
+Stack  5  -> DQVZFBT
+Stack  6  -> QMTZDVSH
+Stack  7  -> MGFPNQ
+Stack  8  -> BWRM
+------------------------
+Amount  2 Origin  9 Destination  6
+------------------------
+Stack  0  -> NDMQBPZ
+Stack  1  -> CLZQM
+Stack  2  -> QHRDVFZG
+Stack  3  -> HGDFN
+Stack  4  -> NFQDHV
+Stack  5  -> DQVZFBTRM
+Stack  6  -> QMTZDVSH
+Stack  7  -> MGFPNQ
+Stack  8  -> BW
+------------------------
+Amount  4 Origin  7 Destination  1
+------------------------
+Stack  0  -> NDMQBPZDVSH
+Stack  1  -> CLZQM
+Stack  2  -> QHRDVFZG
+Stack  3  -> HGDFN
+Stack  4  -> NFQDHV
+Stack  5  -> DQVZFBTRM
+Stack  6  -> QMTZ
+Stack  7  -> MGFPNQ
+Stack  8  -> BW
+------------------------
+Amount  7 Origin  3 Destination  4
+------------------------
+Stack  0  -> NDMQBPZDVSH
+Stack  1  -> CLZQM
+Stack  2  -> Q
+Stack  3  -> HGDFNHRDVFZG
+Stack  4  -> NFQDHV
+Stack  5  -> DQVZFBTRM
+Stack  6  -> QMTZ
+Stack  7  -> MGFPNQ
+Stack  8  -> BW
+------------------------
+Amount  2 Origin  9 Destination  8
+------------------------
+Stack  0  -> NDMQBPZDVSH
+Stack  1  -> CLZQM
+Stack  2  -> Q
+Stack  3  -> HGDFNHRDVFZG
+Stack  4  -> NFQDHV
+Stack  5  -> DQVZFBTRM
+Stack  6  -> QMTZ
+Stack  7  -> MGFPNQBW
+Stack  8  -> 
+------------------------
+Amount  8 Origin  8 Destination  6
+------------------------
+Stack  0  -> NDMQBPZDVSH
+Stack  1  -> CLZQM
+Stack  2  -> Q
+Stack  3  -> HGDFNHRDVFZG
+Stack  4  -> NFQDHV
+Stack  5  -> DQVZFBTRMMGFPNQBW
+Stack  6  -> QMTZ
+Stack  7  -> 
+Stack  8  -> 
+------------------------
+Amount  1 Origin  7 Destination  4
+------------------------
+Stack  0  -> NDMQBPZDVSH
+Stack  1  -> CLZQM
+Stack  2  -> Q
+Stack  3  -> HGDFNHRDVFZGZ
+Stack  4  -> NFQDHV
+Stack  5  -> DQVZFBTRMMGFPNQBW
+Stack  6  -> QMT
+Stack  7  -> 
+Stack  8  -> 
+------------------------
+Amount  8 Origin  6 Destination  4
+------------------------
+Stack  0  -> NDMQBPZDVSH
+Stack  1  -> CLZQM
+Stack  2  -> Q
+Stack  3  -> HGDFNHRDVFZGZMGFPNQBW
+Stack  4  -> NFQDHV
+Stack  5  -> DQVZFBTRM
+Stack  6  -> QMT
+Stack  7  -> 
+Stack  8  -> 
+------------------------
+Amount  4 Origin  5 Destination  7
+------------------------
+Stack  0  -> NDMQBPZDVSH
+Stack  1  -> CLZQM
+Stack  2  -> Q
+Stack  3  -> HGDFNHRDVFZGZMGFPNQBW
+Stack  4  -> NF
+Stack  5  -> DQVZFBTRM
+Stack  6  -> QMTQDHV
+Stack  7  -> 
+Stack  8  -> 
+------------------------
+Amount  3 Origin  4 Destination  9
+------------------------
+Stack  0  -> NDMQBPZDVSH
+Stack  1  -> CLZQM
+Stack  2  -> Q
+Stack  3  -> HGDFNHRDVFZGZMGFPN
+Stack  4  -> NF
+Stack  5  -> DQVZFBTRM
+Stack  6  -> QMTQDHV
+Stack  7  -> 
+Stack  8  -> QBW
+------------------------
+Amount  2 Origin  6 Destination  3
+------------------------
+Stack  0  -> NDMQBPZDVSH
+Stack  1  -> CLZQM
+Stack  2  -> QRM
+Stack  3  -> HGDFNHRDVFZGZMGFPN
+Stack  4  -> NF
+Stack  5  -> DQVZFBT
+Stack  6  -> QMTQDHV
+Stack  7  -> 
+Stack  8  -> QBW
+------------------------
+Amount  11 Origin  4 Destination  1
+------------------------
+Stack  0  -> NDMQBPZDVSHDVFZGZMGFPN
+Stack  1  -> CLZQM
+Stack  2  -> QRM
+Stack  3  -> HGDFNHR
+Stack  4  -> NF
+Stack  5  -> DQVZFBT
+Stack  6  -> QMTQDHV
+Stack  7  -> 
+Stack  8  -> QBW
+------------------------
+Amount  1 Origin  3 Destination  4
+------------------------
+Stack  0  -> NDMQBPZDVSHDVFZGZMGFPN
+Stack  1  -> CLZQM
+Stack  2  -> QR
+Stack  3  -> HGDFNHRM
+Stack  4  -> NF
+Stack  5  -> DQVZFBT
+Stack  6  -> QMTQDHV
+Stack  7  -> 
+Stack  8  -> QBW
+------------------------
+Amount  2 Origin  3 Destination  1
+------------------------
+Stack  0  -> NDMQBPZDVSHDVFZGZMGFPNQR
+Stack  1  -> CLZQM
+Stack  2  -> 
+Stack  3  -> HGDFNHRM
+Stack  4  -> NF
+Stack  5  -> DQVZFBT
+Stack  6  -> QMTQDHV
+Stack  7  -> 
+Stack  8  -> QBW
+------------------------
+Amount  1 Origin  7 Destination  6
+------------------------
+Stack  0  -> NDMQBPZDVSHDVFZGZMGFPNQR
+Stack  1  -> CLZQM
+Stack  2  -> 
+Stack  3  -> HGDFNHRM
+Stack  4  -> NF
+Stack  5  -> DQVZFBTV
+Stack  6  -> QMTQDH
+Stack  7  -> 
+Stack  8  -> QBW
+------------------------
+Amount  14 Origin  1 Destination  6
+------------------------
+Stack  0  -> NDMQBPZDVS
+Stack  1  -> CLZQM
+Stack  2  -> 
+Stack  3  -> HGDFNHRM
+Stack  4  -> NF
+Stack  5  -> DQVZFBTVHDVFZGZMGFPNQR
+Stack  6  -> QMTQDH
+Stack  7  -> 
+Stack  8  -> QBW
+------------------------
+Amount  7 Origin  4 Destination  3
+------------------------
+Stack  0  -> NDMQBPZDVS
+Stack  1  -> CLZQM
+Stack  2  -> GDFNHRM
+Stack  3  -> H
+Stack  4  -> NF
+Stack  5  -> DQVZFBTVHDVFZGZMGFPNQR
+Stack  6  -> QMTQDH
+Stack  7  -> 
+Stack  8  -> QBW
+------------------------
+Amount  2 Origin  5 Destination  9
+------------------------
+Stack  0  -> NDMQBPZDVS
+Stack  1  -> CLZQM
+Stack  2  -> GDFNHRM
+Stack  3  -> H
+Stack  4  -> 
+Stack  5  -> DQVZFBTVHDVFZGZMGFPNQR
+Stack  6  -> QMTQDH
+Stack  7  -> 
+Stack  8  -> QBWNF
+------------------------
+Amount  5 Origin  6 Destination  4
+------------------------
+Stack  0  -> NDMQBPZDVS
+Stack  1  -> CLZQM
+Stack  2  -> GDFNHRM
+Stack  3  -> HFPNQR
+Stack  4  -> 
+Stack  5  -> DQVZFBTVHDVFZGZMG
+Stack  6  -> QMTQDH
+Stack  7  -> 
+Stack  8  -> QBWNF
+------------------------
+Amount  9 Origin  6 Destination  1
+------------------------
+Stack  0  -> NDMQBPZDVSHDVFZGZMG
+Stack  1  -> CLZQM
+Stack  2  -> GDFNHRM
+Stack  3  -> HFPNQR
+Stack  4  -> 
+Stack  5  -> DQVZFBTV
+Stack  6  -> QMTQDH
+Stack  7  -> 
+Stack  8  -> QBWNF
+------------------------
+Amount  3 Origin  4 Destination  8
+------------------------
+Stack  0  -> NDMQBPZDVSHDVFZGZMG
+Stack  1  -> CLZQM
+Stack  2  -> GDFNHRM
+Stack  3  -> HFP
+Stack  4  -> 
+Stack  5  -> DQVZFBTV
+Stack  6  -> QMTQDH
+Stack  7  -> NQR
+Stack  8  -> QBWNF
+------------------------
+Amount  1 Origin  7 Destination  6
+------------------------
+Stack  0  -> NDMQBPZDVSHDVFZGZMG
+Stack  1  -> CLZQM
+Stack  2  -> GDFNHRM
+Stack  3  -> HFP
+Stack  4  -> 
+Stack  5  -> DQVZFBTVH
+Stack  6  -> QMTQD
+Stack  7  -> NQR
+Stack  8  -> QBWNF
+------------------------
+Amount  3 Origin  4 Destination  1
+------------------------
+Stack  0  -> NDMQBPZDVSHDVFZGZMGHFP
+Stack  1  -> CLZQM
+Stack  2  -> GDFNHRM
+Stack  3  -> 
+Stack  4  -> 
+Stack  5  -> DQVZFBTVH
+Stack  6  -> QMTQD
+Stack  7  -> NQR
+Stack  8  -> QBWNF
+------------------------
+Amount  7 Origin  3 Destination  8
+------------------------
+Stack  0  -> NDMQBPZDVSHDVFZGZMGHFP
+Stack  1  -> CLZQM
+Stack  2  -> 
+Stack  3  -> 
+Stack  4  -> 
+Stack  5  -> DQVZFBTVH
+Stack  6  -> QMTQD
+Stack  7  -> NQRGDFNHRM
+Stack  8  -> QBWNF
+------------------------
+Amount  5 Origin  9 Destination  5
+------------------------
+Stack  0  -> NDMQBPZDVSHDVFZGZMGHFP
+Stack  1  -> CLZQM
+Stack  2  -> 
+Stack  3  -> 
+Stack  4  -> QBWNF
+Stack  5  -> DQVZFBTVH
+Stack  6  -> QMTQD
+Stack  7  -> NQRGDFNHRM
+Stack  8  -> 
+------------------------
+Amount  4 Origin  1 Destination  4
+------------------------
+Stack  0  -> NDMQBPZDVSHDVFZGZM
+Stack  1  -> CLZQM
+Stack  2  -> 
+Stack  3  -> GHFP
+Stack  4  -> QBWNF
+Stack  5  -> DQVZFBTVH
+Stack  6  -> QMTQD
+Stack  7  -> NQRGDFNHRM
+Stack  8  -> 
+------------------------
+Amount  3 Origin  7 Destination  2
+------------------------
+Stack  0  -> NDMQBPZDVSHDVFZGZM
+Stack  1  -> CLZQMTQD
+Stack  2  -> 
+Stack  3  -> GHFP
+Stack  4  -> QBWNF
+Stack  5  -> DQVZFBTVH
+Stack  6  -> QM
+Stack  7  -> NQRGDFNHRM
+Stack  8  -> 
+------------------------
+Amount  5 Origin  6 Destination  2
+------------------------
+Stack  0  -> NDMQBPZDVSHDVFZGZM
+Stack  1  -> CLZQMTQDFBTVH
+Stack  2  -> 
+Stack  3  -> GHFP
+Stack  4  -> QBWNF
+Stack  5  -> DQVZ
+Stack  6  -> QM
+Stack  7  -> NQRGDFNHRM
+Stack  8  -> 
+------------------------
+Amount  3 Origin  4 Destination  1
+------------------------
+Stack  0  -> NDMQBPZDVSHDVFZGZMHFP
+Stack  1  -> CLZQMTQDFBTVH
+Stack  2  -> 
+Stack  3  -> G
+Stack  4  -> QBWNF
+Stack  5  -> DQVZ
+Stack  6  -> QM
+Stack  7  -> NQRGDFNHRM
+Stack  8  -> 
+------------------------
+Amount  7 Origin  8 Destination  5
+------------------------
+Stack  0  -> NDMQBPZDVSHDVFZGZMHFP
+Stack  1  -> CLZQMTQDFBTVH
+Stack  2  -> 
+Stack  3  -> G
+Stack  4  -> QBWNFGDFNHRM
+Stack  5  -> DQVZ
+Stack  6  -> QM
+Stack  7  -> NQR
+Stack  8  -> 
+------------------------
+Amount  3 Origin  6 Destination  8
+------------------------
+Stack  0  -> NDMQBPZDVSHDVFZGZMHFP
+Stack  1  -> CLZQMTQDFBTVH
+Stack  2  -> 
+Stack  3  -> G
+Stack  4  -> QBWNFGDFNHRM
+Stack  5  -> D
+Stack  6  -> QM
+Stack  7  -> NQRQVZ
+Stack  8  -> 
+------------------------
+Amount  11 Origin  2 Destination  1
+------------------------
+Stack  0  -> NDMQBPZDVSHDVFZGZMHFPZQMTQDFBTVH
+Stack  1  -> CL
+Stack  2  -> 
+Stack  3  -> G
+Stack  4  -> QBWNFGDFNHRM
+Stack  5  -> D
+Stack  6  -> QM
+Stack  7  -> NQRQVZ
+Stack  8  -> 
+------------------------
+Amount  1 Origin  4 Destination  3
+------------------------
+Stack  0  -> NDMQBPZDVSHDVFZGZMHFPZQMTQDFBTVH
+Stack  1  -> CL
+Stack  2  -> G
+Stack  3  -> 
+Stack  4  -> QBWNFGDFNHRM
+Stack  5  -> D
+Stack  6  -> QM
+Stack  7  -> NQRQVZ
+Stack  8  -> 
+------------------------
+Amount  1 Origin  3 Destination  9
+------------------------
+Stack  0  -> NDMQBPZDVSHDVFZGZMHFPZQMTQDFBTVH
+Stack  1  -> CL
+Stack  2  -> 
+Stack  3  -> 
+Stack  4  -> QBWNFGDFNHRM
+Stack  5  -> D
+Stack  6  -> QM
+Stack  7  -> NQRQVZ
+Stack  8  -> G
+------------------------
+Amount  2 Origin  2 Destination  9
+------------------------
+Stack  0  -> NDMQBPZDVSHDVFZGZMHFPZQMTQDFBTVH
+Stack  1  -> 
+Stack  2  -> 
+Stack  3  -> 
+Stack  4  -> QBWNFGDFNHRM
+Stack  5  -> D
+Stack  6  -> QM
+Stack  7  -> NQRQVZ
+Stack  8  -> GCL
+------------------------
+Amount  8 Origin  5 Destination  4
+------------------------
+Stack  0  -> NDMQBPZDVSHDVFZGZMHFPZQMTQDFBTVH
+Stack  1  -> 
+Stack  2  -> 
+Stack  3  -> FGDFNHRM
+Stack  4  -> QBWN
+Stack  5  -> D
+Stack  6  -> QM
+Stack  7  -> NQRQVZ
+Stack  8  -> GCL
+------------------------
+Amount  1 Origin  1 Destination  7
+------------------------
+Stack  0  -> NDMQBPZDVSHDVFZGZMHFPZQMTQDFBTV
+Stack  1  -> 
+Stack  2  -> 
+Stack  3  -> FGDFNHRM
+Stack  4  -> QBWN
+Stack  5  -> D
+Stack  6  -> QMH
+Stack  7  -> NQRQVZ
+Stack  8  -> GCL
+------------------------
+Amount  1 Origin  9 Destination  5
+------------------------
+Stack  0  -> NDMQBPZDVSHDVFZGZMHFPZQMTQDFBTV
+Stack  1  -> 
+Stack  2  -> 
+Stack  3  -> FGDFNHRM
+Stack  4  -> QBWNL
+Stack  5  -> D
+Stack  6  -> QMH
+Stack  7  -> NQRQVZ
+Stack  8  -> GC
+------------------------
+Amount  8 Origin  4 Destination  1
+------------------------
+Stack  0  -> NDMQBPZDVSHDVFZGZMHFPZQMTQDFBTVFGDFNHRM
+Stack  1  -> 
+Stack  2  -> 
+Stack  3  -> 
+Stack  4  -> QBWNL
+Stack  5  -> D
+Stack  6  -> QMH
+Stack  7  -> NQRQVZ
+Stack  8  -> GC
+------------------------
+Amount  1 Origin  6 Destination  8
+------------------------
+Stack  0  -> NDMQBPZDVSHDVFZGZMHFPZQMTQDFBTVFGDFNHRM
+Stack  1  -> 
+Stack  2  -> 
+Stack  3  -> 
+Stack  4  -> QBWNL
+Stack  5  -> 
+Stack  6  -> QMH
+Stack  7  -> NQRQVZD
+Stack  8  -> GC
+------------------------
+Amount  2 Origin  9 Destination  1
+------------------------
+Stack  0  -> NDMQBPZDVSHDVFZGZMHFPZQMTQDFBTVFGDFNHRMGC
+Stack  1  -> 
+Stack  2  -> 
+Stack  3  -> 
+Stack  4  -> QBWNL
+Stack  5  -> 
+Stack  6  -> QMH
+Stack  7  -> NQRQVZD
+Stack  8  -> 
+------------------------
+Amount  4 Origin  5 Destination  3
+------------------------
+Stack  0  -> NDMQBPZDVSHDVFZGZMHFPZQMTQDFBTVFGDFNHRMGC
+Stack  1  -> 
+Stack  2  -> BWNL
+Stack  3  -> 
+Stack  4  -> Q
+Stack  5  -> 
+Stack  6  -> QMH
+Stack  7  -> NQRQVZD
+Stack  8  -> 
+------------------------
+Amount  2 Origin  7 Destination  3
+------------------------
+Stack  0  -> NDMQBPZDVSHDVFZGZMHFPZQMTQDFBTVFGDFNHRMGC
+Stack  1  -> 
+Stack  2  -> BWNLMH
+Stack  3  -> 
+Stack  4  -> Q
+Stack  5  -> 
+Stack  6  -> Q
+Stack  7  -> NQRQVZD
+Stack  8  -> 
+------------------------
+Amount  40 Origin  1 Destination  2
+------------------------
+Stack  0  -> N
+Stack  1  -> DMQBPZDVSHDVFZGZMHFPZQMTQDFBTVFGDFNHRMGC
+Stack  2  -> BWNLMH
+Stack  3  -> 
+Stack  4  -> Q
+Stack  5  -> 
+Stack  6  -> Q
+Stack  7  -> NQRQVZD
+Stack  8  -> 
+------------------------
+Amount  24 Origin  2 Destination  9
+------------------------
+Stack  0  -> N
+Stack  1  -> DMQBPZDVSHDVFZGZ
+Stack  2  -> BWNLMH
+Stack  3  -> 
+Stack  4  -> Q
+Stack  5  -> 
+Stack  6  -> Q
+Stack  7  -> NQRQVZD
+Stack  8  -> MHFPZQMTQDFBTVFGDFNHRMGC
+------------------------
+Amount  1 Origin  5 Destination  6
+------------------------
+Stack  0  -> N
+Stack  1  -> DMQBPZDVSHDVFZGZ
+Stack  2  -> BWNLMH
+Stack  3  -> 
+Stack  4  -> 
+Stack  5  -> Q
+Stack  6  -> Q
+Stack  7  -> NQRQVZD
+Stack  8  -> MHFPZQMTQDFBTVFGDFNHRMGC
+------------------------
+Amount  11 Origin  2 Destination  3
+------------------------
+Stack  0  -> N
+Stack  1  -> DMQBP
+Stack  2  -> BWNLMHZDVSHDVFZGZ
+Stack  3  -> 
+Stack  4  -> 
+Stack  5  -> Q
+Stack  6  -> Q
+Stack  7  -> NQRQVZD
+Stack  8  -> MHFPZQMTQDFBTVFGDFNHRMGC
+------------------------
+Amount  9 Origin  3 Destination  5
+------------------------
+Stack  0  -> N
+Stack  1  -> DMQBP
+Stack  2  -> BWNLMHZD
+Stack  3  -> 
+Stack  4  -> VSHDVFZGZ
+Stack  5  -> Q
+Stack  6  -> Q
+Stack  7  -> NQRQVZD
+Stack  8  -> MHFPZQMTQDFBTVFGDFNHRMGC
+------------------------
+Amount  12 Origin  9 Destination  4
+------------------------
+Stack  0  -> N
+Stack  1  -> DMQBP
+Stack  2  -> BWNLMHZD
+Stack  3  -> TVFGDFNHRMGC
+Stack  4  -> VSHDVFZGZ
+Stack  5  -> Q
+Stack  6  -> Q
+Stack  7  -> NQRQVZD
+Stack  8  -> MHFPZQMTQDFB
+------------------------
+Amount  6 Origin  5 Destination  7
+------------------------
+Stack  0  -> N
+Stack  1  -> DMQBP
+Stack  2  -> BWNLMHZD
+Stack  3  -> TVFGDFNHRMGC
+Stack  4  -> VSH
+Stack  5  -> Q
+Stack  6  -> QDVFZGZ
+Stack  7  -> NQRQVZD
+Stack  8  -> MHFPZQMTQDFB
+------------------------
+Amount  4 Origin  7 Destination  4
+------------------------
+Stack  0  -> N
+Stack  1  -> DMQBP
+Stack  2  -> BWNLMHZD
+Stack  3  -> TVFGDFNHRMGCFZGZ
+Stack  4  -> VSH
+Stack  5  -> Q
+Stack  6  -> QDV
+Stack  7  -> NQRQVZD
+Stack  8  -> MHFPZQMTQDFB
+------------------------
+Amount  2 Origin  5 Destination  1
+------------------------
+Stack  0  -> NSH
+Stack  1  -> DMQBP
+Stack  2  -> BWNLMHZD
+Stack  3  -> TVFGDFNHRMGCFZGZ
+Stack  4  -> V
+Stack  5  -> Q
+Stack  6  -> QDV
+Stack  7  -> NQRQVZD
+Stack  8  -> MHFPZQMTQDFB
+------------------------
+Amount  2 Origin  1 Destination  9
+------------------------
+Stack  0  -> N
+Stack  1  -> DMQBP
+Stack  2  -> BWNLMHZD
+Stack  3  -> TVFGDFNHRMGCFZGZ
+Stack  4  -> V
+Stack  5  -> Q
+Stack  6  -> QDV
+Stack  7  -> NQRQVZD
+Stack  8  -> MHFPZQMTQDFBSH
+------------------------
+Amount  1 Origin  6 Destination  8
+------------------------
+Stack  0  -> N
+Stack  1  -> DMQBP
+Stack  2  -> BWNLMHZD
+Stack  3  -> TVFGDFNHRMGCFZGZ
+Stack  4  -> V
+Stack  5  -> 
+Stack  6  -> QDV
+Stack  7  -> NQRQVZDQ
+Stack  8  -> MHFPZQMTQDFBSH
+------------------------
+Amount  9 Origin  4 Destination  8
+------------------------
+Stack  0  -> N
+Stack  1  -> DMQBP
+Stack  2  -> BWNLMHZD
+Stack  3  -> TVFGDFN
+Stack  4  -> V
+Stack  5  -> 
+Stack  6  -> QDV
+Stack  7  -> NQRQVZDQHRMGCFZGZ
+Stack  8  -> MHFPZQMTQDFBSH
+------------------------
+Amount  6 Origin  4 Destination  9
+------------------------
+Stack  0  -> N
+Stack  1  -> DMQBP
+Stack  2  -> BWNLMHZD
+Stack  3  -> T
+Stack  4  -> V
+Stack  5  -> 
+Stack  6  -> QDV
+Stack  7  -> NQRQVZDQHRMGCFZGZ
+Stack  8  -> MHFPZQMTQDFBSHVFGDFN
+------------------------
+Amount  17 Origin  9 Destination  6
+------------------------
+Stack  0  -> N
+Stack  1  -> DMQBP
+Stack  2  -> BWNLMHZD
+Stack  3  -> T
+Stack  4  -> V
+Stack  5  -> PZQMTQDFBSHVFGDFN
+Stack  6  -> QDV
+Stack  7  -> NQRQVZDQHRMGCFZGZ
+Stack  8  -> MHF
+------------------------
+Amount  1 Origin  4 Destination  6
+------------------------
+Stack  0  -> N
+Stack  1  -> DMQBP
+Stack  2  -> BWNLMHZD
+Stack  3  -> 
+Stack  4  -> V
+Stack  5  -> PZQMTQDFBSHVFGDFNT
+Stack  6  -> QDV
+Stack  7  -> NQRQVZDQHRMGCFZGZ
+Stack  8  -> MHF
+------------------------
+Amount  17 Origin  6 Destination  5
+------------------------
+Stack  0  -> N
+Stack  1  -> DMQBP
+Stack  2  -> BWNLMHZD
+Stack  3  -> 
+Stack  4  -> VZQMTQDFBSHVFGDFNT
+Stack  5  -> P
+Stack  6  -> QDV
+Stack  7  -> NQRQVZDQHRMGCFZGZ
+Stack  8  -> MHF
+------------------------
+Amount  1 Origin  1 Destination  4
+------------------------
+Stack  0  -> 
+Stack  1  -> DMQBP
+Stack  2  -> BWNLMHZD
+Stack  3  -> N
+Stack  4  -> VZQMTQDFBSHVFGDFNT
+Stack  5  -> P
+Stack  6  -> QDV
+Stack  7  -> NQRQVZDQHRMGCFZGZ
+Stack  8  -> MHF
+------------------------
+Amount  2 Origin  7 Destination  9
+------------------------
+Stack  0  -> 
+Stack  1  -> DMQBP
+Stack  2  -> BWNLMHZD
+Stack  3  -> N
+Stack  4  -> VZQMTQDFBSHVFGDFNT
+Stack  5  -> P
+Stack  6  -> Q
+Stack  7  -> NQRQVZDQHRMGCFZGZ
+Stack  8  -> MHFDV
+------------------------
+Amount  1 Origin  6 Destination  7
+------------------------
+Stack  0  -> 
+Stack  1  -> DMQBP
+Stack  2  -> BWNLMHZD
+Stack  3  -> N
+Stack  4  -> VZQMTQDFBSHVFGDFNT
+Stack  5  -> 
+Stack  6  -> QP
+Stack  7  -> NQRQVZDQHRMGCFZGZ
+Stack  8  -> MHFDV
+------------------------
+Amount  2 Origin  2 Destination  9
+------------------------
+Stack  0  -> 
+Stack  1  -> DMQ
+Stack  2  -> BWNLMHZD
+Stack  3  -> N
+Stack  4  -> VZQMTQDFBSHVFGDFNT
+Stack  5  -> 
+Stack  6  -> QP
+Stack  7  -> NQRQVZDQHRMGCFZGZ
+Stack  8  -> MHFDVBP
+------------------------
+Amount  2 Origin  7 Destination  2
+------------------------
+Stack  0  -> 
+Stack  1  -> DMQQP
+Stack  2  -> BWNLMHZD
+Stack  3  -> N
+Stack  4  -> VZQMTQDFBSHVFGDFNT
+Stack  5  -> 
+Stack  6  -> 
+Stack  7  -> NQRQVZDQHRMGCFZGZ
+Stack  8  -> MHFDVBP
+------------------------
+Amount  6 Origin  3 Destination  8
+------------------------
+Stack  0  -> 
+Stack  1  -> DMQQP
+Stack  2  -> BW
+Stack  3  -> N
+Stack  4  -> VZQMTQDFBSHVFGDFNT
+Stack  5  -> 
+Stack  6  -> 
+Stack  7  -> NQRQVZDQHRMGCFZGZNLMHZD
+Stack  8  -> MHFDVBP
+------------------------
+Amount  3 Origin  5 Destination  9
+------------------------
+Stack  0  -> 
+Stack  1  -> DMQQP
+Stack  2  -> BW
+Stack  3  -> N
+Stack  4  -> VZQMTQDFBSHVFGD
+Stack  5  -> 
+Stack  6  -> 
+Stack  7  -> NQRQVZDQHRMGCFZGZNLMHZD
+Stack  8  -> MHFDVBPFNT
+------------------------
+Amount  1 Origin  4 Destination  9
+------------------------
+Stack  0  -> 
+Stack  1  -> DMQQP
+Stack  2  -> BW
+Stack  3  -> 
+Stack  4  -> VZQMTQDFBSHVFGD
+Stack  5  -> 
+Stack  6  -> 
+Stack  7  -> NQRQVZDQHRMGCFZGZNLMHZD
+Stack  8  -> MHFDVBPFNTN
+------------------------
+Amount  2 Origin  3 Destination  7
+------------------------
+Stack  0  -> 
+Stack  1  -> DMQQP
+Stack  2  -> 
+Stack  3  -> 
+Stack  4  -> VZQMTQDFBSHVFGD
+Stack  5  -> 
+Stack  6  -> BW
+Stack  7  -> NQRQVZDQHRMGCFZGZNLMHZD
+Stack  8  -> MHFDVBPFNTN
+------------------------
+Amount  4 Origin  5 Destination  6
+------------------------
+Stack  0  -> 
+Stack  1  -> DMQQP
+Stack  2  -> 
+Stack  3  -> 
+Stack  4  -> VZQMTQDFBSH
+Stack  5  -> VFGD
+Stack  6  -> BW
+Stack  7  -> NQRQVZDQHRMGCFZGZNLMHZD
+Stack  8  -> MHFDVBPFNTN
+------------------------
+Amount  1 Origin  7 Destination  4
+------------------------
+Stack  0  -> 
+Stack  1  -> DMQQP
+Stack  2  -> 
+Stack  3  -> W
+Stack  4  -> VZQMTQDFBSH
+Stack  5  -> VFGD
+Stack  6  -> B
+Stack  7  -> NQRQVZDQHRMGCFZGZNLMHZD
+Stack  8  -> MHFDVBPFNTN
+------------------------
+Amount  1 Origin  4 Destination  2
+------------------------
+Stack  0  -> 
+Stack  1  -> DMQQPW
+Stack  2  -> 
+Stack  3  -> 
+Stack  4  -> VZQMTQDFBSH
+Stack  5  -> VFGD
+Stack  6  -> B
+Stack  7  -> NQRQVZDQHRMGCFZGZNLMHZD
+Stack  8  -> MHFDVBPFNTN
+------------------------
+Amount  1 Origin  7 Destination  5
+------------------------
+Stack  0  -> 
+Stack  1  -> DMQQPW
+Stack  2  -> 
+Stack  3  -> 
+Stack  4  -> VZQMTQDFBSHB
+Stack  5  -> VFGD
+Stack  6  -> 
+Stack  7  -> NQRQVZDQHRMGCFZGZNLMHZD
+Stack  8  -> MHFDVBPFNTN
+------------------------
+Amount  9 Origin  8 Destination  1
+------------------------
+Stack  0  -> ZGZNLMHZD
+Stack  1  -> DMQQPW
+Stack  2  -> 
+Stack  3  -> 
+Stack  4  -> VZQMTQDFBSHB
+Stack  5  -> VFGD
+Stack  6  -> 
+Stack  7  -> NQRQVZDQHRMGCF
+Stack  8  -> MHFDVBPFNTN
+------------------------
+Amount  1 Origin  1 Destination  2
+------------------------
+Stack  0  -> ZGZNLMHZ
+Stack  1  -> DMQQPWD
+Stack  2  -> 
+Stack  3  -> 
+Stack  4  -> VZQMTQDFBSHB
+Stack  5  -> VFGD
+Stack  6  -> 
+Stack  7  -> NQRQVZDQHRMGCF
+Stack  8  -> MHFDVBPFNTN
+------------------------
+Amount  2 Origin  9 Destination  3
+------------------------
+Stack  0  -> ZGZNLMHZ
+Stack  1  -> DMQQPWD
+Stack  2  -> TN
+Stack  3  -> 
+Stack  4  -> VZQMTQDFBSHB
+Stack  5  -> VFGD
+Stack  6  -> 
+Stack  7  -> NQRQVZDQHRMGCF
+Stack  8  -> MHFDVBPFN
+------------------------
+Amount  7 Origin  2 Destination  7
+------------------------
+Stack  0  -> ZGZNLMHZ
+Stack  1  -> 
+Stack  2  -> TN
+Stack  3  -> 
+Stack  4  -> VZQMTQDFBSHB
+Stack  5  -> VFGD
+Stack  6  -> DMQQPWD
+Stack  7  -> NQRQVZDQHRMGCF
+Stack  8  -> MHFDVBPFN
+------------------------
+Amount  1 Origin  9 Destination  5
+------------------------
+Stack  0  -> ZGZNLMHZ
+Stack  1  -> 
+Stack  2  -> TN
+Stack  3  -> 
+Stack  4  -> VZQMTQDFBSHBN
+Stack  5  -> VFGD
+Stack  6  -> DMQQPWD
+Stack  7  -> NQRQVZDQHRMGCF
+Stack  8  -> MHFDVBPF
+------------------------
+Amount  12 Origin  8 Destination  7
+------------------------
+Stack  0  -> ZGZNLMHZ
+Stack  1  -> 
+Stack  2  -> TN
+Stack  3  -> 
+Stack  4  -> VZQMTQDFBSHBN
+Stack  5  -> VFGD
+Stack  6  -> DMQQPWDRQVZDQHRMGCF
+Stack  7  -> NQ
+Stack  8  -> MHFDVBPF
+------------------------
+Amount  3 Origin  1 Destination  9
+------------------------
+Stack  0  -> ZGZNL
+Stack  1  -> 
+Stack  2  -> TN
+Stack  3  -> 
+Stack  4  -> VZQMTQDFBSHBN
+Stack  5  -> VFGD
+Stack  6  -> DMQQPWDRQVZDQHRMGCF
+Stack  7  -> NQ
+Stack  8  -> MHFDVBPFMHZ
+------------------------
+Amount  2 Origin  6 Destination  4
+------------------------
+Stack  0  -> ZGZNL
+Stack  1  -> 
+Stack  2  -> TN
+Stack  3  -> GD
+Stack  4  -> VZQMTQDFBSHBN
+Stack  5  -> VF
+Stack  6  -> DMQQPWDRQVZDQHRMGCF
+Stack  7  -> NQ
+Stack  8  -> MHFDVBPFMHZ
+------------------------
+Amount  9 Origin  9 Destination  3
+------------------------
+Stack  0  -> ZGZNL
+Stack  1  -> 
+Stack  2  -> TNFDVBPFMHZ
+Stack  3  -> GD
+Stack  4  -> VZQMTQDFBSHBN
+Stack  5  -> VF
+Stack  6  -> DMQQPWDRQVZDQHRMGCF
+Stack  7  -> NQ
+Stack  8  -> MH
+------------------------
+Amount  1 Origin  6 Destination  7
+------------------------
+Stack  0  -> ZGZNL
+Stack  1  -> 
+Stack  2  -> TNFDVBPFMHZ
+Stack  3  -> GD
+Stack  4  -> VZQMTQDFBSHBN
+Stack  5  -> V
+Stack  6  -> DMQQPWDRQVZDQHRMGCFF
+Stack  7  -> NQ
+Stack  8  -> MH
+------------------------
+Amount  1 Origin  9 Destination  5
+------------------------
+Stack  0  -> ZGZNL
+Stack  1  -> 
+Stack  2  -> TNFDVBPFMHZ
+Stack  3  -> GD
+Stack  4  -> VZQMTQDFBSHBNH
+Stack  5  -> V
+Stack  6  -> DMQQPWDRQVZDQHRMGCFF
+Stack  7  -> NQ
+Stack  8  -> M
+------------------------
+Amount  1 Origin  6 Destination  1
+------------------------
+Stack  0  -> ZGZNLV
+Stack  1  -> 
+Stack  2  -> TNFDVBPFMHZ
+Stack  3  -> GD
+Stack  4  -> VZQMTQDFBSHBNH
+Stack  5  -> 
+Stack  6  -> DMQQPWDRQVZDQHRMGCFF
+Stack  7  -> NQ
+Stack  8  -> M
+------------------------
+Amount  9 Origin  7 Destination  1
+------------------------
+Stack  0  -> ZGZNLVDQHRMGCFF
+Stack  1  -> 
+Stack  2  -> TNFDVBPFMHZ
+Stack  3  -> GD
+Stack  4  -> VZQMTQDFBSHBNH
+Stack  5  -> 
+Stack  6  -> DMQQPWDRQVZ
+Stack  7  -> NQ
+Stack  8  -> M
+------------------------
+Amount  7 Origin  1 Destination  8
+------------------------
+Stack  0  -> ZGZNLVDQ
+Stack  1  -> 
+Stack  2  -> TNFDVBPFMHZ
+Stack  3  -> GD
+Stack  4  -> VZQMTQDFBSHBNH
+Stack  5  -> 
+Stack  6  -> DMQQPWDRQVZ
+Stack  7  -> NQHRMGCFF
+Stack  8  -> M
+------------------------
+Amount  4 Origin  3 Destination  9
+------------------------
+Stack  0  -> ZGZNLVDQ
+Stack  1  -> 
+Stack  2  -> TNFDVBP
+Stack  3  -> GD
+Stack  4  -> VZQMTQDFBSHBNH
+Stack  5  -> 
+Stack  6  -> DMQQPWDRQVZ
+Stack  7  -> NQHRMGCFF
+Stack  8  -> MFMHZ
+------------------------
+Amount  5 Origin  7 Destination  1
+------------------------
+Stack  0  -> ZGZNLVDQDRQVZ
+Stack  1  -> 
+Stack  2  -> TNFDVBP
+Stack  3  -> GD
+Stack  4  -> VZQMTQDFBSHBNH
+Stack  5  -> 
+Stack  6  -> DMQQPW
+Stack  7  -> NQHRMGCFF
+Stack  8  -> MFMHZ
+------------------------
+Amount  3 Origin  9 Destination  1
+------------------------
+Stack  0  -> ZGZNLVDQDRQVZMHZ
+Stack  1  -> 
+Stack  2  -> TNFDVBP
+Stack  3  -> GD
+Stack  4  -> VZQMTQDFBSHBNH
+Stack  5  -> 
+Stack  6  -> DMQQPW
+Stack  7  -> NQHRMGCFF
+Stack  8  -> MF
+------------------------
+Amount  4 Origin  7 Destination  2
+------------------------
+Stack  0  -> ZGZNLVDQDRQVZMHZ
+Stack  1  -> QQPW
+Stack  2  -> TNFDVBP
+Stack  3  -> GD
+Stack  4  -> VZQMTQDFBSHBNH
+Stack  5  -> 
+Stack  6  -> DM
+Stack  7  -> NQHRMGCFF
+Stack  8  -> MF
+------------------------
+Amount  12 Origin  1 Destination  5
+------------------------
+Stack  0  -> ZGZN
+Stack  1  -> QQPW
+Stack  2  -> TNFDVBP
+Stack  3  -> GD
+Stack  4  -> VZQMTQDFBSHBNHLVDQDRQVZMHZ
+Stack  5  -> 
+Stack  6  -> DM
+Stack  7  -> NQHRMGCFF
+Stack  8  -> MF
+------------------------
+Amount  2 Origin  9 Destination  4
+------------------------
+Stack  0  -> ZGZN
+Stack  1  -> QQPW
+Stack  2  -> TNFDVBP
+Stack  3  -> GDMF
+Stack  4  -> VZQMTQDFBSHBNHLVDQDRQVZMHZ
+Stack  5  -> 
+Stack  6  -> DM
+Stack  7  -> NQHRMGCFF
+Stack  8  -> 
+------------------------
+Amount  7 Origin  8 Destination  2
+------------------------
+Stack  0  -> ZGZN
+Stack  1  -> QQPWHRMGCFF
+Stack  2  -> TNFDVBP
+Stack  3  -> GDMF
+Stack  4  -> VZQMTQDFBSHBNHLVDQDRQVZMHZ
+Stack  5  -> 
+Stack  6  -> DM
+Stack  7  -> NQ
+Stack  8  -> 
+------------------------
+Amount  7 Origin  5 Destination  7
+------------------------
+Stack  0  -> ZGZN
+Stack  1  -> QQPWHRMGCFF
+Stack  2  -> TNFDVBP
+Stack  3  -> GDMF
+Stack  4  -> VZQMTQDFBSHBNHLVDQD
+Stack  5  -> 
+Stack  6  -> DMRQVZMHZ
+Stack  7  -> NQ
+Stack  8  -> 
+------------------------
+Amount  4 Origin  3 Destination  4
+------------------------
+Stack  0  -> ZGZN
+Stack  1  -> QQPWHRMGCFF
+Stack  2  -> TNF
+Stack  3  -> GDMFDVBP
+Stack  4  -> VZQMTQDFBSHBNHLVDQD
+Stack  5  -> 
+Stack  6  -> DMRQVZMHZ
+Stack  7  -> NQ
+Stack  8  -> 
+------------------------
+Amount  1 Origin  8 Destination  1
+------------------------
+Stack  0  -> ZGZNQ
+Stack  1  -> QQPWHRMGCFF
+Stack  2  -> TNF
+Stack  3  -> GDMFDVBP
+Stack  4  -> VZQMTQDFBSHBNHLVDQD
+Stack  5  -> 
+Stack  6  -> DMRQVZMHZ
+Stack  7  -> N
+Stack  8  -> 
+------------------------
+Amount  2 Origin  2 Destination  1
+------------------------
+Stack  0  -> ZGZNQFF
+Stack  1  -> QQPWHRMGC
+Stack  2  -> TNF
+Stack  3  -> GDMFDVBP
+Stack  4  -> VZQMTQDFBSHBNHLVDQD
+Stack  5  -> 
+Stack  6  -> DMRQVZMHZ
+Stack  7  -> N
+Stack  8  -> 
+------------------------
+Amount  2 Origin  3 Destination  1
+------------------------
+Stack  0  -> ZGZNQFFNF
+Stack  1  -> QQPWHRMGC
+Stack  2  -> T
+Stack  3  -> GDMFDVBP
+Stack  4  -> VZQMTQDFBSHBNHLVDQD
+Stack  5  -> 
+Stack  6  -> DMRQVZMHZ
+Stack  7  -> N
+Stack  8  -> 
+------------------------
+Amount  3 Origin  2 Destination  7
+------------------------
+Stack  0  -> ZGZNQFFNF
+Stack  1  -> QQPWHR
+Stack  2  -> T
+Stack  3  -> GDMFDVBP
+Stack  4  -> VZQMTQDFBSHBNHLVDQD
+Stack  5  -> 
+Stack  6  -> DMRQVZMHZMGC
+Stack  7  -> N
+Stack  8  -> 
+------------------------
+Amount  13 Origin  5 Destination  4
+------------------------
+Stack  0  -> ZGZNQFFNF
+Stack  1  -> QQPWHR
+Stack  2  -> T
+Stack  3  -> GDMFDVBPDFBSHBNHLVDQD
+Stack  4  -> VZQMTQ
+Stack  5  -> 
+Stack  6  -> DMRQVZMHZMGC
+Stack  7  -> N
+Stack  8  -> 
+------------------------
+Amount  1 Origin  8 Destination  3
+------------------------
+Stack  0  -> ZGZNQFFNF
+Stack  1  -> QQPWHR
+Stack  2  -> TN
+Stack  3  -> GDMFDVBPDFBSHBNHLVDQD
+Stack  4  -> VZQMTQ
+Stack  5  -> 
+Stack  6  -> DMRQVZMHZMGC
+Stack  7  -> 
+Stack  8  -> 
+------------------------
+Amount  1 Origin  3 Destination  8
+------------------------
+Stack  0  -> ZGZNQFFNF
+Stack  1  -> QQPWHR
+Stack  2  -> T
+Stack  3  -> GDMFDVBPDFBSHBNHLVDQD
+Stack  4  -> VZQMTQ
+Stack  5  -> 
+Stack  6  -> DMRQVZMHZMGC
+Stack  7  -> N
+Stack  8  -> 
+------------------------
+Amount  1 Origin  3 Destination  5
+------------------------
+Stack  0  -> ZGZNQFFNF
+Stack  1  -> QQPWHR
+Stack  2  -> 
+Stack  3  -> GDMFDVBPDFBSHBNHLVDQD
+Stack  4  -> VZQMTQT
+Stack  5  -> 
+Stack  6  -> DMRQVZMHZMGC
+Stack  7  -> N
+Stack  8  -> 
+------------------------
+Amount  1 Origin  8 Destination  7
+------------------------
+Stack  0  -> ZGZNQFFNF
+Stack  1  -> QQPWHR
+Stack  2  -> 
+Stack  3  -> GDMFDVBPDFBSHBNHLVDQD
+Stack  4  -> VZQMTQT
+Stack  5  -> 
+Stack  6  -> DMRQVZMHZMGCN
+Stack  7  -> 
+Stack  8  -> 
+------------------------
+Amount  17 Origin  4 Destination  8
+------------------------
+Stack  0  -> ZGZNQFFNF
+Stack  1  -> QQPWHR
+Stack  2  -> 
+Stack  3  -> GDMF
+Stack  4  -> VZQMTQT
+Stack  5  -> 
+Stack  6  -> DMRQVZMHZMGCN
+Stack  7  -> DVBPDFBSHBNHLVDQD
+Stack  8  -> 
+------------------------
+Amount  5 Origin  2 Destination  6
+------------------------
+Stack  0  -> ZGZNQFFNF
+Stack  1  -> Q
+Stack  2  -> 
+Stack  3  -> GDMF
+Stack  4  -> VZQMTQT
+Stack  5  -> QPWHR
+Stack  6  -> DMRQVZMHZMGCN
+Stack  7  -> DVBPDFBSHBNHLVDQD
+Stack  8  -> 
+------------------------
+Amount  2 Origin  1 Destination  6
+------------------------
+Stack  0  -> ZGZNQFF
+Stack  1  -> Q
+Stack  2  -> 
+Stack  3  -> GDMF
+Stack  4  -> VZQMTQT
+Stack  5  -> QPWHRNF
+Stack  6  -> DMRQVZMHZMGCN
+Stack  7  -> DVBPDFBSHBNHLVDQD
+Stack  8  -> 
+------------------------
+Amount  5 Origin  6 Destination  3
+------------------------
+Stack  0  -> ZGZNQFF
+Stack  1  -> Q
+Stack  2  -> WHRNF
+Stack  3  -> GDMF
+Stack  4  -> VZQMTQT
+Stack  5  -> QP
+Stack  6  -> DMRQVZMHZMGCN
+Stack  7  -> DVBPDFBSHBNHLVDQD
+Stack  8  -> 
+------------------------
+Amount  9 Origin  7 Destination  1
+------------------------
+Stack  0  -> ZGZNQFFVZMHZMGCN
+Stack  1  -> Q
+Stack  2  -> WHRNF
+Stack  3  -> GDMF
+Stack  4  -> VZQMTQT
+Stack  5  -> QP
+Stack  6  -> DMRQ
+Stack  7  -> DVBPDFBSHBNHLVDQD
+Stack  8  -> 
+------------------------
+Amount  4 Origin  4 Destination  3
+------------------------
+Stack  0  -> ZGZNQFFVZMHZMGCN
+Stack  1  -> Q
+Stack  2  -> WHRNFGDMF
+Stack  3  -> 
+Stack  4  -> VZQMTQT
+Stack  5  -> QP
+Stack  6  -> DMRQ
+Stack  7  -> DVBPDFBSHBNHLVDQD
+Stack  8  -> 
+------------------------
+Amount  1 Origin  6 Destination  2
+------------------------
+Stack  0  -> ZGZNQFFVZMHZMGCN
+Stack  1  -> QP
+Stack  2  -> WHRNFGDMF
+Stack  3  -> 
+Stack  4  -> VZQMTQT
+Stack  5  -> Q
+Stack  6  -> DMRQ
+Stack  7  -> DVBPDFBSHBNHLVDQD
+Stack  8  -> 
+------------------------
+Amount  4 Origin  7 Destination  4
+------------------------
+Stack  0  -> ZGZNQFFVZMHZMGCN
+Stack  1  -> QP
+Stack  2  -> WHRNFGDMF
+Stack  3  -> DMRQ
+Stack  4  -> VZQMTQT
+Stack  5  -> Q
+Stack  6  -> 
+Stack  7  -> DVBPDFBSHBNHLVDQD
+Stack  8  -> 
+------------------------
+Amount  1 Origin  6 Destination  5
+------------------------
+Stack  0  -> ZGZNQFFVZMHZMGCN
+Stack  1  -> QP
+Stack  2  -> WHRNFGDMF
+Stack  3  -> DMRQ
+Stack  4  -> VZQMTQTQ
+Stack  5  -> 
+Stack  6  -> 
+Stack  7  -> DVBPDFBSHBNHLVDQD
+Stack  8  -> 
+------------------------
+Amount  2 Origin  3 Destination  2
+------------------------
+Stack  0  -> ZGZNQFFVZMHZMGCN
+Stack  1  -> QPMF
+Stack  2  -> WHRNFGD
+Stack  3  -> DMRQ
+Stack  4  -> VZQMTQTQ
+Stack  5  -> 
+Stack  6  -> 
+Stack  7  -> DVBPDFBSHBNHLVDQD
+Stack  8  -> 
+------------------------
+Amount  15 Origin  1 Destination  4
+------------------------
+Stack  0  -> Z
+Stack  1  -> QPMF
+Stack  2  -> WHRNFGD
+Stack  3  -> DMRQGZNQFFVZMHZMGCN
+Stack  4  -> VZQMTQTQ
+Stack  5  -> 
+Stack  6  -> 
+Stack  7  -> DVBPDFBSHBNHLVDQD
+Stack  8  -> 
+------------------------
+Amount  6 Origin  5 Destination  4
+------------------------
+Stack  0  -> Z
+Stack  1  -> QPMF
+Stack  2  -> WHRNFGD
+Stack  3  -> DMRQGZNQFFVZMHZMGCNQMTQTQ
+Stack  4  -> VZ
+Stack  5  -> 
+Stack  6  -> 
+Stack  7  -> DVBPDFBSHBNHLVDQD
+Stack  8  -> 
+------------------------
+Amount  4 Origin  3 Destination  5
+------------------------
+Stack  0  -> Z
+Stack  1  -> QPMF
+Stack  2  -> WHR
+Stack  3  -> DMRQGZNQFFVZMHZMGCNQMTQTQ
+Stack  4  -> VZNFGD
+Stack  5  -> 
+Stack  6  -> 
+Stack  7  -> DVBPDFBSHBNHLVDQD
+Stack  8  -> 
+------------------------
+Amount  4 Origin  5 Destination  2
+------------------------
+Stack  0  -> Z
+Stack  1  -> QPMFNFGD
+Stack  2  -> WHR
+Stack  3  -> DMRQGZNQFFVZMHZMGCNQMTQTQ
+Stack  4  -> VZ
+Stack  5  -> 
+Stack  6  -> 
+Stack  7  -> DVBPDFBSHBNHLVDQD
+Stack  8  -> 
+------------------------
+Amount  2 Origin  2 Destination  4
+------------------------
+Stack  0  -> Z
+Stack  1  -> QPMFNF
+Stack  2  -> WHR
+Stack  3  -> DMRQGZNQFFVZMHZMGCNQMTQTQGD
+Stack  4  -> VZ
+Stack  5  -> 
+Stack  6  -> 
+Stack  7  -> DVBPDFBSHBNHLVDQD
+Stack  8  -> 
+------------------------
+Amount  11 Origin  8 Destination  1
+------------------------
+Stack  0  -> ZBSHBNHLVDQD
+Stack  1  -> QPMFNF
+Stack  2  -> WHR
+Stack  3  -> DMRQGZNQFFVZMHZMGCNQMTQTQGD
+Stack  4  -> VZ
+Stack  5  -> 
+Stack  6  -> 
+Stack  7  -> DVBPDF
+Stack  8  -> 
+------------------------
+Amount  2 Origin  8 Destination  3
+------------------------
+Stack  0  -> ZBSHBNHLVDQD
+Stack  1  -> QPMFNF
+Stack  2  -> WHRDF
+Stack  3  -> DMRQGZNQFFVZMHZMGCNQMTQTQGD
+Stack  4  -> VZ
+Stack  5  -> 
+Stack  6  -> 
+Stack  7  -> DVBP
+Stack  8  -> 
+------------------------
+Amount  5 Origin  3 Destination  7
+------------------------
+Stack  0  -> ZBSHBNHLVDQD
+Stack  1  -> QPMFNF
+Stack  2  -> 
+Stack  3  -> DMRQGZNQFFVZMHZMGCNQMTQTQGD
+Stack  4  -> VZ
+Stack  5  -> 
+Stack  6  -> WHRDF
+Stack  7  -> DVBP
+Stack  8  -> 
+------------------------
+Amount  4 Origin  2 Destination  8
+------------------------
+Stack  0  -> ZBSHBNHLVDQD
+Stack  1  -> QP
+Stack  2  -> 
+Stack  3  -> DMRQGZNQFFVZMHZMGCNQMTQTQGD
+Stack  4  -> VZ
+Stack  5  -> 
+Stack  6  -> WHRDF
+Stack  7  -> DVBPMFNF
+Stack  8  -> 
+------------------------
+Amount  2 Origin  2 Destination  9
+------------------------
+Stack  0  -> ZBSHBNHLVDQD
+Stack  1  -> 
+Stack  2  -> 
+Stack  3  -> DMRQGZNQFFVZMHZMGCNQMTQTQGD
+Stack  4  -> VZ
+Stack  5  -> 
+Stack  6  -> WHRDF
+Stack  7  -> DVBPMFNF
+Stack  8  -> QP
+------------------------
+Amount  4 Origin  7 Destination  8
+------------------------
+Stack  0  -> ZBSHBNHLVDQD
+Stack  1  -> 
+Stack  2  -> 
+Stack  3  -> DMRQGZNQFFVZMHZMGCNQMTQTQGD
+Stack  4  -> VZ
+Stack  5  -> 
+Stack  6  -> W
+Stack  7  -> DVBPMFNFHRDF
+Stack  8  -> QP
+------------------------
+Amount  11 Origin  4 Destination  6
+------------------------
+Stack  0  -> ZBSHBNHLVDQD
+Stack  1  -> 
+Stack  2  -> 
+Stack  3  -> DMRQGZNQFFVZMHZM
+Stack  4  -> VZ
+Stack  5  -> GCNQMTQTQGD
+Stack  6  -> W
+Stack  7  -> DVBPMFNFHRDF
+Stack  8  -> QP
+------------------------
+Amount  2 Origin  5 Destination  4
+------------------------
+Stack  0  -> ZBSHBNHLVDQD
+Stack  1  -> 
+Stack  2  -> 
+Stack  3  -> DMRQGZNQFFVZMHZMVZ
+Stack  4  -> 
+Stack  5  -> GCNQMTQTQGD
+Stack  6  -> W
+Stack  7  -> DVBPMFNFHRDF
+Stack  8  -> QP
+------------------------
+Amount  3 Origin  6 Destination  9
+------------------------
+Stack  0  -> ZBSHBNHLVDQD
+Stack  1  -> 
+Stack  2  -> 
+Stack  3  -> DMRQGZNQFFVZMHZMVZ
+Stack  4  -> 
+Stack  5  -> GCNQMTQT
+Stack  6  -> W
+Stack  7  -> DVBPMFNFHRDF
+Stack  8  -> QPQGD
+------------------------
+Amount  4 Origin  1 Destination  4
+------------------------
+Stack  0  -> ZBSHBNHL
+Stack  1  -> 
+Stack  2  -> 
+Stack  3  -> DMRQGZNQFFVZMHZMVZVDQD
+Stack  4  -> 
+Stack  5  -> GCNQMTQT
+Stack  6  -> W
+Stack  7  -> DVBPMFNFHRDF
+Stack  8  -> QPQGD
+------------------------
+Amount  15 Origin  4 Destination  9
+------------------------
+Stack  0  -> ZBSHBNHL
+Stack  1  -> 
+Stack  2  -> 
+Stack  3  -> DMRQGZN
+Stack  4  -> 
+Stack  5  -> GCNQMTQT
+Stack  6  -> W
+Stack  7  -> DVBPMFNFHRDF
+Stack  8  -> QPQGDQFFVZMHZMVZVDQD
+------------------------
+Amount  1 Origin  7 Destination  3
+------------------------
+Stack  0  -> ZBSHBNHL
+Stack  1  -> 
+Stack  2  -> W
+Stack  3  -> DMRQGZN
+Stack  4  -> 
+Stack  5  -> GCNQMTQT
+Stack  6  -> 
+Stack  7  -> DVBPMFNFHRDF
+Stack  8  -> QPQGDQFFVZMHZMVZVDQD
+------------------------
+Amount  2 Origin  1 Destination  2
+------------------------
+Stack  0  -> ZBSHBN
+Stack  1  -> HL
+Stack  2  -> W
+Stack  3  -> DMRQGZN
+Stack  4  -> 
+Stack  5  -> GCNQMTQT
+Stack  6  -> 
+Stack  7  -> DVBPMFNFHRDF
+Stack  8  -> QPQGDQFFVZMHZMVZVDQD
+------------------------
+Amount  6 Origin  4 Destination  5
+------------------------
+Stack  0  -> ZBSHBN
+Stack  1  -> HL
+Stack  2  -> W
+Stack  3  -> D
+Stack  4  -> MRQGZN
+Stack  5  -> GCNQMTQT
+Stack  6  -> 
+Stack  7  -> DVBPMFNFHRDF
+Stack  8  -> QPQGDQFFVZMHZMVZVDQD
+------------------------
+Amount  11 Origin  8 Destination  2
+------------------------
+Stack  0  -> ZBSHBN
+Stack  1  -> HLVBPMFNFHRDF
+Stack  2  -> W
+Stack  3  -> D
+Stack  4  -> MRQGZN
+Stack  5  -> GCNQMTQT
+Stack  6  -> 
+Stack  7  -> D
+Stack  8  -> QPQGDQFFVZMHZMVZVDQD
+------------------------
+Amount  16 Origin  9 Destination  4
+------------------------
+Stack  0  -> ZBSHBN
+Stack  1  -> HLVBPMFNFHRDF
+Stack  2  -> W
+Stack  3  -> DDQFFVZMHZMVZVDQD
+Stack  4  -> MRQGZN
+Stack  5  -> GCNQMTQT
+Stack  6  -> 
+Stack  7  -> D
+Stack  8  -> QPQG
+------------------------
+Amount  2 Origin  9 Destination  1
+------------------------
+Stack  0  -> ZBSHBNQG
+Stack  1  -> HLVBPMFNFHRDF
+Stack  2  -> W
+Stack  3  -> DDQFFVZMHZMVZVDQD
+Stack  4  -> MRQGZN
+Stack  5  -> GCNQMTQT
+Stack  6  -> 
+Stack  7  -> D
+Stack  8  -> QP
+------------------------
+Amount  4 Origin  2 Destination  3
+------------------------
+Stack  0  -> ZBSHBNQG
+Stack  1  -> HLVBPMFNF
+Stack  2  -> WHRDF
+Stack  3  -> DDQFFVZMHZMVZVDQD
+Stack  4  -> MRQGZN
+Stack  5  -> GCNQMTQT
+Stack  6  -> 
+Stack  7  -> D
+Stack  8  -> QP
+------------------------
+Amount  8 Origin  4 Destination  9
+------------------------
+Stack  0  -> ZBSHBNQG
+Stack  1  -> HLVBPMFNF
+Stack  2  -> WHRDF
+Stack  3  -> DDQFFVZMH
+Stack  4  -> MRQGZN
+Stack  5  -> GCNQMTQT
+Stack  6  -> 
+Stack  7  -> D
+Stack  8  -> QPZMVZVDQD
+------------------------
+Amount  1 Origin  8 Destination  7
+------------------------
+Stack  0  -> ZBSHBNQG
+Stack  1  -> HLVBPMFNF
+Stack  2  -> WHRDF
+Stack  3  -> DDQFFVZMH
+Stack  4  -> MRQGZN
+Stack  5  -> GCNQMTQT
+Stack  6  -> D
+Stack  7  -> 
+Stack  8  -> QPZMVZVDQD
+------------------------
+Amount  5 Origin  4 Destination  7
+------------------------
+Stack  0  -> ZBSHBNQG
+Stack  1  -> HLVBPMFNF
+Stack  2  -> WHRDF
+Stack  3  -> DDQF
+Stack  4  -> MRQGZN
+Stack  5  -> GCNQMTQT
+Stack  6  -> DFVZMH
+Stack  7  -> 
+Stack  8  -> QPZMVZVDQD
+------------------------
+Amount  6 Origin  7 Destination  3
+------------------------
+Stack  0  -> ZBSHBNQG
+Stack  1  -> HLVBPMFNF
+Stack  2  -> WHRDFDFVZMH
+Stack  3  -> DDQF
+Stack  4  -> MRQGZN
+Stack  5  -> GCNQMTQT
+Stack  6  -> 
+Stack  7  -> 
+Stack  8  -> QPZMVZVDQD
+------------------------
+Amount  10 Origin  9 Destination  5
+------------------------
+Stack  0  -> ZBSHBNQG
+Stack  1  -> HLVBPMFNF
+Stack  2  -> WHRDFDFVZMH
+Stack  3  -> DDQF
+Stack  4  -> MRQGZNQPZMVZVDQD
+Stack  5  -> GCNQMTQT
+Stack  6  -> 
+Stack  7  -> 
+Stack  8  -> 
+------------------------
+Amount  5 Origin  3 Destination  1
+------------------------
+Stack  0  -> ZBSHBNQGFVZMH
+Stack  1  -> HLVBPMFNF
+Stack  2  -> WHRDFD
+Stack  3  -> DDQF
+Stack  4  -> MRQGZNQPZMVZVDQD
+Stack  5  -> GCNQMTQT
+Stack  6  -> 
+Stack  7  -> 
+Stack  8  -> 
+------------------------
+Amount  1 Origin  1 Destination  4
+------------------------
+Stack  0  -> ZBSHBNQGFVZM
+Stack  1  -> HLVBPMFNF
+Stack  2  -> WHRDFD
+Stack  3  -> DDQFH
+Stack  4  -> MRQGZNQPZMVZVDQD
+Stack  5  -> GCNQMTQT
+Stack  6  -> 
+Stack  7  -> 
+Stack  8  -> 
+------------------------
+Amount  5 Origin  1 Destination  9
+------------------------
+Stack  0  -> ZBSHBNQ
+Stack  1  -> HLVBPMFNF
+Stack  2  -> WHRDFD
+Stack  3  -> DDQFH
+Stack  4  -> MRQGZNQPZMVZVDQD
+Stack  5  -> GCNQMTQT
+Stack  6  -> 
+Stack  7  -> 
+Stack  8  -> GFVZM
+------------------------
+Amount  5 Origin  1 Destination  7
+------------------------
+Stack  0  -> ZB
+Stack  1  -> HLVBPMFNF
+Stack  2  -> WHRDFD
+Stack  3  -> DDQFH
+Stack  4  -> MRQGZNQPZMVZVDQD
+Stack  5  -> GCNQMTQT
+Stack  6  -> SHBNQ
+Stack  7  -> 
+Stack  8  -> GFVZM
+------------------------
+Amount  5 Origin  4 Destination  1
+------------------------
+Stack  0  -> ZBDDQFH
+Stack  1  -> HLVBPMFNF
+Stack  2  -> WHRDFD
+Stack  3  -> 
+Stack  4  -> MRQGZNQPZMVZVDQD
+Stack  5  -> GCNQMTQT
+Stack  6  -> SHBNQ
+Stack  7  -> 
+Stack  8  -> GFVZM
+------------------------
+Amount  4 Origin  1 Destination  6
+------------------------
+Stack  0  -> ZBD
+Stack  1  -> HLVBPMFNF
+Stack  2  -> WHRDFD
+Stack  3  -> 
+Stack  4  -> MRQGZNQPZMVZVDQD
+Stack  5  -> GCNQMTQTDQFH
+Stack  6  -> SHBNQ
+Stack  7  -> 
+Stack  8  -> GFVZM
+------------------------
+Amount  3 Origin  1 Destination  9
+------------------------
+Stack  0  -> 
+Stack  1  -> HLVBPMFNF
+Stack  2  -> WHRDFD
+Stack  3  -> 
+Stack  4  -> MRQGZNQPZMVZVDQD
+Stack  5  -> GCNQMTQTDQFH
+Stack  6  -> SHBNQ
+Stack  7  -> 
+Stack  8  -> GFVZMZBD
+------------------------
+Amount  10 Origin  5 Destination  9
+------------------------
+Stack  0  -> 
+Stack  1  -> HLVBPMFNF
+Stack  2  -> WHRDFD
+Stack  3  -> 
+Stack  4  -> MRQGZN
+Stack  5  -> GCNQMTQTDQFH
+Stack  6  -> SHBNQ
+Stack  7  -> 
+Stack  8  -> GFVZMZBDQPZMVZVDQD
+------------------------
+Amount  2 Origin  7 Destination  1
+------------------------
+Stack  0  -> NQ
+Stack  1  -> HLVBPMFNF
+Stack  2  -> WHRDFD
+Stack  3  -> 
+Stack  4  -> MRQGZN
+Stack  5  -> GCNQMTQTDQFH
+Stack  6  -> SHB
+Stack  7  -> 
+Stack  8  -> GFVZMZBDQPZMVZVDQD
+------------------------
+Amount  5 Origin  3 Destination  6
+------------------------
+Stack  0  -> NQ
+Stack  1  -> HLVBPMFNF
+Stack  2  -> W
+Stack  3  -> 
+Stack  4  -> MRQGZN
+Stack  5  -> GCNQMTQTDQFHHRDFD
+Stack  6  -> SHB
+Stack  7  -> 
+Stack  8  -> GFVZMZBDQPZMVZVDQD
+------------------------
+Amount  4 Origin  5 Destination  7
+------------------------
+Stack  0  -> NQ
+Stack  1  -> HLVBPMFNF
+Stack  2  -> W
+Stack  3  -> 
+Stack  4  -> MR
+Stack  5  -> GCNQMTQTDQFHHRDFD
+Stack  6  -> SHBQGZN
+Stack  7  -> 
+Stack  8  -> GFVZMZBDQPZMVZVDQD
+------------------------
+Amount  4 Origin  2 Destination  6
+------------------------
+Stack  0  -> NQ
+Stack  1  -> HLVBP
+Stack  2  -> W
+Stack  3  -> 
+Stack  4  -> MR
+Stack  5  -> GCNQMTQTDQFHHRDFDMFNF
+Stack  6  -> SHBQGZN
+Stack  7  -> 
+Stack  8  -> GFVZMZBDQPZMVZVDQD
+------------------------
+Amount  2 Origin  5 Destination  6
+------------------------
+Stack  0  -> NQ
+Stack  1  -> HLVBP
+Stack  2  -> W
+Stack  3  -> 
+Stack  4  -> 
+Stack  5  -> GCNQMTQTDQFHHRDFDMFNFMR
+Stack  6  -> SHBQGZN
+Stack  7  -> 
+Stack  8  -> GFVZMZBDQPZMVZVDQD
+------------------------
+Amount  5 Origin  2 Destination  7
+------------------------
+Stack  0  -> NQ
+Stack  1  -> 
+Stack  2  -> W
+Stack  3  -> 
+Stack  4  -> 
+Stack  5  -> GCNQMTQTDQFHHRDFDMFNFMR
+Stack  6  -> SHBQGZNHLVBP
+Stack  7  -> 
+Stack  8  -> GFVZMZBDQPZMVZVDQD
+------------------------
+Amount  18 Origin  6 Destination  1
+------------------------
+Stack  0  -> NQTQTDQFHHRDFDMFNFMR
+Stack  1  -> 
+Stack  2  -> W
+Stack  3  -> 
+Stack  4  -> 
+Stack  5  -> GCNQM
+Stack  6  -> SHBQGZNHLVBP
+Stack  7  -> 
+Stack  8  -> GFVZMZBDQPZMVZVDQD
+------------------------
+Amount  5 Origin  9 Destination  2
+------------------------
+Stack  0  -> NQTQTDQFHHRDFDMFNFMR
+Stack  1  -> ZVDQD
+Stack  2  -> W
+Stack  3  -> 
+Stack  4  -> 
+Stack  5  -> GCNQM
+Stack  6  -> SHBQGZNHLVBP
+Stack  7  -> 
+Stack  8  -> GFVZMZBDQPZMV
+------------------------
+Amount  7 Origin  9 Destination  6
+------------------------
+Stack  0  -> NQTQTDQFHHRDFDMFNFMR
+Stack  1  -> ZVDQD
+Stack  2  -> W
+Stack  3  -> 
+Stack  4  -> 
+Stack  5  -> GCNQMBDQPZMV
+Stack  6  -> SHBQGZNHLVBP
+Stack  7  -> 
+Stack  8  -> GFVZMZ
+------------------------
+Amount  16 Origin  1 Destination  7
+------------------------
+Stack  0  -> NQTQ
+Stack  1  -> ZVDQD
+Stack  2  -> W
+Stack  3  -> 
+Stack  4  -> 
+Stack  5  -> GCNQMBDQPZMV
+Stack  6  -> SHBQGZNHLVBPTDQFHHRDFDMFNFMR
+Stack  7  -> 
+Stack  8  -> GFVZMZ
+------------------------
+Amount  4 Origin  6 Destination  1
+------------------------
+Stack  0  -> NQTQPZMV
+Stack  1  -> ZVDQD
+Stack  2  -> W
+Stack  3  -> 
+Stack  4  -> 
+Stack  5  -> GCNQMBDQ
+Stack  6  -> SHBQGZNHLVBPTDQFHHRDFDMFNFMR
+Stack  7  -> 
+Stack  8  -> GFVZMZ
+------------------------
+Amount  1 Origin  2 Destination  6
+------------------------
+Stack  0  -> NQTQPZMV
+Stack  1  -> ZVDQ
+Stack  2  -> W
+Stack  3  -> 
+Stack  4  -> 
+Stack  5  -> GCNQMBDQD
+Stack  6  -> SHBQGZNHLVBPTDQFHHRDFDMFNFMR
+Stack  7  -> 
+Stack  8  -> GFVZMZ
+------------------------
+Amount  2 Origin  2 Destination  6
+------------------------
+Stack  0  -> NQTQPZMV
+Stack  1  -> ZV
+Stack  2  -> W
+Stack  3  -> 
+Stack  4  -> 
+Stack  5  -> GCNQMBDQDDQ
+Stack  6  -> SHBQGZNHLVBPTDQFHHRDFDMFNFMR
+Stack  7  -> 
+Stack  8  -> GFVZMZ
+------------------------
+Amount  1 Origin  2 Destination  4
+------------------------
+Stack  0  -> NQTQPZMV
+Stack  1  -> Z
+Stack  2  -> W
+Stack  3  -> V
+Stack  4  -> 
+Stack  5  -> GCNQMBDQDDQ
+Stack  6  -> SHBQGZNHLVBPTDQFHHRDFDMFNFMR
+Stack  7  -> 
+Stack  8  -> GFVZMZ
+------------------------
+Amount  4 Origin  9 Destination  3
+------------------------
+Stack  0  -> NQTQPZMV
+Stack  1  -> Z
+Stack  2  -> WVZMZ
+Stack  3  -> V
+Stack  4  -> 
+Stack  5  -> GCNQMBDQDDQ
+Stack  6  -> SHBQGZNHLVBPTDQFHHRDFDMFNFMR
+Stack  7  -> 
+Stack  8  -> GF
+------------------------
+Amount  1 Origin  2 Destination  8
+------------------------
+Stack  0  -> NQTQPZMV
+Stack  1  -> 
+Stack  2  -> WVZMZ
+Stack  3  -> V
+Stack  4  -> 
+Stack  5  -> GCNQMBDQDDQ
+Stack  6  -> SHBQGZNHLVBPTDQFHHRDFDMFNFMR
+Stack  7  -> Z
+Stack  8  -> GF
+------------------------
+Amount  5 Origin  7 Destination  5
+------------------------
+Stack  0  -> NQTQPZMV
+Stack  1  -> 
+Stack  2  -> WVZMZ
+Stack  3  -> V
+Stack  4  -> FNFMR
+Stack  5  -> GCNQMBDQDDQ
+Stack  6  -> SHBQGZNHLVBPTDQFHHRDFDM
+Stack  7  -> Z
+Stack  8  -> GF
+------------------------
+Amount  2 Origin  9 Destination  3
+------------------------
+Stack  0  -> NQTQPZMV
+Stack  1  -> 
+Stack  2  -> WVZMZGF
+Stack  3  -> V
+Stack  4  -> FNFMR
+Stack  5  -> GCNQMBDQDDQ
+Stack  6  -> SHBQGZNHLVBPTDQFHHRDFDM
+Stack  7  -> Z
+Stack  8  -> 
+------------------------
+Amount  1 Origin  5 Destination  9
+------------------------
+Stack  0  -> NQTQPZMV
+Stack  1  -> 
+Stack  2  -> WVZMZGF
+Stack  3  -> V
+Stack  4  -> FNFM
+Stack  5  -> GCNQMBDQDDQ
+Stack  6  -> SHBQGZNHLVBPTDQFHHRDFDM
+Stack  7  -> Z
+Stack  8  -> R
+------------------------
+Amount  7 Origin  3 Destination  4
+------------------------
+Stack  0  -> NQTQPZMV
+Stack  1  -> 
+Stack  2  -> 
+Stack  3  -> VWVZMZGF
+Stack  4  -> FNFM
+Stack  5  -> GCNQMBDQDDQ
+Stack  6  -> SHBQGZNHLVBPTDQFHHRDFDM
+Stack  7  -> Z
+Stack  8  -> R
+------------------------
+Amount  1 Origin  9 Destination  7
+------------------------
+Stack  0  -> NQTQPZMV
+Stack  1  -> 
+Stack  2  -> 
+Stack  3  -> VWVZMZGF
+Stack  4  -> FNFM
+Stack  5  -> GCNQMBDQDDQ
+Stack  6  -> SHBQGZNHLVBPTDQFHHRDFDMR
+Stack  7  -> Z
+Stack  8  -> 
+------------------------
+Amount  8 Origin  1 Destination  9
+------------------------
+Stack  0  -> 
+Stack  1  -> 
+Stack  2  -> 
+Stack  3  -> VWVZMZGF
+Stack  4  -> FNFM
+Stack  5  -> GCNQMBDQDDQ
+Stack  6  -> SHBQGZNHLVBPTDQFHHRDFDMR
+Stack  7  -> Z
+Stack  8  -> NQTQPZMV
+------------------------
+Amount  1 Origin  8 Destination  9
+------------------------
+Stack  0  -> 
+Stack  1  -> 
+Stack  2  -> 
+Stack  3  -> VWVZMZGF
+Stack  4  -> FNFM
+Stack  5  -> GCNQMBDQDDQ
+Stack  6  -> SHBQGZNHLVBPTDQFHHRDFDMR
+Stack  7  -> 
+Stack  8  -> NQTQPZMVZ
+------------------------
+Amount  3 Origin  6 Destination  9
+------------------------
+Stack  0  -> 
+Stack  1  -> 
+Stack  2  -> 
+Stack  3  -> VWVZMZGF
+Stack  4  -> FNFM
+Stack  5  -> GCNQMBDQ
+Stack  6  -> SHBQGZNHLVBPTDQFHHRDFDMR
+Stack  7  -> 
+Stack  8  -> NQTQPZMVZDDQ
+------------------------
+Amount  17 Origin  7 Destination  5
+------------------------
+Stack  0  -> 
+Stack  1  -> 
+Stack  2  -> 
+Stack  3  -> VWVZMZGF
+Stack  4  -> FNFMHLVBPTDQFHHRDFDMR
+Stack  5  -> GCNQMBDQ
+Stack  6  -> SHBQGZN
+Stack  7  -> 
+Stack  8  -> NQTQPZMVZDDQ
+------------------------
+Amount  3 Origin  4 Destination  8
+------------------------
+Stack  0  -> 
+Stack  1  -> 
+Stack  2  -> 
+Stack  3  -> VWVZM
+Stack  4  -> FNFMHLVBPTDQFHHRDFDMR
+Stack  5  -> GCNQMBDQ
+Stack  6  -> SHBQGZN
+Stack  7  -> ZGF
+Stack  8  -> NQTQPZMVZDDQ
+------------------------
+Amount  3 Origin  4 Destination  2
+------------------------
+Stack  0  -> 
+Stack  1  -> VZM
+Stack  2  -> 
+Stack  3  -> VW
+Stack  4  -> FNFMHLVBPTDQFHHRDFDMR
+Stack  5  -> GCNQMBDQ
+Stack  6  -> SHBQGZN
+Stack  7  -> ZGF
+Stack  8  -> NQTQPZMVZDDQ
+------------------------
+Amount  3 Origin  8 Destination  3
+------------------------
+Stack  0  -> 
+Stack  1  -> VZM
+Stack  2  -> ZGF
+Stack  3  -> VW
+Stack  4  -> FNFMHLVBPTDQFHHRDFDMR
+Stack  5  -> GCNQMBDQ
+Stack  6  -> SHBQGZN
+Stack  7  -> 
+Stack  8  -> NQTQPZMVZDDQ
+------------------------
+Amount  3 Origin  3 Destination  7
+------------------------
+Stack  0  -> 
+Stack  1  -> VZM
+Stack  2  -> 
+Stack  3  -> VW
+Stack  4  -> FNFMHLVBPTDQFHHRDFDMR
+Stack  5  -> GCNQMBDQ
+Stack  6  -> SHBQGZNZGF
+Stack  7  -> 
+Stack  8  -> NQTQPZMVZDDQ
+------------------------
+Amount  7 Origin  9 Destination  3
+------------------------
+Stack  0  -> 
+Stack  1  -> VZM
+Stack  2  -> ZMVZDDQ
+Stack  3  -> VW
+Stack  4  -> FNFMHLVBPTDQFHHRDFDMR
+Stack  5  -> GCNQMBDQ
+Stack  6  -> SHBQGZNZGF
+Stack  7  -> 
+Stack  8  -> NQTQP
+------------------------
+Amount  6 Origin  5 Destination  9
+------------------------
+Stack  0  -> 
+Stack  1  -> VZM
+Stack  2  -> ZMVZDDQ
+Stack  3  -> VW
+Stack  4  -> FNFMHLVBPTDQFHH
+Stack  5  -> GCNQMBDQ
+Stack  6  -> SHBQGZNZGF
+Stack  7  -> 
+Stack  8  -> NQTQPRDFDMR
+------------------------
+Amount  4 Origin  9 Destination  3
+------------------------
+Stack  0  -> 
+Stack  1  -> VZM
+Stack  2  -> ZMVZDDQFDMR
+Stack  3  -> VW
+Stack  4  -> FNFMHLVBPTDQFHH
+Stack  5  -> GCNQMBDQ
+Stack  6  -> SHBQGZNZGF
+Stack  7  -> 
+Stack  8  -> NQTQPRD
+------------------------
+Amount  10 Origin  7 Destination  2
+------------------------
+Stack  0  -> 
+Stack  1  -> VZMSHBQGZNZGF
+Stack  2  -> ZMVZDDQFDMR
+Stack  3  -> VW
+Stack  4  -> FNFMHLVBPTDQFHH
+Stack  5  -> GCNQMBDQ
+Stack  6  -> 
+Stack  7  -> 
+Stack  8  -> NQTQPRD
+------------------------
+Amount  15 Origin  5 Destination  2
+------------------------
+Stack  0  -> 
+Stack  1  -> VZMSHBQGZNZGFFNFMHLVBPTDQFHH
+Stack  2  -> ZMVZDDQFDMR
+Stack  3  -> VW
+Stack  4  -> 
+Stack  5  -> GCNQMBDQ
+Stack  6  -> 
+Stack  7  -> 
+Stack  8  -> NQTQPRD
+------------------------
+Amount  4 Origin  6 Destination  3
+------------------------
+Stack  0  -> 
+Stack  1  -> VZMSHBQGZNZGFFNFMHLVBPTDQFHH
+Stack  2  -> ZMVZDDQFDMRMBDQ
+Stack  3  -> VW
+Stack  4  -> 
+Stack  5  -> GCNQ
+Stack  6  -> 
+Stack  7  -> 
+Stack  8  -> NQTQPRD
+------------------------
+Amount  1 Origin  3 Destination  2
+------------------------
+Stack  0  -> 
+Stack  1  -> VZMSHBQGZNZGFFNFMHLVBPTDQFHHQ
+Stack  2  -> ZMVZDDQFDMRMBD
+Stack  3  -> VW
+Stack  4  -> 
+Stack  5  -> GCNQ
+Stack  6  -> 
+Stack  7  -> 
+Stack  8  -> NQTQPRD
+------------------------
+Amount  23 Origin  2 Destination  5
+------------------------
+Stack  0  -> 
+Stack  1  -> VZMSHB
+Stack  2  -> ZMVZDDQFDMRMBD
+Stack  3  -> VW
+Stack  4  -> QGZNZGFFNFMHLVBPTDQFHHQ
+Stack  5  -> GCNQ
+Stack  6  -> 
+Stack  7  -> 
+Stack  8  -> NQTQPRD
+------------------------
+Amount  2 Origin  4 Destination  6
+------------------------
+Stack  0  -> 
+Stack  1  -> VZMSHB
+Stack  2  -> ZMVZDDQFDMRMBD
+Stack  3  -> 
+Stack  4  -> QGZNZGFFNFMHLVBPTDQFHHQ
+Stack  5  -> GCNQVW
+Stack  6  -> 
+Stack  7  -> 
+Stack  8  -> NQTQPRD
+------------------------
+Amount  2 Origin  6 Destination  7
+------------------------
+Stack  0  -> 
+Stack  1  -> VZMSHB
+Stack  2  -> ZMVZDDQFDMRMBD
+Stack  3  -> 
+Stack  4  -> QGZNZGFFNFMHLVBPTDQFHHQ
+Stack  5  -> GCNQ
+Stack  6  -> VW
+Stack  7  -> 
+Stack  8  -> NQTQPRD
+------------------------
+Amount  1 Origin  7 Destination  2
+------------------------
+Stack  0  -> 
+Stack  1  -> VZMSHBW
+Stack  2  -> ZMVZDDQFDMRMBD
+Stack  3  -> 
+Stack  4  -> QGZNZGFFNFMHLVBPTDQFHHQ
+Stack  5  -> GCNQ
+Stack  6  -> V
+Stack  7  -> 
+Stack  8  -> NQTQPRD
+------------------------
+Amount  1 Origin  6 Destination  9
+------------------------
+Stack  0  -> 
+Stack  1  -> VZMSHBW
+Stack  2  -> ZMVZDDQFDMRMBD
+Stack  3  -> 
+Stack  4  -> QGZNZGFFNFMHLVBPTDQFHHQ
+Stack  5  -> GCN
+Stack  6  -> V
+Stack  7  -> 
+Stack  8  -> NQTQPRDQ
+------------------------
+Amount  5 Origin  9 Destination  8
+------------------------
+Stack  0  -> 
+Stack  1  -> VZMSHBW
+Stack  2  -> ZMVZDDQFDMRMBD
+Stack  3  -> 
+Stack  4  -> QGZNZGFFNFMHLVBPTDQFHHQ
+Stack  5  -> GCN
+Stack  6  -> V
+Stack  7  -> QPRDQ
+Stack  8  -> NQT
+------------------------
+Amount  3 Origin  8 Destination  7
+------------------------
+Stack  0  -> 
+Stack  1  -> VZMSHBW
+Stack  2  -> ZMVZDDQFDMRMBD
+Stack  3  -> 
+Stack  4  -> QGZNZGFFNFMHLVBPTDQFHHQ
+Stack  5  -> GCN
+Stack  6  -> VRDQ
+Stack  7  -> QP
+Stack  8  -> NQT
+------------------------
+Amount  5 Origin  2 Destination  6
+------------------------
+Stack  0  -> 
+Stack  1  -> VZ
+Stack  2  -> ZMVZDDQFDMRMBD
+Stack  3  -> 
+Stack  4  -> QGZNZGFFNFMHLVBPTDQFHHQ
+Stack  5  -> GCNMSHBW
+Stack  6  -> VRDQ
+Stack  7  -> QP
+Stack  8  -> NQT
+------------------------
+Amount  2 Origin  2 Destination  3
+------------------------
+Stack  0  -> 
+Stack  1  -> 
+Stack  2  -> ZMVZDDQFDMRMBDVZ
+Stack  3  -> 
+Stack  4  -> QGZNZGFFNFMHLVBPTDQFHHQ
+Stack  5  -> GCNMSHBW
+Stack  6  -> VRDQ
+Stack  7  -> QP
+Stack  8  -> NQT
+------------------------
+Amount  2 Origin  6 Destination  3
+------------------------
+Stack  0  -> 
+Stack  1  -> 
+Stack  2  -> ZMVZDDQFDMRMBDVZBW
+Stack  3  -> 
+Stack  4  -> QGZNZGFFNFMHLVBPTDQFHHQ
+Stack  5  -> GCNMSH
+Stack  6  -> VRDQ
+Stack  7  -> QP
+Stack  8  -> NQT
+------------------------
+Amount  3 Origin  6 Destination  2
+------------------------
+Stack  0  -> 
+Stack  1  -> MSH
+Stack  2  -> ZMVZDDQFDMRMBDVZBW
+Stack  3  -> 
+Stack  4  -> QGZNZGFFNFMHLVBPTDQFHHQ
+Stack  5  -> GCN
+Stack  6  -> VRDQ
+Stack  7  -> QP
+Stack  8  -> NQT
+------------------------
+Amount  3 Origin  6 Destination  8
+------------------------
+Stack  0  -> 
+Stack  1  -> MSH
+Stack  2  -> ZMVZDDQFDMRMBDVZBW
+Stack  3  -> 
+Stack  4  -> QGZNZGFFNFMHLVBPTDQFHHQ
+Stack  5  -> 
+Stack  6  -> VRDQ
+Stack  7  -> QPGCN
+Stack  8  -> NQT
+------------------------
+Amount  10 Origin  5 Destination  9
+------------------------
+Stack  0  -> 
+Stack  1  -> MSH
+Stack  2  -> ZMVZDDQFDMRMBDVZBW
+Stack  3  -> 
+Stack  4  -> QGZNZGFFNFMHL
+Stack  5  -> 
+Stack  6  -> VRDQ
+Stack  7  -> QPGCN
+Stack  8  -> NQTVBPTDQFHHQ
+------------------------
+Amount  2 Origin  7 Destination  5
+------------------------
+Stack  0  -> 
+Stack  1  -> MSH
+Stack  2  -> ZMVZDDQFDMRMBDVZBW
+Stack  3  -> 
+Stack  4  -> QGZNZGFFNFMHLDQ
+Stack  5  -> 
+Stack  6  -> VR
+Stack  7  -> QPGCN
+Stack  8  -> NQTVBPTDQFHHQ
+------------------------
+Amount  1 Origin  5 Destination  8
+------------------------
+Stack  0  -> 
+Stack  1  -> MSH
+Stack  2  -> ZMVZDDQFDMRMBDVZBW
+Stack  3  -> 
+Stack  4  -> QGZNZGFFNFMHLD
+Stack  5  -> 
+Stack  6  -> VR
+Stack  7  -> QPGCNQ
+Stack  8  -> NQTVBPTDQFHHQ
+------------------------
+Amount  13 Origin  9 Destination  5
+------------------------
+Stack  0  -> 
+Stack  1  -> MSH
+Stack  2  -> ZMVZDDQFDMRMBDVZBW
+Stack  3  -> 
+Stack  4  -> QGZNZGFFNFMHLDNQTVBPTDQFHHQ
+Stack  5  -> 
+Stack  6  -> VR
+Stack  7  -> QPGCNQ
+Stack  8  -> 
+------------------------
+Amount  6 Origin  5 Destination  6
+------------------------
+Stack  0  -> 
+Stack  1  -> MSH
+Stack  2  -> ZMVZDDQFDMRMBDVZBW
+Stack  3  -> 
+Stack  4  -> QGZNZGFFNFMHLDNQTVBPT
+Stack  5  -> DQFHHQ
+Stack  6  -> VR
+Stack  7  -> QPGCNQ
+Stack  8  -> 
+------------------------
+Amount  1 Origin  6 Destination  1
+------------------------
+Stack  0  -> Q
+Stack  1  -> MSH
+Stack  2  -> ZMVZDDQFDMRMBDVZBW
+Stack  3  -> 
+Stack  4  -> QGZNZGFFNFMHLDNQTVBPT
+Stack  5  -> DQFHH
+Stack  6  -> VR
+Stack  7  -> QPGCNQ
+Stack  8  -> 
+------------------------
+Amount  1 Origin  7 Destination  3
+------------------------
+Stack  0  -> Q
+Stack  1  -> MSH
+Stack  2  -> ZMVZDDQFDMRMBDVZBWR
+Stack  3  -> 
+Stack  4  -> QGZNZGFFNFMHLDNQTVBPT
+Stack  5  -> DQFHH
+Stack  6  -> V
+Stack  7  -> QPGCNQ
+Stack  8  -> 
+------------------------
+Amount  1 Origin  7 Destination  3
+------------------------
+Stack  0  -> Q
+Stack  1  -> MSH
+Stack  2  -> ZMVZDDQFDMRMBDVZBWRV
+Stack  3  -> 
+Stack  4  -> QGZNZGFFNFMHLDNQTVBPT
+Stack  5  -> DQFHH
+Stack  6  -> 
+Stack  7  -> QPGCNQ
+Stack  8  -> 
+------------------------
+Amount  13 Origin  5 Destination  6
+------------------------
+Stack  0  -> Q
+Stack  1  -> MSH
+Stack  2  -> ZMVZDDQFDMRMBDVZBWRV
+Stack  3  -> 
+Stack  4  -> QGZNZGFF
+Stack  5  -> DQFHHNFMHLDNQTVBPT
+Stack  6  -> 
+Stack  7  -> QPGCNQ
+Stack  8  -> 
+------------------------
+Amount  3 Origin  3 Destination  5
+------------------------
+Stack  0  -> Q
+Stack  1  -> MSH
+Stack  2  -> ZMVZDDQFDMRMBDVZB
+Stack  3  -> 
+Stack  4  -> QGZNZGFFWRV
+Stack  5  -> DQFHHNFMHLDNQTVBPT
+Stack  6  -> 
+Stack  7  -> QPGCNQ
+Stack  8  -> 
+------------------------
+Amount  1 Origin  2 Destination  1
+------------------------
+Stack  0  -> QH
+Stack  1  -> MS
+Stack  2  -> ZMVZDDQFDMRMBDVZB
+Stack  3  -> 
+Stack  4  -> QGZNZGFFWRV
+Stack  5  -> DQFHHNFMHLDNQTVBPT
+Stack  6  -> 
+Stack  7  -> QPGCNQ
+Stack  8  -> 
+------------------------
+Amount  4 Origin  8 Destination  9
+------------------------
+Stack  0  -> QH
+Stack  1  -> MS
+Stack  2  -> ZMVZDDQFDMRMBDVZB
+Stack  3  -> 
+Stack  4  -> QGZNZGFFWRV
+Stack  5  -> DQFHHNFMHLDNQTVBPT
+Stack  6  -> 
+Stack  7  -> QP
+Stack  8  -> GCNQ
+------------------------
+Amount  2 Origin  2 Destination  6
+------------------------
+Stack  0  -> QH
+Stack  1  -> 
+Stack  2  -> ZMVZDDQFDMRMBDVZB
+Stack  3  -> 
+Stack  4  -> QGZNZGFFWRV
+Stack  5  -> DQFHHNFMHLDNQTVBPTMS
+Stack  6  -> 
+Stack  7  -> QP
+Stack  8  -> GCNQ
+------------------------
+Amount  2 Origin  5 Destination  3
+------------------------
+Stack  0  -> QH
+Stack  1  -> 
+Stack  2  -> ZMVZDDQFDMRMBDVZBRV
+Stack  3  -> 
+Stack  4  -> QGZNZGFFW
+Stack  5  -> DQFHHNFMHLDNQTVBPTMS
+Stack  6  -> 
+Stack  7  -> QP
+Stack  8  -> GCNQ
+------------------------
+Amount  2 Origin  3 Destination  6
+------------------------
+Stack  0  -> QH
+Stack  1  -> 
+Stack  2  -> ZMVZDDQFDMRMBDVZB
+Stack  3  -> 
+Stack  4  -> QGZNZGFFW
+Stack  5  -> DQFHHNFMHLDNQTVBPTMSRV
+Stack  6  -> 
+Stack  7  -> QP
+Stack  8  -> GCNQ
+------------------------
+Amount  5 Origin  6 Destination  4
+------------------------
+Stack  0  -> QH
+Stack  1  -> 
+Stack  2  -> ZMVZDDQFDMRMBDVZB
+Stack  3  -> TMSRV
+Stack  4  -> QGZNZGFFW
+Stack  5  -> DQFHHNFMHLDNQTVBP
+Stack  6  -> 
+Stack  7  -> QP
+Stack  8  -> GCNQ
+------------------------
+Amount  9 Origin  5 Destination  9
+------------------------
+Stack  0  -> QH
+Stack  1  -> 
+Stack  2  -> ZMVZDDQFDMRMBDVZB
+Stack  3  -> TMSRV
+Stack  4  -> 
+Stack  5  -> DQFHHNFMHLDNQTVBP
+Stack  6  -> 
+Stack  7  -> QP
+Stack  8  -> GCNQQGZNZGFFW
+------------------------
+Amount  10 Origin  6 Destination  9
+------------------------
+Stack  0  -> QH
+Stack  1  -> 
+Stack  2  -> ZMVZDDQFDMRMBDVZB
+Stack  3  -> TMSRV
+Stack  4  -> 
+Stack  5  -> DQFHHNF
+Stack  6  -> 
+Stack  7  -> QP
+Stack  8  -> GCNQQGZNZGFFWMHLDNQTVBP
+------------------------
+Amount  1 Origin  1 Destination  7
+------------------------
+Stack  0  -> Q
+Stack  1  -> 
+Stack  2  -> ZMVZDDQFDMRMBDVZB
+Stack  3  -> TMSRV
+Stack  4  -> 
+Stack  5  -> DQFHHNF
+Stack  6  -> H
+Stack  7  -> QP
+Stack  8  -> GCNQQGZNZGFFWMHLDNQTVBP
+------------------------
+Amount  3 Origin  3 Destination  9
+------------------------
+Stack  0  -> Q
+Stack  1  -> 
+Stack  2  -> ZMVZDDQFDMRMBD
+Stack  3  -> TMSRV
+Stack  4  -> 
+Stack  5  -> DQFHHNF
+Stack  6  -> H
+Stack  7  -> QP
+Stack  8  -> GCNQQGZNZGFFWMHLDNQTVBPVZB
+------------------------
+Amount  1 Origin  8 Destination  1
+------------------------
+Stack  0  -> QP
+Stack  1  -> 
+Stack  2  -> ZMVZDDQFDMRMBD
+Stack  3  -> TMSRV
+Stack  4  -> 
+Stack  5  -> DQFHHNF
+Stack  6  -> H
+Stack  7  -> Q
+Stack  8  -> GCNQQGZNZGFFWMHLDNQTVBPVZB
+------------------------
+Amount  3 Origin  6 Destination  3
+------------------------
+Stack  0  -> QP
+Stack  1  -> 
+Stack  2  -> ZMVZDDQFDMRMBDHNF
+Stack  3  -> TMSRV
+Stack  4  -> 
+Stack  5  -> DQFH
+Stack  6  -> H
+Stack  7  -> Q
+Stack  8  -> GCNQQGZNZGFFWMHLDNQTVBPVZB
+------------------------
+Amount  1 Origin  7 Destination  6
+------------------------
+Stack  0  -> QP
+Stack  1  -> 
+Stack  2  -> ZMVZDDQFDMRMBDHNF
+Stack  3  -> TMSRV
+Stack  4  -> 
+Stack  5  -> DQFHH
+Stack  6  -> 
+Stack  7  -> Q
+Stack  8  -> GCNQQGZNZGFFWMHLDNQTVBPVZB
+------------------------
+Amount  1 Origin  8 Destination  7
+------------------------
+Stack  0  -> QP
+Stack  1  -> 
+Stack  2  -> ZMVZDDQFDMRMBDHNF
+Stack  3  -> TMSRV
+Stack  4  -> 
+Stack  5  -> DQFHH
+Stack  6  -> Q
+Stack  7  -> 
+Stack  8  -> GCNQQGZNZGFFWMHLDNQTVBPVZB
+------------------------
+Amount  2 Origin  6 Destination  1
+------------------------
+Stack  0  -> QPHH
+Stack  1  -> 
+Stack  2  -> ZMVZDDQFDMRMBDHNF
+Stack  3  -> TMSRV
+Stack  4  -> 
+Stack  5  -> DQF
+Stack  6  -> Q
+Stack  7  -> 
+Stack  8  -> GCNQQGZNZGFFWMHLDNQTVBPVZB
+------------------------
+Amount  2 Origin  6 Destination  4
+------------------------
+Stack  0  -> QPHH
+Stack  1  -> 
+Stack  2  -> ZMVZDDQFDMRMBDHNF
+Stack  3  -> TMSRVQF
+Stack  4  -> 
+Stack  5  -> D
+Stack  6  -> Q
+Stack  7  -> 
+Stack  8  -> GCNQQGZNZGFFWMHLDNQTVBPVZB
+------------------------
+Amount  3 Origin  4 Destination  6
+------------------------
+Stack  0  -> QPHH
+Stack  1  -> 
+Stack  2  -> ZMVZDDQFDMRMBDHNF
+Stack  3  -> TMSR
+Stack  4  -> 
+Stack  5  -> DVQF
+Stack  6  -> Q
+Stack  7  -> 
+Stack  8  -> GCNQQGZNZGFFWMHLDNQTVBPVZB
+------------------------
+Amount  2 Origin  1 Destination  4
+------------------------
+Stack  0  -> QP
+Stack  1  -> 
+Stack  2  -> ZMVZDDQFDMRMBDHNF
+Stack  3  -> TMSRHH
+Stack  4  -> 
+Stack  5  -> DVQF
+Stack  6  -> Q
+Stack  7  -> 
+Stack  8  -> GCNQQGZNZGFFWMHLDNQTVBPVZB
+------------------------
+Amount  10 Origin  9 Destination  6
+------------------------
+Stack  0  -> QP
+Stack  1  -> 
+Stack  2  -> ZMVZDDQFDMRMBDHNF
+Stack  3  -> TMSRHH
+Stack  4  -> 
+Stack  5  -> DVQFDNQTVBPVZB
+Stack  6  -> Q
+Stack  7  -> 
+Stack  8  -> GCNQQGZNZGFFWMHL
+------------------------
+Amount  6 Origin  4 Destination  9
+------------------------
+Stack  0  -> QP
+Stack  1  -> 
+Stack  2  -> ZMVZDDQFDMRMBDHNF
+Stack  3  -> 
+Stack  4  -> 
+Stack  5  -> DVQFDNQTVBPVZB
+Stack  6  -> Q
+Stack  7  -> 
+Stack  8  -> GCNQQGZNZGFFWMHLTMSRHH
+------------------------
+Amount  17 Origin  9 Destination  1
+------------------------
+Stack  0  -> QPGZNZGFFWMHLTMSRHH
+Stack  1  -> 
+Stack  2  -> ZMVZDDQFDMRMBDHNF
+Stack  3  -> 
+Stack  4  -> 
+Stack  5  -> DVQFDNQTVBPVZB
+Stack  6  -> Q
+Stack  7  -> 
+Stack  8  -> GCNQQ
+------------------------
+Amount  4 Origin  9 Destination  5
+------------------------
+Stack  0  -> QPGZNZGFFWMHLTMSRHH
+Stack  1  -> 
+Stack  2  -> ZMVZDDQFDMRMBDHNF
+Stack  3  -> 
+Stack  4  -> CNQQ
+Stack  5  -> DVQFDNQTVBPVZB
+Stack  6  -> Q
+Stack  7  -> 
+Stack  8  -> G
+------------------------
+Amount  19 Origin  1 Destination  7
+------------------------
+Stack  0  -> 
+Stack  1  -> 
+Stack  2  -> ZMVZDDQFDMRMBDHNF
+Stack  3  -> 
+Stack  4  -> CNQQ
+Stack  5  -> DVQFDNQTVBPVZB
+Stack  6  -> QQPGZNZGFFWMHLTMSRHH
+Stack  7  -> 
+Stack  8  -> G
+------------------------
+Amount  4 Origin  5 Destination  6
+------------------------
+Stack  0  -> 
+Stack  1  -> 
+Stack  2  -> ZMVZDDQFDMRMBDHNF
+Stack  3  -> 
+Stack  4  -> 
+Stack  5  -> DVQFDNQTVBPVZBCNQQ
+Stack  6  -> QQPGZNZGFFWMHLTMSRHH
+Stack  7  -> 
+Stack  8  -> G
+------------------------
+Amount  1 Origin  9 Destination  3
+------------------------
+Stack  0  -> 
+Stack  1  -> 
+Stack  2  -> ZMVZDDQFDMRMBDHNFG
+Stack  3  -> 
+Stack  4  -> 
+Stack  5  -> DVQFDNQTVBPVZBCNQQ
+Stack  6  -> QQPGZNZGFFWMHLTMSRHH
+Stack  7  -> 
+Stack  8  -> 
+------------------------
+Amount  5 Origin  3 Destination  4
+------------------------
+Stack  0  -> 
+Stack  1  -> 
+Stack  2  -> ZMVZDDQFDMRMB
+Stack  3  -> DHNFG
+Stack  4  -> 
+Stack  5  -> DVQFDNQTVBPVZBCNQQ
+Stack  6  -> QQPGZNZGFFWMHLTMSRHH
+Stack  7  -> 
+Stack  8  -> 
+------------------------
+Amount  5 Origin  4 Destination  8
+------------------------
+Stack  0  -> 
+Stack  1  -> 
+Stack  2  -> ZMVZDDQFDMRMB
+Stack  3  -> 
+Stack  4  -> 
+Stack  5  -> DVQFDNQTVBPVZBCNQQ
+Stack  6  -> QQPGZNZGFFWMHLTMSRHH
+Stack  7  -> DHNFG
+Stack  8  -> 
+------------------------
+Amount  17 Origin  6 Destination  9
+------------------------
+Stack  0  -> 
+Stack  1  -> 
+Stack  2  -> ZMVZDDQFDMRMB
+Stack  3  -> 
+Stack  4  -> 
+Stack  5  -> D
+Stack  6  -> QQPGZNZGFFWMHLTMSRHH
+Stack  7  -> DHNFG
+Stack  8  -> VQFDNQTVBPVZBCNQQ
+------------------------
+Amount  17 Origin  9 Destination  2
+------------------------
+Stack  0  -> 
+Stack  1  -> VQFDNQTVBPVZBCNQQ
+Stack  2  -> ZMVZDDQFDMRMB
+Stack  3  -> 
+Stack  4  -> 
+Stack  5  -> D
+Stack  6  -> QQPGZNZGFFWMHLTMSRHH
+Stack  7  -> DHNFG
+Stack  8  -> 
+------------------------
+Amount  1 Origin  6 Destination  1
+------------------------
+Stack  0  -> D
+Stack  1  -> VQFDNQTVBPVZBCNQQ
+Stack  2  -> ZMVZDDQFDMRMB
+Stack  3  -> 
+Stack  4  -> 
+Stack  5  -> 
+Stack  6  -> QQPGZNZGFFWMHLTMSRHH
+Stack  7  -> DHNFG
+Stack  8  -> 
+------------------------
+Amount  1 Origin  1 Destination  2
+------------------------
+Stack  0  -> 
+Stack  1  -> VQFDNQTVBPVZBCNQQD
+Stack  2  -> ZMVZDDQFDMRMB
+Stack  3  -> 
+Stack  4  -> 
+Stack  5  -> 
+Stack  6  -> QQPGZNZGFFWMHLTMSRHH
+Stack  7  -> DHNFG
+Stack  8  -> 
+------------------------
+Amount  1 Origin  8 Destination  3
+------------------------
+Stack  0  -> 
+Stack  1  -> VQFDNQTVBPVZBCNQQD
+Stack  2  -> ZMVZDDQFDMRMBG
+Stack  3  -> 
+Stack  4  -> 
+Stack  5  -> 
+Stack  6  -> QQPGZNZGFFWMHLTMSRHH
+Stack  7  -> DHNF
+Stack  8  -> 
+------------------------
+Amount  2 Origin  3 Destination  2
+------------------------
+Stack  0  -> 
+Stack  1  -> VQFDNQTVBPVZBCNQQDBG
+Stack  2  -> ZMVZDDQFDMRM
+Stack  3  -> 
+Stack  4  -> 
+Stack  5  -> 
+Stack  6  -> QQPGZNZGFFWMHLTMSRHH
+Stack  7  -> DHNF
+Stack  8  -> 
+------------------------
+Amount  5 Origin  7 Destination  1
+------------------------
+Stack  0  -> MSRHH
+Stack  1  -> VQFDNQTVBPVZBCNQQDBG
+Stack  2  -> ZMVZDDQFDMRM
+Stack  3  -> 
+Stack  4  -> 
+Stack  5  -> 
+Stack  6  -> QQPGZNZGFFWMHLT
+Stack  7  -> DHNF
+Stack  8  -> 
+------------------------
+Amount  1 Origin  7 Destination  3
+------------------------
+Stack  0  -> MSRHH
+Stack  1  -> VQFDNQTVBPVZBCNQQDBG
+Stack  2  -> ZMVZDDQFDMRMT
+Stack  3  -> 
+Stack  4  -> 
+Stack  5  -> 
+Stack  6  -> QQPGZNZGFFWMHL
+Stack  7  -> DHNF
+Stack  8  -> 
+------------------------
+Amount  5 Origin  2 Destination  9
+------------------------
+Stack  0  -> MSRHH
+Stack  1  -> VQFDNQTVBPVZBCN
+Stack  2  -> ZMVZDDQFDMRMT
+Stack  3  -> 
+Stack  4  -> 
+Stack  5  -> 
+Stack  6  -> QQPGZNZGFFWMHL
+Stack  7  -> DHNF
+Stack  8  -> QQDBG
+------------------------
+Amount  4 Origin  8 Destination  2
+------------------------
+Stack  0  -> MSRHH
+Stack  1  -> VQFDNQTVBPVZBCNDHNF
+Stack  2  -> ZMVZDDQFDMRMT
+Stack  3  -> 
+Stack  4  -> 
+Stack  5  -> 
+Stack  6  -> QQPGZNZGFFWMHL
+Stack  7  -> 
+Stack  8  -> QQDBG
+------------------------
+Amount  2 Origin  7 Destination  8
+------------------------
+Stack  0  -> MSRHH
+Stack  1  -> VQFDNQTVBPVZBCNDHNF
+Stack  2  -> ZMVZDDQFDMRMT
+Stack  3  -> 
+Stack  4  -> 
+Stack  5  -> 
+Stack  6  -> QQPGZNZGFFWM
+Stack  7  -> HL
+Stack  8  -> QQDBG
+------------------------
+Amount  3 Origin  9 Destination  3
+------------------------
+Stack  0  -> MSRHH
+Stack  1  -> VQFDNQTVBPVZBCNDHNF
+Stack  2  -> ZMVZDDQFDMRMTDBG
+Stack  3  -> 
+Stack  4  -> 
+Stack  5  -> 
+Stack  6  -> QQPGZNZGFFWM
+Stack  7  -> HL
+Stack  8  -> QQ
+------------------------
+Amount  7 Origin  3 Destination  9
+------------------------
+Stack  0  -> MSRHH
+Stack  1  -> VQFDNQTVBPVZBCNDHNF
+Stack  2  -> ZMVZDDQFD
+Stack  3  -> 
+Stack  4  -> 
+Stack  5  -> 
+Stack  6  -> QQPGZNZGFFWM
+Stack  7  -> HL
+Stack  8  -> QQMRMTDBG
+------------------------
+Amount  2 Origin  8 Destination  7
+------------------------
+Stack  0  -> MSRHH
+Stack  1  -> VQFDNQTVBPVZBCNDHNF
+Stack  2  -> ZMVZDDQFD
+Stack  3  -> 
+Stack  4  -> 
+Stack  5  -> 
+Stack  6  -> QQPGZNZGFFWMHL
+Stack  7  -> 
+Stack  8  -> QQMRMTDBG
+------------------------
+Amount  8 Origin  2 Destination  9
+------------------------
+Stack  0  -> MSRHH
+Stack  1  -> VQFDNQTVBPV
+Stack  2  -> ZMVZDDQFD
+Stack  3  -> 
+Stack  4  -> 
+Stack  5  -> 
+Stack  6  -> QQPGZNZGFFWMHL
+Stack  7  -> 
+Stack  8  -> QQMRMTDBGZBCNDHNF
+------------------------
+Amount  5 Origin  9 Destination  6
+------------------------
+Stack  0  -> MSRHH
+Stack  1  -> VQFDNQTVBPV
+Stack  2  -> ZMVZDDQFD
+Stack  3  -> 
+Stack  4  -> 
+Stack  5  -> NDHNF
+Stack  6  -> QQPGZNZGFFWMHL
+Stack  7  -> 
+Stack  8  -> QQMRMTDBGZBC
+------------------------
+Amount  4 Origin  3 Destination  9
+------------------------
+Stack  0  -> MSRHH
+Stack  1  -> VQFDNQTVBPV
+Stack  2  -> ZMVZD
+Stack  3  -> 
+Stack  4  -> 
+Stack  5  -> NDHNF
+Stack  6  -> QQPGZNZGFFWMHL
+Stack  7  -> 
+Stack  8  -> QQMRMTDBGZBCDQFD
+------------------------
+Amount  11 Origin  2 Destination  3
+------------------------
+Stack  0  -> MSRHH
+Stack  1  -> 
+Stack  2  -> ZMVZDVQFDNQTVBPV
+Stack  3  -> 
+Stack  4  -> 
+Stack  5  -> NDHNF
+Stack  6  -> QQPGZNZGFFWMHL
+Stack  7  -> 
+Stack  8  -> QQMRMTDBGZBCDQFD
+------------------------
+Amount  2 Origin  6 Destination  5
+------------------------
+Stack  0  -> MSRHH
+Stack  1  -> 
+Stack  2  -> ZMVZDVQFDNQTVBPV
+Stack  3  -> 
+Stack  4  -> NF
+Stack  5  -> NDH
+Stack  6  -> QQPGZNZGFFWMHL
+Stack  7  -> 
+Stack  8  -> QQMRMTDBGZBCDQFD
+------------------------
+Amount  1 Origin  9 Destination  4
+------------------------
+Stack  0  -> MSRHH
+Stack  1  -> 
+Stack  2  -> ZMVZDVQFDNQTVBPV
+Stack  3  -> D
+Stack  4  -> NF
+Stack  5  -> NDH
+Stack  6  -> QQPGZNZGFFWMHL
+Stack  7  -> 
+Stack  8  -> QQMRMTDBGZBCDQF
+------------------------
+Amount  10 Origin  7 Destination  3
+------------------------
+Stack  0  -> MSRHH
+Stack  1  -> 
+Stack  2  -> ZMVZDVQFDNQTVBPVZNZGFFWMHL
+Stack  3  -> D
+Stack  4  -> NF
+Stack  5  -> NDH
+Stack  6  -> QQPG
+Stack  7  -> 
+Stack  8  -> QQMRMTDBGZBCDQF
+------------------------
+Amount  3 Origin  1 Destination  8
+------------------------
+Stack  0  -> MS
+Stack  1  -> 
+Stack  2  -> ZMVZDVQFDNQTVBPVZNZGFFWMHL
+Stack  3  -> D
+Stack  4  -> NF
+Stack  5  -> NDH
+Stack  6  -> QQPG
+Stack  7  -> RHH
+Stack  8  -> QQMRMTDBGZBCDQF
+------------------------
+Amount  2 Origin  6 Destination  7
+------------------------
+Stack  0  -> MS
+Stack  1  -> 
+Stack  2  -> ZMVZDVQFDNQTVBPVZNZGFFWMHL
+Stack  3  -> D
+Stack  4  -> NF
+Stack  5  -> N
+Stack  6  -> QQPGDH
+Stack  7  -> RHH
+Stack  8  -> QQMRMTDBGZBCDQF
+------------------------
+Amount  15 Origin  3 Destination  8
+------------------------
+Stack  0  -> MS
+Stack  1  -> 
+Stack  2  -> ZMVZDVQFDNQ
+Stack  3  -> D
+Stack  4  -> NF
+Stack  5  -> N
+Stack  6  -> QQPGDH
+Stack  7  -> RHHTVBPVZNZGFFWMHL
+Stack  8  -> QQMRMTDBGZBCDQF
+------------------------
+Amount  2 Origin  3 Destination  2
+------------------------
+Stack  0  -> MS
+Stack  1  -> NQ
+Stack  2  -> ZMVZDVQFD
+Stack  3  -> D
+Stack  4  -> NF
+Stack  5  -> N
+Stack  6  -> QQPGDH
+Stack  7  -> RHHTVBPVZNZGFFWMHL
+Stack  8  -> QQMRMTDBGZBCDQF
+------------------------
+Amount  2 Origin  1 Destination  3
+------------------------
+Stack  0  -> 
+Stack  1  -> NQ
+Stack  2  -> ZMVZDVQFDMS
+Stack  3  -> D
+Stack  4  -> NF
+Stack  5  -> N
+Stack  6  -> QQPGDH
+Stack  7  -> RHHTVBPVZNZGFFWMHL
+Stack  8  -> QQMRMTDBGZBCDQF
+------------------------
+Amount  14 Origin  9 Destination  6
+------------------------
+Stack  0  -> 
+Stack  1  -> NQ
+Stack  2  -> ZMVZDVQFDMS
+Stack  3  -> D
+Stack  4  -> NF
+Stack  5  -> NQMRMTDBGZBCDQF
+Stack  6  -> QQPGDH
+Stack  7  -> RHHTVBPVZNZGFFWMHL
+Stack  8  -> Q
+------------------------
+Amount  1 Origin  4 Destination  9
+------------------------
+Stack  0  -> 
+Stack  1  -> NQ
+Stack  2  -> ZMVZDVQFDMS
+Stack  3  -> 
+Stack  4  -> NF
+Stack  5  -> NQMRMTDBGZBCDQF
+Stack  6  -> QQPGDH
+Stack  7  -> RHHTVBPVZNZGFFWMHL
+Stack  8  -> QD
+------------------------
+Amount  14 Origin  6 Destination  3
+------------------------
+Stack  0  -> 
+Stack  1  -> NQ
+Stack  2  -> ZMVZDVQFDMSQMRMTDBGZBCDQF
+Stack  3  -> 
+Stack  4  -> NF
+Stack  5  -> N
+Stack  6  -> QQPGDH
+Stack  7  -> RHHTVBPVZNZGFFWMHL
+Stack  8  -> QD
+------------------------
+Amount  5 Origin  7 Destination  2
+------------------------
+Stack  0  -> 
+Stack  1  -> NQQPGDH
+Stack  2  -> ZMVZDVQFDMSQMRMTDBGZBCDQF
+Stack  3  -> 
+Stack  4  -> NF
+Stack  5  -> N
+Stack  6  -> Q
+Stack  7  -> RHHTVBPVZNZGFFWMHL
+Stack  8  -> QD
+------------------------
+Amount  2 Origin  9 Destination  2
+------------------------
+Stack  0  -> 
+Stack  1  -> NQQPGDHQD
+Stack  2  -> ZMVZDVQFDMSQMRMTDBGZBCDQF
+Stack  3  -> 
+Stack  4  -> NF
+Stack  5  -> N
+Stack  6  -> Q
+Stack  7  -> RHHTVBPVZNZGFFWMHL
+Stack  8  -> 
+------------------------
+Amount  1 Origin  5 Destination  3
+------------------------
+Stack  0  -> 
+Stack  1  -> NQQPGDHQD
+Stack  2  -> ZMVZDVQFDMSQMRMTDBGZBCDQFF
+Stack  3  -> 
+Stack  4  -> N
+Stack  5  -> N
+Stack  6  -> Q
+Stack  7  -> RHHTVBPVZNZGFFWMHL
+Stack  8  -> 
+------------------------
+Amount  1 Origin  5 Destination  8
+------------------------
+Stack  0  -> 
+Stack  1  -> NQQPGDHQD
+Stack  2  -> ZMVZDVQFDMSQMRMTDBGZBCDQFF
+Stack  3  -> 
+Stack  4  -> 
+Stack  5  -> N
+Stack  6  -> Q
+Stack  7  -> RHHTVBPVZNZGFFWMHLN
+Stack  8  -> 
+------------------------
+Amount  12 Origin  3 Destination  7
+------------------------
+Stack  0  -> 
+Stack  1  -> NQQPGDHQD
+Stack  2  -> ZMVZDVQFDMSQMR
+Stack  3  -> 
+Stack  4  -> 
+Stack  5  -> N
+Stack  6  -> QMTDBGZBCDQFF
+Stack  7  -> RHHTVBPVZNZGFFWMHLN
+Stack  8  -> 
+------------------------
+Amount  13 Origin  7 Destination  8
+------------------------
+Stack  0  -> 
+Stack  1  -> NQQPGDHQD
+Stack  2  -> ZMVZDVQFDMSQMR
+Stack  3  -> 
+Stack  4  -> 
+Stack  5  -> N
+Stack  6  -> 
+Stack  7  -> RHHTVBPVZNZGFFWMHLNQMTDBGZBCDQFF
+Stack  8  -> 
+------------------------
+Amount  1 Origin  6 Destination  7
+------------------------
+Stack  0  -> 
+Stack  1  -> NQQPGDHQD
+Stack  2  -> ZMVZDVQFDMSQMR
+Stack  3  -> 
+Stack  4  -> 
+Stack  5  -> 
+Stack  6  -> N
+Stack  7  -> RHHTVBPVZNZGFFWMHLNQMTDBGZBCDQFF
+Stack  8  -> 
+------------------------
+Amount  5 Origin  2 Destination  6
+------------------------
+Stack  0  -> 
+Stack  1  -> NQQP
+Stack  2  -> ZMVZDVQFDMSQMR
+Stack  3  -> 
+Stack  4  -> 
+Stack  5  -> GDHQD
+Stack  6  -> N
+Stack  7  -> RHHTVBPVZNZGFFWMHLNQMTDBGZBCDQFF
+Stack  8  -> 
+------------------------
+Amount  1 Origin  6 Destination  2
+------------------------
+Stack  0  -> 
+Stack  1  -> NQQPD
+Stack  2  -> ZMVZDVQFDMSQMR
+Stack  3  -> 
+Stack  4  -> 
+Stack  5  -> GDHQ
+Stack  6  -> N
+Stack  7  -> RHHTVBPVZNZGFFWMHLNQMTDBGZBCDQFF
+Stack  8  -> 
+------------------------
+Amount  1 Origin  7 Destination  6
+------------------------
+Stack  0  -> 
+Stack  1  -> NQQPD
+Stack  2  -> ZMVZDVQFDMSQMR
+Stack  3  -> 
+Stack  4  -> 
+Stack  5  -> GDHQN
+Stack  6  -> 
+Stack  7  -> RHHTVBPVZNZGFFWMHLNQMTDBGZBCDQFF
+Stack  8  -> 
+------------------------
+Amount  4 Origin  6 Destination  8
+------------------------
+Stack  0  -> 
+Stack  1  -> NQQPD
+Stack  2  -> ZMVZDVQFDMSQMR
+Stack  3  -> 
+Stack  4  -> 
+Stack  5  -> G
+Stack  6  -> 
+Stack  7  -> RHHTVBPVZNZGFFWMHLNQMTDBGZBCDQFFDHQN
+Stack  8  -> 
+------------------------
+Amount  31 Origin  8 Destination  7
+------------------------
+Stack  0  -> 
+Stack  1  -> NQQPD
+Stack  2  -> ZMVZDVQFDMSQMR
+Stack  3  -> 
+Stack  4  -> 
+Stack  5  -> G
+Stack  6  -> BPVZNZGFFWMHLNQMTDBGZBCDQFFDHQN
+Stack  7  -> RHHTV
+Stack  8  -> 
+------------------------
+Amount  15 Origin  7 Destination  8
+------------------------
+Stack  0  -> 
+Stack  1  -> NQQPD
+Stack  2  -> ZMVZDVQFDMSQMR
+Stack  3  -> 
+Stack  4  -> 
+Stack  5  -> G
+Stack  6  -> BPVZNZGFFWMHLNQM
+Stack  7  -> RHHTVTDBGZBCDQFFDHQN
+Stack  8  -> 
+------------------------
+Amount  7 Origin  7 Destination  5
+------------------------
+Stack  0  -> 
+Stack  1  -> NQQPD
+Stack  2  -> ZMVZDVQFDMSQMR
+Stack  3  -> 
+Stack  4  -> WMHLNQM
+Stack  5  -> G
+Stack  6  -> BPVZNZGFF
+Stack  7  -> RHHTVTDBGZBCDQFFDHQN
+Stack  8  -> 
+------------------------
+Amount  4 Origin  2 Destination  3
+------------------------
+Stack  0  -> 
+Stack  1  -> N
+Stack  2  -> ZMVZDVQFDMSQMRQQPD
+Stack  3  -> 
+Stack  4  -> WMHLNQM
+Stack  5  -> G
+Stack  6  -> BPVZNZGFF
+Stack  7  -> RHHTVTDBGZBCDQFFDHQN
+Stack  8  -> 
+------------------------
+Amount  1 Origin  6 Destination  2
+------------------------
+Stack  0  -> 
+Stack  1  -> NG
+Stack  2  -> ZMVZDVQFDMSQMRQQPD
+Stack  3  -> 
+Stack  4  -> WMHLNQM
+Stack  5  -> 
+Stack  6  -> BPVZNZGFF
+Stack  7  -> RHHTVTDBGZBCDQFFDHQN
+Stack  8  -> 
+------------------------
+Amount  3 Origin  5 Destination  8
+------------------------
+Stack  0  -> 
+Stack  1  -> NG
+Stack  2  -> ZMVZDVQFDMSQMRQQPD
+Stack  3  -> 
+Stack  4  -> WMHL
+Stack  5  -> 
+Stack  6  -> BPVZNZGFF
+Stack  7  -> RHHTVTDBGZBCDQFFDHQNNQM
+Stack  8  -> 
+------------------------
+Amount  9 Origin  7 Destination  4
+------------------------
+Stack  0  -> 
+Stack  1  -> NG
+Stack  2  -> ZMVZDVQFDMSQMRQQPD
+Stack  3  -> BPVZNZGFF
+Stack  4  -> WMHL
+Stack  5  -> 
+Stack  6  -> 
+Stack  7  -> RHHTVTDBGZBCDQFFDHQNNQM
+Stack  8  -> 
+------------------------
+Amount  2 Origin  2 Destination  9
+------------------------
+Stack  0  -> 
+Stack  1  -> 
+Stack  2  -> ZMVZDVQFDMSQMRQQPD
+Stack  3  -> BPVZNZGFF
+Stack  4  -> WMHL
+Stack  5  -> 
+Stack  6  -> 
+Stack  7  -> RHHTVTDBGZBCDQFFDHQNNQM
+Stack  8  -> NG
+------------------------
+Amount  4 Origin  5 Destination  6
+------------------------
+Stack  0  -> 
+Stack  1  -> 
+Stack  2  -> ZMVZDVQFDMSQMRQQPD
+Stack  3  -> BPVZNZGFF
+Stack  4  -> 
+Stack  5  -> WMHL
+Stack  6  -> 
+Stack  7  -> RHHTVTDBGZBCDQFFDHQNNQM
+Stack  8  -> NG
+------------------------
+Amount  13 Origin  3 Destination  9
+------------------------
+Stack  0  -> 
+Stack  1  -> 
+Stack  2  -> ZMVZD
+Stack  3  -> BPVZNZGFF
+Stack  4  -> 
+Stack  5  -> WMHL
+Stack  6  -> 
+Stack  7  -> RHHTVTDBGZBCDQFFDHQNNQM
+Stack  8  -> NGVQFDMSQMRQQPD
+------------------------
+Amount  3 Origin  3 Destination  5
+------------------------
+Stack  0  -> 
+Stack  1  -> 
+Stack  2  -> ZM
+Stack  3  -> BPVZNZGFF
+Stack  4  -> VZD
+Stack  5  -> WMHL
+Stack  6  -> 
+Stack  7  -> RHHTVTDBGZBCDQFFDHQNNQM
+Stack  8  -> NGVQFDMSQMRQQPD
+------------------------
+Amount  13 Origin  9 Destination  1
+------------------------
+Stack  0  -> VQFDMSQMRQQPD
+Stack  1  -> 
+Stack  2  -> ZM
+Stack  3  -> BPVZNZGFF
+Stack  4  -> VZD
+Stack  5  -> WMHL
+Stack  6  -> 
+Stack  7  -> RHHTVTDBGZBCDQFFDHQNNQM
+Stack  8  -> NG
+------------------------
+Amount  1 Origin  3 Destination  2
+------------------------
+Stack  0  -> VQFDMSQMRQQPD
+Stack  1  -> M
+Stack  2  -> Z
+Stack  3  -> BPVZNZGFF
+Stack  4  -> VZD
+Stack  5  -> WMHL
+Stack  6  -> 
+Stack  7  -> RHHTVTDBGZBCDQFFDHQNNQM
+Stack  8  -> NG
+------------------------
+Amount  2 Origin  6 Destination  5
+------------------------
+Stack  0  -> VQFDMSQMRQQPD
+Stack  1  -> M
+Stack  2  -> Z
+Stack  3  -> BPVZNZGFF
+Stack  4  -> VZDHL
+Stack  5  -> WM
+Stack  6  -> 
+Stack  7  -> RHHTVTDBGZBCDQFFDHQNNQM
+Stack  8  -> NG
+------------------------
+Amount  1 Origin  3 Destination  4
+------------------------
+Stack  0  -> VQFDMSQMRQQPD
+Stack  1  -> M
+Stack  2  -> 
+Stack  3  -> BPVZNZGFFZ
+Stack  4  -> VZDHL
+Stack  5  -> WM
+Stack  6  -> 
+Stack  7  -> RHHTVTDBGZBCDQFFDHQNNQM
+Stack  8  -> NG
+------------------------
+Amount  2 Origin  6 Destination  5
+------------------------
+Stack  0  -> VQFDMSQMRQQPD
+Stack  1  -> M
+Stack  2  -> 
+Stack  3  -> BPVZNZGFFZ
+Stack  4  -> VZDHLWM
+Stack  5  -> 
+Stack  6  -> 
+Stack  7  -> RHHTVTDBGZBCDQFFDHQNNQM
+Stack  8  -> NG
+------------------------
+Amount  1 Origin  9 Destination  1
+------------------------
+Stack  0  -> VQFDMSQMRQQPDG
+Stack  1  -> M
+Stack  2  -> 
+Stack  3  -> BPVZNZGFFZ
+Stack  4  -> VZDHLWM
+Stack  5  -> 
+Stack  6  -> 
+Stack  7  -> RHHTVTDBGZBCDQFFDHQNNQM
+Stack  8  -> N
+------------------------
+Amount  6 Origin  8 Destination  9
+------------------------
+Stack  0  -> VQFDMSQMRQQPDG
+Stack  1  -> M
+Stack  2  -> 
+Stack  3  -> BPVZNZGFFZ
+Stack  4  -> VZDHLWM
+Stack  5  -> 
+Stack  6  -> 
+Stack  7  -> RHHTVTDBGZBCDQFFD
+Stack  8  -> NHQNNQM
+------------------------
+Amount  5 Origin  5 Destination  2
+------------------------
+Stack  0  -> VQFDMSQMRQQPDG
+Stack  1  -> MDHLWM
+Stack  2  -> 
+Stack  3  -> BPVZNZGFFZ
+Stack  4  -> VZ
+Stack  5  -> 
+Stack  6  -> 
+Stack  7  -> RHHTVTDBGZBCDQFFD
+Stack  8  -> NHQNNQM
+------------------------
+Amount  2 Origin  9 Destination  8
+------------------------
+Stack  0  -> VQFDMSQMRQQPDG
+Stack  1  -> MDHLWM
+Stack  2  -> 
+Stack  3  -> BPVZNZGFFZ
+Stack  4  -> VZ
+Stack  5  -> 
+Stack  6  -> 
+Stack  7  -> RHHTVTDBGZBCDQFFDQM
+Stack  8  -> NHQNN
+------------------------
+Amount  2 Origin  1 Destination  6
+------------------------
+Stack  0  -> VQFDMSQMRQQP
+Stack  1  -> MDHLWM
+Stack  2  -> 
+Stack  3  -> BPVZNZGFFZ
+Stack  4  -> VZ
+Stack  5  -> DG
+Stack  6  -> 
+Stack  7  -> RHHTVTDBGZBCDQFFDQM
+Stack  8  -> NHQNN
+------------------------
+Amount  1 Origin  9 Destination  4
+------------------------
+Stack  0  -> VQFDMSQMRQQP
+Stack  1  -> MDHLWM
+Stack  2  -> 
+Stack  3  -> BPVZNZGFFZN
+Stack  4  -> VZ
+Stack  5  -> DG
+Stack  6  -> 
+Stack  7  -> RHHTVTDBGZBCDQFFDQM
+Stack  8  -> NHQN
+------------------------
+Amount  12 Origin  8 Destination  4
+------------------------
+Stack  0  -> VQFDMSQMRQQP
+Stack  1  -> MDHLWM
+Stack  2  -> 
+Stack  3  -> BPVZNZGFFZNBGZBCDQFFDQM
+Stack  4  -> VZ
+Stack  5  -> DG
+Stack  6  -> 
+Stack  7  -> RHHTVTD
+Stack  8  -> NHQN
+------------------------
+Amount  2 Origin  6 Destination  9
+------------------------
+Stack  0  -> VQFDMSQMRQQP
+Stack  1  -> MDHLWM
+Stack  2  -> 
+Stack  3  -> BPVZNZGFFZNBGZBCDQFFDQM
+Stack  4  -> VZ
+Stack  5  -> 
+Stack  6  -> 
+Stack  7  -> RHHTVTD
+Stack  8  -> NHQNDG
+------------------------
+Amount  11 Origin  4 Destination  3
+------------------------
+Stack  0  -> VQFDMSQMRQQP
+Stack  1  -> MDHLWM
+Stack  2  -> GZBCDQFFDQM
+Stack  3  -> BPVZNZGFFZNB
+Stack  4  -> VZ
+Stack  5  -> 
+Stack  6  -> 
+Stack  7  -> RHHTVTD
+Stack  8  -> NHQNDG
+------------------------
+Amount  9 Origin  4 Destination  2
+------------------------
+Stack  0  -> VQFDMSQMRQQP
+Stack  1  -> MDHLWMZNZGFFZNB
+Stack  2  -> GZBCDQFFDQM
+Stack  3  -> BPV
+Stack  4  -> VZ
+Stack  5  -> 
+Stack  6  -> 
+Stack  7  -> RHHTVTD
+Stack  8  -> NHQNDG
+------------------------
+Amount  4 Origin  9 Destination  7
+------------------------
+Stack  0  -> VQFDMSQMRQQP
+Stack  1  -> MDHLWMZNZGFFZNB
+Stack  2  -> GZBCDQFFDQM
+Stack  3  -> BPV
+Stack  4  -> VZ
+Stack  5  -> 
+Stack  6  -> QNDG
+Stack  7  -> RHHTVTD
+Stack  8  -> NH
+------------------------
+Amount  2 Origin  5 Destination  6
+------------------------
+Stack  0  -> VQFDMSQMRQQP
+Stack  1  -> MDHLWMZNZGFFZNB
+Stack  2  -> GZBCDQFFDQM
+Stack  3  -> BPV
+Stack  4  -> 
+Stack  5  -> VZ
+Stack  6  -> QNDG
+Stack  7  -> RHHTVTD
+Stack  8  -> NH
+------------------------
+Amount  8 Origin  3 Destination  4
+------------------------
+Stack  0  -> VQFDMSQMRQQP
+Stack  1  -> MDHLWMZNZGFFZNB
+Stack  2  -> GZB
+Stack  3  -> BPVCDQFFDQM
+Stack  4  -> 
+Stack  5  -> VZ
+Stack  6  -> QNDG
+Stack  7  -> RHHTVTD
+Stack  8  -> NH
+------------------------
+Amount  2 Origin  3 Destination  9
+------------------------
+Stack  0  -> VQFDMSQMRQQP
+Stack  1  -> MDHLWMZNZGFFZNB
+Stack  2  -> G
+Stack  3  -> BPVCDQFFDQM
+Stack  4  -> 
+Stack  5  -> VZ
+Stack  6  -> QNDG
+Stack  7  -> RHHTVTD
+Stack  8  -> NHZB
+------------------------
+Amount  2 Origin  8 Destination  9
+------------------------
+Stack  0  -> VQFDMSQMRQQP
+Stack  1  -> MDHLWMZNZGFFZNB
+Stack  2  -> G
+Stack  3  -> BPVCDQFFDQM
+Stack  4  -> 
+Stack  5  -> VZ
+Stack  6  -> QNDG
+Stack  7  -> RHHTV
+Stack  8  -> NHZBTD
+------------------------
+Amount  4 Origin  4 Destination  9
+------------------------
+Stack  0  -> VQFDMSQMRQQP
+Stack  1  -> MDHLWMZNZGFFZNB
+Stack  2  -> G
+Stack  3  -> BPVCDQF
+Stack  4  -> 
+Stack  5  -> VZ
+Stack  6  -> QNDG
+Stack  7  -> RHHTV
+Stack  8  -> NHZBTDFDQM
+------------------------
+Amount  2 Origin  6 Destination  7
+------------------------
+Stack  0  -> VQFDMSQMRQQP
+Stack  1  -> MDHLWMZNZGFFZNB
+Stack  2  -> G
+Stack  3  -> BPVCDQF
+Stack  4  -> 
+Stack  5  -> 
+Stack  6  -> QNDGVZ
+Stack  7  -> RHHTV
+Stack  8  -> NHZBTDFDQM
+------------------------
+Amount  1 Origin  3 Destination  7
+------------------------
+Stack  0  -> VQFDMSQMRQQP
+Stack  1  -> MDHLWMZNZGFFZNB
+Stack  2  -> 
+Stack  3  -> BPVCDQF
+Stack  4  -> 
+Stack  5  -> 
+Stack  6  -> QNDGVZG
+Stack  7  -> RHHTV
+Stack  8  -> NHZBTDFDQM
+------------------------
+Amount  2 Origin  9 Destination  1
+------------------------
+Stack  0  -> VQFDMSQMRQQPQM
+Stack  1  -> MDHLWMZNZGFFZNB
+Stack  2  -> 
+Stack  3  -> BPVCDQF
+Stack  4  -> 
+Stack  5  -> 
+Stack  6  -> QNDGVZG
+Stack  7  -> RHHTV
+Stack  8  -> NHZBTDFD
+------------------------
+Amount  5 Origin  4 Destination  2
+------------------------
+Stack  0  -> VQFDMSQMRQQPQM
+Stack  1  -> MDHLWMZNZGFFZNBVCDQF
+Stack  2  -> 
+Stack  3  -> BP
+Stack  4  -> 
+Stack  5  -> 
+Stack  6  -> QNDGVZG
+Stack  7  -> RHHTV
+Stack  8  -> NHZBTDFD
+------------------------
+Amount  9 Origin  1 Destination  8
+------------------------
+Stack  0  -> VQFDM
+Stack  1  -> MDHLWMZNZGFFZNBVCDQF
+Stack  2  -> 
+Stack  3  -> BP
+Stack  4  -> 
+Stack  5  -> 
+Stack  6  -> QNDGVZG
+Stack  7  -> RHHTVSQMRQQPQM
+Stack  8  -> NHZBTDFD
+------------------------
+Amount  1 Origin  4 Destination  9
+------------------------
+Stack  0  -> VQFDM
+Stack  1  -> MDHLWMZNZGFFZNBVCDQF
+Stack  2  -> 
+Stack  3  -> B
+Stack  4  -> 
+Stack  5  -> 
+Stack  6  -> QNDGVZG
+Stack  7  -> RHHTVSQMRQQPQM
+Stack  8  -> NHZBTDFDP
+------------------------
+Amount  4 Origin  9 Destination  3
+------------------------
+Stack  0  -> VQFDM
+Stack  1  -> MDHLWMZNZGFFZNBVCDQF
+Stack  2  -> DFDP
+Stack  3  -> B
+Stack  4  -> 
+Stack  5  -> 
+Stack  6  -> QNDGVZG
+Stack  7  -> RHHTVSQMRQQPQM
+Stack  8  -> NHZBT
+------------------------
+Amount  1 Origin  3 Destination  6
+------------------------
+Stack  0  -> VQFDM
+Stack  1  -> MDHLWMZNZGFFZNBVCDQF
+Stack  2  -> DFD
+Stack  3  -> B
+Stack  4  -> 
+Stack  5  -> P
+Stack  6  -> QNDGVZG
+Stack  7  -> RHHTVSQMRQQPQM
+Stack  8  -> NHZBT
+------------------------
+Amount  4 Origin  8 Destination  7
+------------------------
+Stack  0  -> VQFDM
+Stack  1  -> MDHLWMZNZGFFZNBVCDQF
+Stack  2  -> DFD
+Stack  3  -> B
+Stack  4  -> 
+Stack  5  -> P
+Stack  6  -> QNDGVZGQPQM
+Stack  7  -> RHHTVSQMRQ
+Stack  8  -> NHZBT
+------------------------
+Amount  1 Origin  3 Destination  6
+------------------------
+Stack  0  -> VQFDM
+Stack  1  -> MDHLWMZNZGFFZNBVCDQF
+Stack  2  -> DF
+Stack  3  -> B
+Stack  4  -> 
+Stack  5  -> PD
+Stack  6  -> QNDGVZGQPQM
+Stack  7  -> RHHTVSQMRQ
+Stack  8  -> NHZBT
+------------------------
+Amount  4 Origin  1 Destination  7
+------------------------
+Stack  0  -> V
+Stack  1  -> MDHLWMZNZGFFZNBVCDQF
+Stack  2  -> DF
+Stack  3  -> B
+Stack  4  -> 
+Stack  5  -> PD
+Stack  6  -> QNDGVZGQPQMQFDM
+Stack  7  -> RHHTVSQMRQ
+Stack  8  -> NHZBT
+------------------------
+Amount  1 Origin  3 Destination  8
+------------------------
+Stack  0  -> V
+Stack  1  -> MDHLWMZNZGFFZNBVCDQF
+Stack  2  -> D
+Stack  3  -> B
+Stack  4  -> 
+Stack  5  -> PD
+Stack  6  -> QNDGVZGQPQMQFDM
+Stack  7  -> RHHTVSQMRQF
+Stack  8  -> NHZBT
+------------------------
+Amount  1 Origin  1 Destination  8
+------------------------
+Stack  0  -> 
+Stack  1  -> MDHLWMZNZGFFZNBVCDQF
+Stack  2  -> D
+Stack  3  -> B
+Stack  4  -> 
+Stack  5  -> PD
+Stack  6  -> QNDGVZGQPQMQFDM
+Stack  7  -> RHHTVSQMRQFV
+Stack  8  -> NHZBT
+------------------------
+Amount  2 Origin  6 Destination  7
+------------------------
+Stack  0  -> 
+Stack  1  -> MDHLWMZNZGFFZNBVCDQF
+Stack  2  -> D
+Stack  3  -> B
+Stack  4  -> 
+Stack  5  -> 
+Stack  6  -> QNDGVZGQPQMQFDMPD
+Stack  7  -> RHHTVSQMRQFV
+Stack  8  -> NHZBT
+------------------------
+Amount  2 Origin  9 Destination  1
+------------------------
+Stack  0  -> BT
+Stack  1  -> MDHLWMZNZGFFZNBVCDQF
+Stack  2  -> D
+Stack  3  -> B
+Stack  4  -> 
+Stack  5  -> 
+Stack  6  -> QNDGVZGQPQMQFDMPD
+Stack  7  -> RHHTVSQMRQFV
+Stack  8  -> NHZ
+------------------------
+Amount  1 Origin  4 Destination  5
+------------------------
+Stack  0  -> BT
+Stack  1  -> MDHLWMZNZGFFZNBVCDQF
+Stack  2  -> D
+Stack  3  -> 
+Stack  4  -> B
+Stack  5  -> 
+Stack  6  -> QNDGVZGQPQMQFDMPD
+Stack  7  -> RHHTVSQMRQFV
+Stack  8  -> NHZ
+------------------------
+Amount  1 Origin  1 Destination  5
+------------------------
+Stack  0  -> B
+Stack  1  -> MDHLWMZNZGFFZNBVCDQF
+Stack  2  -> D
+Stack  3  -> 
+Stack  4  -> BT
+Stack  5  -> 
+Stack  6  -> QNDGVZGQPQMQFDMPD
+Stack  7  -> RHHTVSQMRQFV
+Stack  8  -> NHZ
+------------------------
+Amount  11 Origin  8 Destination  4
+------------------------
+Stack  0  -> B
+Stack  1  -> MDHLWMZNZGFFZNBVCDQF
+Stack  2  -> D
+Stack  3  -> HHTVSQMRQFV
+Stack  4  -> BT
+Stack  5  -> 
+Stack  6  -> QNDGVZGQPQMQFDMPD
+Stack  7  -> R
+Stack  8  -> NHZ
+------------------------
+Amount  12 Origin  2 Destination  8
+------------------------
+Stack  0  -> B
+Stack  1  -> MDHLWMZN
+Stack  2  -> D
+Stack  3  -> HHTVSQMRQFV
+Stack  4  -> BT
+Stack  5  -> 
+Stack  6  -> QNDGVZGQPQMQFDMPD
+Stack  7  -> RZGFFZNBVCDQF
+Stack  8  -> NHZ
+------------------------
+Amount  1 Origin  9 Destination  8
+------------------------
+Stack  0  -> B
+Stack  1  -> MDHLWMZN
+Stack  2  -> D
+Stack  3  -> HHTVSQMRQFV
+Stack  4  -> BT
+Stack  5  -> 
+Stack  6  -> QNDGVZGQPQMQFDMPD
+Stack  7  -> RZGFFZNBVCDQFZ
+Stack  8  -> NH
+------------------------
+Amount  2 Origin  4 Destination  5
+------------------------
+Stack  0  -> B
+Stack  1  -> MDHLWMZN
+Stack  2  -> D
+Stack  3  -> HHTVSQMRQ
+Stack  4  -> BTFV
+Stack  5  -> 
+Stack  6  -> QNDGVZGQPQMQFDMPD
+Stack  7  -> RZGFFZNBVCDQFZ
+Stack  8  -> NH
+------------------------
+Amount  1 Origin  1 Destination  8
+------------------------
+Stack  0  -> 
+Stack  1  -> MDHLWMZN
+Stack  2  -> D
+Stack  3  -> HHTVSQMRQ
+Stack  4  -> BTFV
+Stack  5  -> 
+Stack  6  -> QNDGVZGQPQMQFDMPD
+Stack  7  -> RZGFFZNBVCDQFZB
+Stack  8  -> NH
+------------------------
+Amount  5 Origin  2 Destination  1
+------------------------
+Stack  0  -> LWMZN
+Stack  1  -> MDH
+Stack  2  -> D
+Stack  3  -> HHTVSQMRQ
+Stack  4  -> BTFV
+Stack  5  -> 
+Stack  6  -> QNDGVZGQPQMQFDMPD
+Stack  7  -> RZGFFZNBVCDQFZB
+Stack  8  -> NH
+------------------------
+Amount  1 Origin  3 Destination  2
+------------------------
+Stack  0  -> LWMZN
+Stack  1  -> MDHD
+Stack  2  -> 
+Stack  3  -> HHTVSQMRQ
+Stack  4  -> BTFV
+Stack  5  -> 
+Stack  6  -> QNDGVZGQPQMQFDMPD
+Stack  7  -> RZGFFZNBVCDQFZB
+Stack  8  -> NH
+------------------------
+Amount  9 Origin  7 Destination  3
+------------------------
+Stack  0  -> LWMZN
+Stack  1  -> MDHD
+Stack  2  -> PQMQFDMPD
+Stack  3  -> HHTVSQMRQ
+Stack  4  -> BTFV
+Stack  5  -> 
+Stack  6  -> QNDGVZGQ
+Stack  7  -> RZGFFZNBVCDQFZB
+Stack  8  -> NH
+------------------------
+Amount  6 Origin  7 Destination  5
+------------------------
+Stack  0  -> LWMZN
+Stack  1  -> MDHD
+Stack  2  -> PQMQFDMPD
+Stack  3  -> HHTVSQMRQ
+Stack  4  -> BTFVDGVZGQ
+Stack  5  -> 
+Stack  6  -> QN
+Stack  7  -> RZGFFZNBVCDQFZB
+Stack  8  -> NH
+------------------------
+Amount  1 Origin  3 Destination  4
+------------------------
+Stack  0  -> LWMZN
+Stack  1  -> MDHD
+Stack  2  -> PQMQFDMP
+Stack  3  -> HHTVSQMRQD
+Stack  4  -> BTFVDGVZGQ
+Stack  5  -> 
+Stack  6  -> QN
+Stack  7  -> RZGFFZNBVCDQFZB
+Stack  8  -> NH
+------------------------
+Amount  1 Origin  5 Destination  1
+------------------------
+Stack  0  -> LWMZNQ
+Stack  1  -> MDHD
+Stack  2  -> PQMQFDMP
+Stack  3  -> HHTVSQMRQD
+Stack  4  -> BTFVDGVZG
+Stack  5  -> 
+Stack  6  -> QN
+Stack  7  -> RZGFFZNBVCDQFZB
+Stack  8  -> NH
+------------------------
+Amount  4 Origin  2 Destination  5
+------------------------
+Stack  0  -> LWMZNQ
+Stack  1  -> 
+Stack  2  -> PQMQFDMP
+Stack  3  -> HHTVSQMRQD
+Stack  4  -> BTFVDGVZGMDHD
+Stack  5  -> 
+Stack  6  -> QN
+Stack  7  -> RZGFFZNBVCDQFZB
+Stack  8  -> NH
+------------------------
+Amount  4 Origin  4 Destination  1
+------------------------
+Stack  0  -> LWMZNQMRQD
+Stack  1  -> 
+Stack  2  -> PQMQFDMP
+Stack  3  -> HHTVSQ
+Stack  4  -> BTFVDGVZGMDHD
+Stack  5  -> 
+Stack  6  -> QN
+Stack  7  -> RZGFFZNBVCDQFZB
+Stack  8  -> NH
+------------------------
+Amount  2 Origin  7 Destination  3
+------------------------
+Stack  0  -> LWMZNQMRQD
+Stack  1  -> 
+Stack  2  -> PQMQFDMPQN
+Stack  3  -> HHTVSQ
+Stack  4  -> BTFVDGVZGMDHD
+Stack  5  -> 
+Stack  6  -> 
+Stack  7  -> RZGFFZNBVCDQFZB
+Stack  8  -> NH
+------------------------
+Amount  3 Origin  4 Destination  1
+------------------------
+Stack  0  -> LWMZNQMRQDVSQ
+Stack  1  -> 
+Stack  2  -> PQMQFDMPQN
+Stack  3  -> HHT
+Stack  4  -> BTFVDGVZGMDHD
+Stack  5  -> 
+Stack  6  -> 
+Stack  7  -> RZGFFZNBVCDQFZB
+Stack  8  -> NH
+------------------------
+Amount  6 Origin  3 Destination  7
+------------------------
+Stack  0  -> LWMZNQMRQDVSQ
+Stack  1  -> 
+Stack  2  -> PQMQ
+Stack  3  -> HHT
+Stack  4  -> BTFVDGVZGMDHD
+Stack  5  -> 
+Stack  6  -> FDMPQN
+Stack  7  -> RZGFFZNBVCDQFZB
+Stack  8  -> NH
+------------------------
+Amount  9 Origin  8 Destination  7
+------------------------
+Stack  0  -> LWMZNQMRQDVSQ
+Stack  1  -> 
+Stack  2  -> PQMQ
+Stack  3  -> HHT
+Stack  4  -> BTFVDGVZGMDHD
+Stack  5  -> 
+Stack  6  -> FDMPQNNBVCDQFZB
+Stack  7  -> RZGFFZ
+Stack  8  -> NH
+------------------------
+Amount  3 Origin  8 Destination  7
+------------------------
+Stack  0  -> LWMZNQMRQDVSQ
+Stack  1  -> 
+Stack  2  -> PQMQ
+Stack  3  -> HHT
+Stack  4  -> BTFVDGVZGMDHD
+Stack  5  -> 
+Stack  6  -> FDMPQNNBVCDQFZBFFZ
+Stack  7  -> RZG
+Stack  8  -> NH
+------------------------
+Amount  11 Origin  5 Destination  9
+------------------------
+Stack  0  -> LWMZNQMRQDVSQ
+Stack  1  -> 
+Stack  2  -> PQMQ
+Stack  3  -> HHT
+Stack  4  -> BT
+Stack  5  -> 
+Stack  6  -> FDMPQNNBVCDQFZBFFZ
+Stack  7  -> RZG
+Stack  8  -> NHFVDGVZGMDHD
+------------------------
+Amount  2 Origin  4 Destination  8
+------------------------
+Stack  0  -> LWMZNQMRQDVSQ
+Stack  1  -> 
+Stack  2  -> PQMQ
+Stack  3  -> H
+Stack  4  -> BT
+Stack  5  -> 
+Stack  6  -> FDMPQNNBVCDQFZBFFZ
+Stack  7  -> RZGHT
+Stack  8  -> NHFVDGVZGMDHD
+------------------------
+Amount  5 Origin  8 Destination  7
+------------------------
+Stack  0  -> LWMZNQMRQDVSQ
+Stack  1  -> 
+Stack  2  -> PQMQ
+Stack  3  -> H
+Stack  4  -> BT
+Stack  5  -> 
+Stack  6  -> FDMPQNNBVCDQFZBFFZRZGHT
+Stack  7  -> 
+Stack  8  -> NHFVDGVZGMDHD
+------------------------
+Amount  1 Origin  9 Destination  8
+------------------------
+Stack  0  -> LWMZNQMRQDVSQ
+Stack  1  -> 
+Stack  2  -> PQMQ
+Stack  3  -> H
+Stack  4  -> BT
+Stack  5  -> 
+Stack  6  -> FDMPQNNBVCDQFZBFFZRZGHT
+Stack  7  -> D
+Stack  8  -> NHFVDGVZGMDH
+------------------------
+Amount  12 Origin  9 Destination  5
+------------------------
+Stack  0  -> LWMZNQMRQDVSQ
+Stack  1  -> 
+Stack  2  -> PQMQ
+Stack  3  -> H
+Stack  4  -> BTNHFVDGVZGMDH
+Stack  5  -> 
+Stack  6  -> FDMPQNNBVCDQFZBFFZRZGHT
+Stack  7  -> D
+Stack  8  -> 
+------------------------
+Amount  1 Origin  4 Destination  5
+------------------------
+Stack  0  -> LWMZNQMRQDVSQ
+Stack  1  -> 
+Stack  2  -> PQMQ
+Stack  3  -> 
+Stack  4  -> BTNHFVDGVZGMDHH
+Stack  5  -> 
+Stack  6  -> FDMPQNNBVCDQFZBFFZRZGHT
+Stack  7  -> D
+Stack  8  -> 
+------------------------
+Amount  5 Origin  1 Destination  8
+------------------------
+Stack  0  -> LWMZNQMR
+Stack  1  -> 
+Stack  2  -> PQMQ
+Stack  3  -> 
+Stack  4  -> BTNHFVDGVZGMDHH
+Stack  5  -> 
+Stack  6  -> FDMPQNNBVCDQFZBFFZRZGHT
+Stack  7  -> DQDVSQ
+Stack  8  -> 
+------------------------
+Amount  6 Origin  8 Destination  3
+------------------------
+Stack  0  -> LWMZNQMR
+Stack  1  -> 
+Stack  2  -> PQMQDQDVSQ
+Stack  3  -> 
+Stack  4  -> BTNHFVDGVZGMDHH
+Stack  5  -> 
+Stack  6  -> FDMPQNNBVCDQFZBFFZRZGHT
+Stack  7  -> 
+Stack  8  -> 
+------------------------
+Amount  1 Origin  3 Destination  8
+------------------------
+Stack  0  -> LWMZNQMR
+Stack  1  -> 
+Stack  2  -> PQMQDQDVS
+Stack  3  -> 
+Stack  4  -> BTNHFVDGVZGMDHH
+Stack  5  -> 
+Stack  6  -> FDMPQNNBVCDQFZBFFZRZGHT
+Stack  7  -> Q
+Stack  8  -> 
+------------------------
+Amount  3 Origin  7 Destination  9
+------------------------
+Stack  0  -> LWMZNQMR
+Stack  1  -> 
+Stack  2  -> PQMQDQDVS
+Stack  3  -> 
+Stack  4  -> BTNHFVDGVZGMDHH
+Stack  5  -> 
+Stack  6  -> FDMPQNNBVCDQFZBFFZRZ
+Stack  7  -> Q
+Stack  8  -> GHT
+------------------------
+Amount  4 Origin  7 Destination  6
+------------------------
+Stack  0  -> LWMZNQMR
+Stack  1  -> 
+Stack  2  -> PQMQDQDVS
+Stack  3  -> 
+Stack  4  -> BTNHFVDGVZGMDHH
+Stack  5  -> FZRZ
+Stack  6  -> FDMPQNNBVCDQFZBF
+Stack  7  -> Q
+Stack  8  -> GHT
+------------------------
+Amount  3 Origin  1 Destination  3
+------------------------
+Stack  0  -> LWMZN
+Stack  1  -> 
+Stack  2  -> PQMQDQDVSQMR
+Stack  3  -> 
+Stack  4  -> BTNHFVDGVZGMDHH
+Stack  5  -> FZRZ
+Stack  6  -> FDMPQNNBVCDQFZBF
+Stack  7  -> Q
+Stack  8  -> GHT
+------------------------
+Amount  3 Origin  1 Destination  6
+------------------------
+Stack  0  -> LW
+Stack  1  -> 
+Stack  2  -> PQMQDQDVSQMR
+Stack  3  -> 
+Stack  4  -> BTNHFVDGVZGMDHH
+Stack  5  -> FZRZMZN
+Stack  6  -> FDMPQNNBVCDQFZBF
+Stack  7  -> Q
+Stack  8  -> GHT
+------------------------
+Amount  1 Origin  8 Destination  1
+------------------------
+Stack  0  -> LWQ
+Stack  1  -> 
+Stack  2  -> PQMQDQDVSQMR
+Stack  3  -> 
+Stack  4  -> BTNHFVDGVZGMDHH
+Stack  5  -> FZRZMZN
+Stack  6  -> FDMPQNNBVCDQFZBF
+Stack  7  -> 
+Stack  8  -> GHT
+------------------------
+Amount  7 Origin  6 Destination  2
+------------------------
+Stack  0  -> LWQ
+Stack  1  -> FZRZMZN
+Stack  2  -> PQMQDQDVSQMR
+Stack  3  -> 
+Stack  4  -> BTNHFVDGVZGMDHH
+Stack  5  -> 
+Stack  6  -> FDMPQNNBVCDQFZBF
+Stack  7  -> 
+Stack  8  -> GHT
+------------------------
+Amount  3 Origin  1 Destination  8
+------------------------
+Stack  0  -> 
+Stack  1  -> FZRZMZN
+Stack  2  -> PQMQDQDVSQMR
+Stack  3  -> 
+Stack  4  -> BTNHFVDGVZGMDHH
+Stack  5  -> 
+Stack  6  -> FDMPQNNBVCDQFZBF
+Stack  7  -> LWQ
+Stack  8  -> GHT
+------------------------
+Amount  7 Origin  3 Destination  4
+------------------------
+Stack  0  -> 
+Stack  1  -> FZRZMZN
+Stack  2  -> PQMQD
+Stack  3  -> QDVSQMR
+Stack  4  -> BTNHFVDGVZGMDHH
+Stack  5  -> 
+Stack  6  -> FDMPQNNBVCDQFZBF
+Stack  7  -> LWQ
+Stack  8  -> GHT
+------------------------
+Amount  3 Origin  4 Destination  1
+------------------------
+Stack  0  -> QMR
+Stack  1  -> FZRZMZN
+Stack  2  -> PQMQD
+Stack  3  -> QDVS
+Stack  4  -> BTNHFVDGVZGMDHH
+Stack  5  -> 
+Stack  6  -> FDMPQNNBVCDQFZBF
+Stack  7  -> LWQ
+Stack  8  -> GHT
+------------------------
+Amount  1 Origin  4 Destination  2
+------------------------
+Stack  0  -> QMR
+Stack  1  -> FZRZMZNS
+Stack  2  -> PQMQD
+Stack  3  -> QDV
+Stack  4  -> BTNHFVDGVZGMDHH
+Stack  5  -> 
+Stack  6  -> FDMPQNNBVCDQFZBF
+Stack  7  -> LWQ
+Stack  8  -> GHT
+------------------------
+Amount  3 Origin  1 Destination  2
+------------------------
+Stack  0  -> 
+Stack  1  -> FZRZMZNSQMR
+Stack  2  -> PQMQD
+Stack  3  -> QDV
+Stack  4  -> BTNHFVDGVZGMDHH
+Stack  5  -> 
+Stack  6  -> FDMPQNNBVCDQFZBF
+Stack  7  -> LWQ
+Stack  8  -> GHT
+------------------------
+Amount  1 Origin  7 Destination  6
+------------------------
+Stack  0  -> 
+Stack  1  -> FZRZMZNSQMR
+Stack  2  -> PQMQD
+Stack  3  -> QDV
+Stack  4  -> BTNHFVDGVZGMDHH
+Stack  5  -> F
+Stack  6  -> FDMPQNNBVCDQFZB
+Stack  7  -> LWQ
+Stack  8  -> GHT
+------------------------
+Amount  1 Origin  8 Destination  5
+------------------------
+Stack  0  -> 
+Stack  1  -> FZRZMZNSQMR
+Stack  2  -> PQMQD
+Stack  3  -> QDV
+Stack  4  -> BTNHFVDGVZGMDHHQ
+Stack  5  -> F
+Stack  6  -> FDMPQNNBVCDQFZB
+Stack  7  -> LW
+Stack  8  -> GHT
+------------------------
+Amount  9 Origin  5 Destination  3
+------------------------
+Stack  0  -> 
+Stack  1  -> FZRZMZNSQMR
+Stack  2  -> PQMQDGVZGMDHHQ
+Stack  3  -> QDV
+Stack  4  -> BTNHFVD
+Stack  5  -> F
+Stack  6  -> FDMPQNNBVCDQFZB
+Stack  7  -> LW
+Stack  8  -> GHT
+------------------------
+Amount  1 Origin  6 Destination  9
+------------------------
+Stack  0  -> 
+Stack  1  -> FZRZMZNSQMR
+Stack  2  -> PQMQDGVZGMDHHQ
+Stack  3  -> QDV
+Stack  4  -> BTNHFVD
+Stack  5  -> 
+Stack  6  -> FDMPQNNBVCDQFZB
+Stack  7  -> LW
+Stack  8  -> GHTF
+------------------------
+Amount  11 Origin  3 Destination  6
+------------------------
+Stack  0  -> 
+Stack  1  -> FZRZMZNSQMR
+Stack  2  -> PQM
+Stack  3  -> QDV
+Stack  4  -> BTNHFVD
+Stack  5  -> QDGVZGMDHHQ
+Stack  6  -> FDMPQNNBVCDQFZB
+Stack  7  -> LW
+Stack  8  -> GHTF
+------------------------
+Amount  1 Origin  4 Destination  1
+------------------------
+Stack  0  -> V
+Stack  1  -> FZRZMZNSQMR
+Stack  2  -> PQM
+Stack  3  -> QD
+Stack  4  -> BTNHFVD
+Stack  5  -> QDGVZGMDHHQ
+Stack  6  -> FDMPQNNBVCDQFZB
+Stack  7  -> LW
+Stack  8  -> GHTF
+------------------------
+Amount  1 Origin  3 Destination  4
+------------------------
+Stack  0  -> V
+Stack  1  -> FZRZMZNSQMR
+Stack  2  -> PQ
+Stack  3  -> QDM
+Stack  4  -> BTNHFVD
+Stack  5  -> QDGVZGMDHHQ
+Stack  6  -> FDMPQNNBVCDQFZB
+Stack  7  -> LW
+Stack  8  -> GHTF
+------------------------
+Amount  8 Origin  6 Destination  9
+------------------------
+Stack  0  -> V
+Stack  1  -> FZRZMZNSQMR
+Stack  2  -> PQ
+Stack  3  -> QDM
+Stack  4  -> BTNHFVD
+Stack  5  -> QDG
+Stack  6  -> FDMPQNNBVCDQFZB
+Stack  7  -> LW
+Stack  8  -> GHTFVZGMDHHQ
+------------------------
+Amount  1 Origin  3 Destination  1
+------------------------
+Stack  0  -> VQ
+Stack  1  -> FZRZMZNSQMR
+Stack  2  -> P
+Stack  3  -> QDM
+Stack  4  -> BTNHFVD
+Stack  5  -> QDG
+Stack  6  -> FDMPQNNBVCDQFZB
+Stack  7  -> LW
+Stack  8  -> GHTFVZGMDHHQ
+------------------------
+Amount  1 Origin  9 Destination  1
+------------------------
+Stack  0  -> VQQ
+Stack  1  -> FZRZMZNSQMR
+Stack  2  -> P
+Stack  3  -> QDM
+Stack  4  -> BTNHFVD
+Stack  5  -> QDG
+Stack  6  -> FDMPQNNBVCDQFZB
+Stack  7  -> LW
+Stack  8  -> GHTFVZGMDHH
+------------------------
+Amount  2 Origin  6 Destination  2
+------------------------
+Stack  0  -> VQQ
+Stack  1  -> FZRZMZNSQMRDG
+Stack  2  -> P
+Stack  3  -> QDM
+Stack  4  -> BTNHFVD
+Stack  5  -> Q
+Stack  6  -> FDMPQNNBVCDQFZB
+Stack  7  -> LW
+Stack  8  -> GHTFVZGMDHH
+------------------------
+Amount  5 Origin  5 Destination  7
+------------------------
+Stack  0  -> VQQ
+Stack  1  -> FZRZMZNSQMRDG
+Stack  2  -> P
+Stack  3  -> QDM
+Stack  4  -> BT
+Stack  5  -> Q
+Stack  6  -> FDMPQNNBVCDQFZBNHFVD
+Stack  7  -> LW
+Stack  8  -> GHTFVZGMDHH
+------------------------
+Amount  5 Origin  9 Destination  3
+------------------------
+Stack  0  -> VQQ
+Stack  1  -> FZRZMZNSQMRDG
+Stack  2  -> PGMDHH
+Stack  3  -> QDM
+Stack  4  -> BT
+Stack  5  -> Q
+Stack  6  -> FDMPQNNBVCDQFZBNHFVD
+Stack  7  -> LW
+Stack  8  -> GHTFVZ
+------------------------
+Amount  2 Origin  8 Destination  5
+------------------------
+Stack  0  -> VQQ
+Stack  1  -> FZRZMZNSQMRDG
+Stack  2  -> PGMDHH
+Stack  3  -> QDM
+Stack  4  -> BTLW
+Stack  5  -> Q
+Stack  6  -> FDMPQNNBVCDQFZBNHFVD
+Stack  7  -> 
+Stack  8  -> GHTFVZ
+------------------------
+Amount  1 Origin  1 Destination  2
+------------------------
+Stack  0  -> VQ
+Stack  1  -> FZRZMZNSQMRDGQ
+Stack  2  -> PGMDHH
+Stack  3  -> QDM
+Stack  4  -> BTLW
+Stack  5  -> Q
+Stack  6  -> FDMPQNNBVCDQFZBNHFVD
+Stack  7  -> 
+Stack  8  -> GHTFVZ
+------------------------
+Amount  1 Origin  9 Destination  1
+------------------------
+Stack  0  -> VQZ
+Stack  1  -> FZRZMZNSQMRDGQ
+Stack  2  -> PGMDHH
+Stack  3  -> QDM
+Stack  4  -> BTLW
+Stack  5  -> Q
+Stack  6  -> FDMPQNNBVCDQFZBNHFVD
+Stack  7  -> 
+Stack  8  -> GHTFV
+------------------------
+Amount  15 Origin  7 Destination  4
+------------------------
+Stack  0  -> VQZ
+Stack  1  -> FZRZMZNSQMRDGQ
+Stack  2  -> PGMDHH
+Stack  3  -> QDMNNBVCDQFZBNHFVD
+Stack  4  -> BTLW
+Stack  5  -> Q
+Stack  6  -> FDMPQ
+Stack  7  -> 
+Stack  8  -> GHTFV
+------------------------
+Amount  1 Origin  1 Destination  6
+------------------------
+Stack  0  -> VQ
+Stack  1  -> FZRZMZNSQMRDGQ
+Stack  2  -> PGMDHH
+Stack  3  -> QDMNNBVCDQFZBNHFVD
+Stack  4  -> BTLW
+Stack  5  -> QZ
+Stack  6  -> FDMPQ
+Stack  7  -> 
+Stack  8  -> GHTFV
+------------------------
+Amount  1 Origin  6 Destination  9
+------------------------
+Stack  0  -> VQ
+Stack  1  -> FZRZMZNSQMRDGQ
+Stack  2  -> PGMDHH
+Stack  3  -> QDMNNBVCDQFZBNHFVD
+Stack  4  -> BTLW
+Stack  5  -> Q
+Stack  6  -> FDMPQ
+Stack  7  -> 
+Stack  8  -> GHTFVZ
+------------------------
+Amount  3 Origin  9 Destination  3
+------------------------
+Stack  0  -> VQ
+Stack  1  -> FZRZMZNSQMRDGQ
+Stack  2  -> PGMDHHFVZ
+Stack  3  -> QDMNNBVCDQFZBNHFVD
+Stack  4  -> BTLW
+Stack  5  -> Q
+Stack  6  -> FDMPQ
+Stack  7  -> 
+Stack  8  -> GHT
+------------------------
+Amount  1 Origin  3 Destination  5
+------------------------
+Stack  0  -> VQ
+Stack  1  -> FZRZMZNSQMRDGQ
+Stack  2  -> PGMDHHFV
+Stack  3  -> QDMNNBVCDQFZBNHFVD
+Stack  4  -> BTLWZ
+Stack  5  -> Q
+Stack  6  -> FDMPQ
+Stack  7  -> 
+Stack  8  -> GHT
+------------------------
+Amount  5 Origin  5 Destination  3
+------------------------
+Stack  0  -> VQ
+Stack  1  -> FZRZMZNSQMRDGQ
+Stack  2  -> PGMDHHFVBTLWZ
+Stack  3  -> QDMNNBVCDQFZBNHFVD
+Stack  4  -> 
+Stack  5  -> Q
+Stack  6  -> FDMPQ
+Stack  7  -> 
+Stack  8  -> GHT
+------------------------
+Amount  9 Origin  2 Destination  9
+------------------------
+Stack  0  -> VQ
+Stack  1  -> FZRZM
+Stack  2  -> PGMDHHFVBTLWZ
+Stack  3  -> QDMNNBVCDQFZBNHFVD
+Stack  4  -> 
+Stack  5  -> Q
+Stack  6  -> FDMPQ
+Stack  7  -> 
+Stack  8  -> GHTZNSQMRDGQ
+------------------------
+Amount  5 Origin  4 Destination  1
+------------------------
+Stack  0  -> VQNHFVD
+Stack  1  -> FZRZM
+Stack  2  -> PGMDHHFVBTLWZ
+Stack  3  -> QDMNNBVCDQFZB
+Stack  4  -> 
+Stack  5  -> Q
+Stack  6  -> FDMPQ
+Stack  7  -> 
+Stack  8  -> GHTZNSQMRDGQ
+------------------------
+Amount  1 Origin  6 Destination  7
+------------------------
+Stack  0  -> VQNHFVD
+Stack  1  -> FZRZM
+Stack  2  -> PGMDHHFVBTLWZ
+Stack  3  -> QDMNNBVCDQFZB
+Stack  4  -> 
+Stack  5  -> 
+Stack  6  -> FDMPQQ
+Stack  7  -> 
+Stack  8  -> GHTZNSQMRDGQ
+------------------------
+Amount  7 Origin  9 Destination  3
+------------------------
+Stack  0  -> VQNHFVD
+Stack  1  -> FZRZM
+Stack  2  -> PGMDHHFVBTLWZSQMRDGQ
+Stack  3  -> QDMNNBVCDQFZB
+Stack  4  -> 
+Stack  5  -> 
+Stack  6  -> FDMPQQ
+Stack  7  -> 
+Stack  8  -> GHTZN
+------------------------
+Amount  1 Origin  4 Destination  7
+------------------------
+Stack  0  -> VQNHFVD
+Stack  1  -> FZRZM
+Stack  2  -> PGMDHHFVBTLWZSQMRDGQ
+Stack  3  -> QDMNNBVCDQFZ
+Stack  4  -> 
+Stack  5  -> 
+Stack  6  -> FDMPQQB
+Stack  7  -> 
+Stack  8  -> GHTZN
+------------------------
+Amount  1 Origin  9 Destination  6
+------------------------
+Stack  0  -> VQNHFVD
+Stack  1  -> FZRZM
+Stack  2  -> PGMDHHFVBTLWZSQMRDGQ
+Stack  3  -> QDMNNBVCDQFZ
+Stack  4  -> 
+Stack  5  -> N
+Stack  6  -> FDMPQQB
+Stack  7  -> 
+Stack  8  -> GHTZ
+------------------------
+Amount  1 Origin  6 Destination  5
+------------------------
+Stack  0  -> VQNHFVD
+Stack  1  -> FZRZM
+Stack  2  -> PGMDHHFVBTLWZSQMRDGQ
+Stack  3  -> QDMNNBVCDQFZ
+Stack  4  -> N
+Stack  5  -> 
+Stack  6  -> FDMPQQB
+Stack  7  -> 
+Stack  8  -> GHTZ
+------------------------
+Amount  2 Origin  1 Destination  4
+------------------------
+Stack  0  -> VQNHF
+Stack  1  -> FZRZM
+Stack  2  -> PGMDHHFVBTLWZSQMRDGQ
+Stack  3  -> QDMNNBVCDQFZVD
+Stack  4  -> N
+Stack  5  -> 
+Stack  6  -> FDMPQQB
+Stack  7  -> 
+Stack  8  -> GHTZ
+------------------------
+Amount  3 Origin  9 Destination  3
+------------------------
+Stack  0  -> VQNHF
+Stack  1  -> FZRZM
+Stack  2  -> PGMDHHFVBTLWZSQMRDGQHTZ
+Stack  3  -> QDMNNBVCDQFZVD
+Stack  4  -> N
+Stack  5  -> 
+Stack  6  -> FDMPQQB
+Stack  7  -> 
+Stack  8  -> G
+------------------------
+Amount  1 Origin  5 Destination  6
+------------------------
+Stack  0  -> VQNHF
+Stack  1  -> FZRZM
+Stack  2  -> PGMDHHFVBTLWZSQMRDGQHTZ
+Stack  3  -> QDMNNBVCDQFZVD
+Stack  4  -> 
+Stack  5  -> N
+Stack  6  -> FDMPQQB
+Stack  7  -> 
+Stack  8  -> G
+------------------------
+Amount  7 Origin  4 Destination  3
+------------------------
+Stack  0  -> VQNHF
+Stack  1  -> FZRZM
+Stack  2  -> PGMDHHFVBTLWZSQMRDGQHTZCDQFZVD
+Stack  3  -> QDMNNBV
+Stack  4  -> 
+Stack  5  -> N
+Stack  6  -> FDMPQQB
+Stack  7  -> 
+Stack  8  -> G
+------------------------
+Amount  1 Origin  9 Destination  3
+------------------------
+Stack  0  -> VQNHF
+Stack  1  -> FZRZM
+Stack  2  -> PGMDHHFVBTLWZSQMRDGQHTZCDQFZVDG
+Stack  3  -> QDMNNBV
+Stack  4  -> 
+Stack  5  -> N
+Stack  6  -> FDMPQQB
+Stack  7  -> 
+Stack  8  -> 
+------------------------
+Amount  16 Origin  3 Destination  1
+------------------------
+Stack  0  -> VQNHFMRDGQHTZCDQFZVDG
+Stack  1  -> FZRZM
+Stack  2  -> PGMDHHFVBTLWZSQ
+Stack  3  -> QDMNNBV
+Stack  4  -> 
+Stack  5  -> N
+Stack  6  -> FDMPQQB
+Stack  7  -> 
+Stack  8  -> 
+------------------------
+Amount  9 Origin  1 Destination  3
+------------------------
+Stack  0  -> VQNHFMRDGQHT
+Stack  1  -> FZRZM
+Stack  2  -> PGMDHHFVBTLWZSQZCDQFZVDG
+Stack  3  -> QDMNNBV
+Stack  4  -> 
+Stack  5  -> N
+Stack  6  -> FDMPQQB
+Stack  7  -> 
+Stack  8  -> 
+------------------------
+Amount  5 Origin  4 Destination  2
+------------------------
+Stack  0  -> VQNHFMRDGQHT
+Stack  1  -> FZRZMMNNBV
+Stack  2  -> PGMDHHFVBTLWZSQZCDQFZVDG
+Stack  3  -> QD
+Stack  4  -> 
+Stack  5  -> N
+Stack  6  -> FDMPQQB
+Stack  7  -> 
+Stack  8  -> 
+------------------------
+Amount  1 Origin  6 Destination  9
+------------------------
+Stack  0  -> VQNHFMRDGQHT
+Stack  1  -> FZRZMMNNBV
+Stack  2  -> PGMDHHFVBTLWZSQZCDQFZVDG
+Stack  3  -> QD
+Stack  4  -> 
+Stack  5  -> 
+Stack  6  -> FDMPQQB
+Stack  7  -> 
+Stack  8  -> N
+------------------------
+Amount  12 Origin  1 Destination  9
+------------------------
+Stack  0  -> 
+Stack  1  -> FZRZMMNNBV
+Stack  2  -> PGMDHHFVBTLWZSQZCDQFZVDG
+Stack  3  -> QD
+Stack  4  -> 
+Stack  5  -> 
+Stack  6  -> FDMPQQB
+Stack  7  -> 
+Stack  8  -> NVQNHFMRDGQHT
+------------------------
+Amount  3 Origin  2 Destination  9
+------------------------
+Stack  0  -> 
+Stack  1  -> FZRZMMN
+Stack  2  -> PGMDHHFVBTLWZSQZCDQFZVDG
+Stack  3  -> QD
+Stack  4  -> 
+Stack  5  -> 
+Stack  6  -> FDMPQQB
+Stack  7  -> 
+Stack  8  -> NVQNHFMRDGQHTNBV
+------------------------
+Amount  5 Origin  7 Destination  3
+------------------------
+Stack  0  -> 
+Stack  1  -> FZRZMMN
+Stack  2  -> PGMDHHFVBTLWZSQZCDQFZVDGMPQQB
+Stack  3  -> QD
+Stack  4  -> 
+Stack  5  -> 
+Stack  6  -> FD
+Stack  7  -> 
+Stack  8  -> NVQNHFMRDGQHTNBV
+------------------------
+Amount  2 Origin  4 Destination  8
+------------------------
+Stack  0  -> 
+Stack  1  -> FZRZMMN
+Stack  2  -> PGMDHHFVBTLWZSQZCDQFZVDGMPQQB
+Stack  3  -> 
+Stack  4  -> 
+Stack  5  -> 
+Stack  6  -> FD
+Stack  7  -> QD
+Stack  8  -> NVQNHFMRDGQHTNBV
+------------------------
+Amount  2 Origin  7 Destination  2
+------------------------
+Stack  0  -> 
+Stack  1  -> FZRZMMNFD
+Stack  2  -> PGMDHHFVBTLWZSQZCDQFZVDGMPQQB
+Stack  3  -> 
+Stack  4  -> 
+Stack  5  -> 
+Stack  6  -> 
+Stack  7  -> QD
+Stack  8  -> NVQNHFMRDGQHTNBV
+------------------------
+Amount  12 Origin  3 Destination  5
+------------------------
+Stack  0  -> 
+Stack  1  -> FZRZMMNFD
+Stack  2  -> PGMDHHFVBTLWZSQZC
+Stack  3  -> 
+Stack  4  -> DQFZVDGMPQQB
+Stack  5  -> 
+Stack  6  -> 
+Stack  7  -> QD
+Stack  8  -> NVQNHFMRDGQHTNBV
+------------------------
+Amount  6 Origin  2 Destination  9
+------------------------
+Stack  0  -> 
+Stack  1  -> FZR
+Stack  2  -> PGMDHHFVBTLWZSQZC
+Stack  3  -> 
+Stack  4  -> DQFZVDGMPQQB
+Stack  5  -> 
+Stack  6  -> 
+Stack  7  -> QD
+Stack  8  -> NVQNHFMRDGQHTNBVZMMNFD
+------------------------
+Amount  12 Origin  3 Destination  1
+------------------------
+Stack  0  -> HFVBTLWZSQZC
+Stack  1  -> FZR
+Stack  2  -> PGMDH
+Stack  3  -> 
+Stack  4  -> DQFZVDGMPQQB
+Stack  5  -> 
+Stack  6  -> 
+Stack  7  -> QD
+Stack  8  -> NVQNHFMRDGQHTNBVZMMNFD
+------------------------
+Amount  2 Origin  8 Destination  6
+------------------------
+Stack  0  -> HFVBTLWZSQZC
+Stack  1  -> FZR
+Stack  2  -> PGMDH
+Stack  3  -> 
+Stack  4  -> DQFZVDGMPQQB
+Stack  5  -> QD
+Stack  6  -> 
+Stack  7  -> 
+Stack  8  -> NVQNHFMRDGQHTNBVZMMNFD
+------------------------
+Amount  1 Origin  6 Destination  1
+------------------------
+Stack  0  -> HFVBTLWZSQZCD
+Stack  1  -> FZR
+Stack  2  -> PGMDH
+Stack  3  -> 
+Stack  4  -> DQFZVDGMPQQB
+Stack  5  -> Q
+Stack  6  -> 
+Stack  7  -> 
+Stack  8  -> NVQNHFMRDGQHTNBVZMMNFD
+------------------------
+Amount  6 Origin  5 Destination  8
+------------------------
+Stack  0  -> HFVBTLWZSQZCD
+Stack  1  -> FZR
+Stack  2  -> PGMDH
+Stack  3  -> 
+Stack  4  -> DQFZVD
+Stack  5  -> Q
+Stack  6  -> 
+Stack  7  -> GMPQQB
+Stack  8  -> NVQNHFMRDGQHTNBVZMMNFD
+------------------------
+Amount  5 Origin  3 Destination  2
+------------------------
+Stack  0  -> HFVBTLWZSQZCD
+Stack  1  -> FZRPGMDH
+Stack  2  -> 
+Stack  3  -> 
+Stack  4  -> DQFZVD
+Stack  5  -> Q
+Stack  6  -> 
+Stack  7  -> GMPQQB
+Stack  8  -> NVQNHFMRDGQHTNBVZMMNFD
+------------------------
+Amount  2 Origin  5 Destination  8
+------------------------
+Stack  0  -> HFVBTLWZSQZCD
+Stack  1  -> FZRPGMDH
+Stack  2  -> 
+Stack  3  -> 
+Stack  4  -> DQFZ
+Stack  5  -> Q
+Stack  6  -> 
+Stack  7  -> GMPQQBVD
+Stack  8  -> NVQNHFMRDGQHTNBVZMMNFD
+------------------------
+Amount  8 Origin  1 Destination  8
+------------------------
+Stack  0  -> HFVBT
+Stack  1  -> FZRPGMDH
+Stack  2  -> 
+Stack  3  -> 
+Stack  4  -> DQFZ
+Stack  5  -> Q
+Stack  6  -> 
+Stack  7  -> GMPQQBVDLWZSQZCD
+Stack  8  -> NVQNHFMRDGQHTNBVZMMNFD
+------------------------
+Amount  13 Origin  9 Destination  7
+------------------------
+Stack  0  -> HFVBT
+Stack  1  -> FZRPGMDH
+Stack  2  -> 
+Stack  3  -> 
+Stack  4  -> DQFZ
+Stack  5  -> Q
+Stack  6  -> GQHTNBVZMMNFD
+Stack  7  -> GMPQQBVDLWZSQZCD
+Stack  8  -> NVQNHFMRD
+------------------------
+Amount  4 Origin  7 Destination  5
+------------------------
+Stack  0  -> HFVBT
+Stack  1  -> FZRPGMDH
+Stack  2  -> 
+Stack  3  -> 
+Stack  4  -> DQFZMNFD
+Stack  5  -> Q
+Stack  6  -> GQHTNBVZM
+Stack  7  -> GMPQQBVDLWZSQZCD
+Stack  8  -> NVQNHFMRD
+------------------------
+Amount  4 Origin  1 Destination  4
+------------------------
+Stack  0  -> H
+Stack  1  -> FZRPGMDH
+Stack  2  -> 
+Stack  3  -> FVBT
+Stack  4  -> DQFZMNFD
+Stack  5  -> Q
+Stack  6  -> GQHTNBVZM
+Stack  7  -> GMPQQBVDLWZSQZCD
+Stack  8  -> NVQNHFMRD
+------------------------
+Amount  8 Origin  5 Destination  6
+------------------------
+Stack  0  -> H
+Stack  1  -> FZRPGMDH
+Stack  2  -> 
+Stack  3  -> FVBT
+Stack  4  -> 
+Stack  5  -> QDQFZMNFD
+Stack  6  -> GQHTNBVZM
+Stack  7  -> GMPQQBVDLWZSQZCD
+Stack  8  -> NVQNHFMRD
+------------------------
+Amount  1 Origin  1 Destination  6
+------------------------
+Stack  0  -> 
+Stack  1  -> FZRPGMDH
+Stack  2  -> 
+Stack  3  -> FVBT
+Stack  4  -> 
+Stack  5  -> QDQFZMNFDH
+Stack  6  -> GQHTNBVZM
+Stack  7  -> GMPQQBVDLWZSQZCD
+Stack  8  -> NVQNHFMRD
+------------------------
+Amount  4 Origin  7 Destination  3
+------------------------
+Stack  0  -> 
+Stack  1  -> FZRPGMDH
+Stack  2  -> BVZM
+Stack  3  -> FVBT
+Stack  4  -> 
+Stack  5  -> QDQFZMNFDH
+Stack  6  -> GQHTN
+Stack  7  -> GMPQQBVDLWZSQZCD
+Stack  8  -> NVQNHFMRD
+------------------------
+Amount  1 Origin  3 Destination  1
+------------------------
+Stack  0  -> M
+Stack  1  -> FZRPGMDH
+Stack  2  -> BVZ
+Stack  3  -> FVBT
+Stack  4  -> 
+Stack  5  -> QDQFZMNFDH
+Stack  6  -> GQHTN
+Stack  7  -> GMPQQBVDLWZSQZCD
+Stack  8  -> NVQNHFMRD
+------------------------
+Amount  1 Origin  1 Destination  9
+------------------------
+Stack  0  -> 
+Stack  1  -> FZRPGMDH
+Stack  2  -> BVZ
+Stack  3  -> FVBT
+Stack  4  -> 
+Stack  5  -> QDQFZMNFDH
+Stack  6  -> GQHTN
+Stack  7  -> GMPQQBVDLWZSQZCD
+Stack  8  -> NVQNHFMRDM
+------------------------
+Amount  4 Origin  9 Destination  5
+------------------------
+Stack  0  -> 
+Stack  1  -> FZRPGMDH
+Stack  2  -> BVZ
+Stack  3  -> FVBT
+Stack  4  -> MRDM
+Stack  5  -> QDQFZMNFDH
+Stack  6  -> GQHTN
+Stack  7  -> GMPQQBVDLWZSQZCD
+Stack  8  -> NVQNHF
+------------------------
+Amount  3 Origin  3 Destination  7
+------------------------
+Stack  0  -> 
+Stack  1  -> FZRPGMDH
+Stack  2  -> 
+Stack  3  -> FVBT
+Stack  4  -> MRDM
+Stack  5  -> QDQFZMNFDH
+Stack  6  -> GQHTNBVZ
+Stack  7  -> GMPQQBVDLWZSQZCD
+Stack  8  -> NVQNHF
+------------------------
+Amount  12 Origin  8 Destination  7
+------------------------
+Stack  0  -> 
+Stack  1  -> FZRPGMDH
+Stack  2  -> 
+Stack  3  -> FVBT
+Stack  4  -> MRDM
+Stack  5  -> QDQFZMNFDH
+Stack  6  -> GQHTNBVZQBVDLWZSQZCD
+Stack  7  -> GMPQ
+Stack  8  -> NVQNHF
+------------------------
+Amount  2 Origin  4 Destination  3
+------------------------
+Stack  0  -> 
+Stack  1  -> FZRPGMDH
+Stack  2  -> BT
+Stack  3  -> FV
+Stack  4  -> MRDM
+Stack  5  -> QDQFZMNFDH
+Stack  6  -> GQHTNBVZQBVDLWZSQZCD
+Stack  7  -> GMPQ
+Stack  8  -> NVQNHF
+------------------------
+Amount  2 Origin  6 Destination  9
+------------------------
+Stack  0  -> 
+Stack  1  -> FZRPGMDH
+Stack  2  -> BT
+Stack  3  -> FV
+Stack  4  -> MRDM
+Stack  5  -> QDQFZMNF
+Stack  6  -> GQHTNBVZQBVDLWZSQZCD
+Stack  7  -> GMPQ
+Stack  8  -> NVQNHFDH
+------------------------
+Amount  4 Origin  8 Destination  2
+------------------------
+Stack  0  -> 
+Stack  1  -> FZRPGMDHGMPQ
+Stack  2  -> BT
+Stack  3  -> FV
+Stack  4  -> MRDM
+Stack  5  -> QDQFZMNF
+Stack  6  -> GQHTNBVZQBVDLWZSQZCD
+Stack  7  -> 
+Stack  8  -> NVQNHFDH
+------------------------
+Amount  2 Origin  3 Destination  9
+------------------------
+Stack  0  -> 
+Stack  1  -> FZRPGMDHGMPQ
+Stack  2  -> 
+Stack  3  -> FV
+Stack  4  -> MRDM
+Stack  5  -> QDQFZMNF
+Stack  6  -> GQHTNBVZQBVDLWZSQZCD
+Stack  7  -> 
+Stack  8  -> NVQNHFDHBT
+------------------------
+Amount  2 Origin  4 Destination  7
+------------------------
+Stack  0  -> 
+Stack  1  -> FZRPGMDHGMPQ
+Stack  2  -> 
+Stack  3  -> 
+Stack  4  -> MRDM
+Stack  5  -> QDQFZMNF
+Stack  6  -> GQHTNBVZQBVDLWZSQZCDFV
+Stack  7  -> 
+Stack  8  -> NVQNHFDHBT
+------------------------
+Amount  3 Origin  5 Destination  7
+------------------------
+Stack  0  -> 
+Stack  1  -> FZRPGMDHGMPQ
+Stack  2  -> 
+Stack  3  -> 
+Stack  4  -> M
+Stack  5  -> QDQFZMNF
+Stack  6  -> GQHTNBVZQBVDLWZSQZCDFVRDM
+Stack  7  -> 
+Stack  8  -> NVQNHFDHBT
+------------------------
+Amount  2 Origin  9 Destination  7
+------------------------
+Stack  0  -> 
+Stack  1  -> FZRPGMDHGMPQ
+Stack  2  -> 
+Stack  3  -> 
+Stack  4  -> M
+Stack  5  -> QDQFZMNF
+Stack  6  -> GQHTNBVZQBVDLWZSQZCDFVRDMBT
+Stack  7  -> 
+Stack  8  -> NVQNHFDH
+------------------------
+Amount  3 Origin  6 Destination  1
+------------------------
+Stack  0  -> MNF
+Stack  1  -> FZRPGMDHGMPQ
+Stack  2  -> 
+Stack  3  -> 
+Stack  4  -> M
+Stack  5  -> QDQFZ
+Stack  6  -> GQHTNBVZQBVDLWZSQZCDFVRDMBT
+Stack  7  -> 
+Stack  8  -> NVQNHFDH
+------------------------
+Amount  4 Origin  6 Destination  7
+------------------------
+Stack  0  -> MNF
+Stack  1  -> FZRPGMDHGMPQ
+Stack  2  -> 
+Stack  3  -> 
+Stack  4  -> M
+Stack  5  -> Q
+Stack  6  -> GQHTNBVZQBVDLWZSQZCDFVRDMBTDQFZ
+Stack  7  -> 
+Stack  8  -> NVQNHFDH
+------------------------
+Amount  1 Origin  5 Destination  4
+------------------------
+Stack  0  -> MNF
+Stack  1  -> FZRPGMDHGMPQ
+Stack  2  -> 
+Stack  3  -> M
+Stack  4  -> 
+Stack  5  -> Q
+Stack  6  -> GQHTNBVZQBVDLWZSQZCDFVRDMBTDQFZ
+Stack  7  -> 
+Stack  8  -> NVQNHFDH
+------------------------
+Amount  1 Origin  9 Destination  3
+------------------------
+Stack  0  -> MNF
+Stack  1  -> FZRPGMDHGMPQ
+Stack  2  -> H
+Stack  3  -> M
+Stack  4  -> 
+Stack  5  -> Q
+Stack  6  -> GQHTNBVZQBVDLWZSQZCDFVRDMBTDQFZ
+Stack  7  -> 
+Stack  8  -> NVQNHFD
+------------------------
+Amount  12 Origin  2 Destination  5
+------------------------
+Stack  0  -> MNF
+Stack  1  -> 
+Stack  2  -> H
+Stack  3  -> M
+Stack  4  -> FZRPGMDHGMPQ
+Stack  5  -> Q
+Stack  6  -> GQHTNBVZQBVDLWZSQZCDFVRDMBTDQFZ
+Stack  7  -> 
+Stack  8  -> NVQNHFD
+------------------------
+Amount  4 Origin  9 Destination  7
+------------------------
+Stack  0  -> MNF
+Stack  1  -> 
+Stack  2  -> H
+Stack  3  -> M
+Stack  4  -> FZRPGMDHGMPQ
+Stack  5  -> Q
+Stack  6  -> GQHTNBVZQBVDLWZSQZCDFVRDMBTDQFZNHFD
+Stack  7  -> 
+Stack  8  -> NVQ
+------------------------
+Amount  11 Origin  5 Destination  1
+------------------------
+Stack  0  -> MNFZRPGMDHGMPQ
+Stack  1  -> 
+Stack  2  -> H
+Stack  3  -> M
+Stack  4  -> F
+Stack  5  -> Q
+Stack  6  -> GQHTNBVZQBVDLWZSQZCDFVRDMBTDQFZNHFD
+Stack  7  -> 
+Stack  8  -> NVQ
+------------------------
+Amount  1 Origin  6 Destination  5
+------------------------
+Stack  0  -> MNFZRPGMDHGMPQ
+Stack  1  -> 
+Stack  2  -> H
+Stack  3  -> M
+Stack  4  -> FQ
+Stack  5  -> 
+Stack  6  -> GQHTNBVZQBVDLWZSQZCDFVRDMBTDQFZNHFD
+Stack  7  -> 
+Stack  8  -> NVQ
+------------------------
+Amount  1 Origin  1 Destination  4
+------------------------
+Stack  0  -> MNFZRPGMDHGMP
+Stack  1  -> 
+Stack  2  -> H
+Stack  3  -> MQ
+Stack  4  -> FQ
+Stack  5  -> 
+Stack  6  -> GQHTNBVZQBVDLWZSQZCDFVRDMBTDQFZNHFD
+Stack  7  -> 
+Stack  8  -> NVQ
+------------------------
+Amount  10 Origin  1 Destination  2
+------------------------
+Stack  0  -> MNF
+Stack  1  -> ZRPGMDHGMP
+Stack  2  -> H
+Stack  3  -> MQ
+Stack  4  -> FQ
+Stack  5  -> 
+Stack  6  -> GQHTNBVZQBVDLWZSQZCDFVRDMBTDQFZNHFD
+Stack  7  -> 
+Stack  8  -> NVQ
+------------------------
+Amount  2 Origin  5 Destination  1
+------------------------
+Stack  0  -> MNFFQ
+Stack  1  -> ZRPGMDHGMP
+Stack  2  -> H
+Stack  3  -> MQ
+Stack  4  -> 
+Stack  5  -> 
+Stack  6  -> GQHTNBVZQBVDLWZSQZCDFVRDMBTDQFZNHFD
+Stack  7  -> 
+Stack  8  -> NVQ
+------------------------
+Amount  1 Origin  3 Destination  5
+------------------------
+Stack  0  -> MNFFQ
+Stack  1  -> ZRPGMDHGMP
+Stack  2  -> 
+Stack  3  -> MQ
+Stack  4  -> H
+Stack  5  -> 
+Stack  6  -> GQHTNBVZQBVDLWZSQZCDFVRDMBTDQFZNHFD
+Stack  7  -> 
+Stack  8  -> NVQ
+------------------------
+Amount  7 Origin  2 Destination  5
+------------------------
+Stack  0  -> MNFFQ
+Stack  1  -> ZRP
+Stack  2  -> 
+Stack  3  -> MQ
+Stack  4  -> HGMDHGMP
+Stack  5  -> 
+Stack  6  -> GQHTNBVZQBVDLWZSQZCDFVRDMBTDQFZNHFD
+Stack  7  -> 
+Stack  8  -> NVQ
+------------------------
+Amount  8 Origin  7 Destination  8
+------------------------
+Stack  0  -> MNFFQ
+Stack  1  -> ZRP
+Stack  2  -> 
+Stack  3  -> MQ
+Stack  4  -> HGMDHGMP
+Stack  5  -> 
+Stack  6  -> GQHTNBVZQBVDLWZSQZCDFVRDMBT
+Stack  7  -> DQFZNHFD
+Stack  8  -> NVQ
+------------------------
+Amount  2 Origin  2 Destination  8
+------------------------
+Stack  0  -> MNFFQ
+Stack  1  -> Z
+Stack  2  -> 
+Stack  3  -> MQ
+Stack  4  -> HGMDHGMP
+Stack  5  -> 
+Stack  6  -> GQHTNBVZQBVDLWZSQZCDFVRDMBT
+Stack  7  -> DQFZNHFDRP
+Stack  8  -> NVQ
+------------------------
+Amount  3 Origin  9 Destination  4
+------------------------
+Stack  0  -> MNFFQ
+Stack  1  -> Z
+Stack  2  -> 
+Stack  3  -> MQNVQ
+Stack  4  -> HGMDHGMP
+Stack  5  -> 
+Stack  6  -> GQHTNBVZQBVDLWZSQZCDFVRDMBT
+Stack  7  -> DQFZNHFDRP
+Stack  8  -> 
+------------------------
+Amount  5 Origin  4 Destination  3
+------------------------
+Stack  0  -> MNFFQ
+Stack  1  -> Z
+Stack  2  -> MQNVQ
+Stack  3  -> 
+Stack  4  -> HGMDHGMP
+Stack  5  -> 
+Stack  6  -> GQHTNBVZQBVDLWZSQZCDFVRDMBT
+Stack  7  -> DQFZNHFDRP
+Stack  8  -> 
+------------------------
+Amount  1 Origin  5 Destination  7
+------------------------
+Stack  0  -> MNFFQ
+Stack  1  -> Z
+Stack  2  -> MQNVQ
+Stack  3  -> 
+Stack  4  -> HGMDHGM
+Stack  5  -> 
+Stack  6  -> GQHTNBVZQBVDLWZSQZCDFVRDMBTP
+Stack  7  -> DQFZNHFDRP
+Stack  8  -> 
+------------------------
+Amount  3 Origin  7 Destination  1
+------------------------
+Stack  0  -> MNFFQBTP
+Stack  1  -> Z
+Stack  2  -> MQNVQ
+Stack  3  -> 
+Stack  4  -> HGMDHGM
+Stack  5  -> 
+Stack  6  -> GQHTNBVZQBVDLWZSQZCDFVRDM
+Stack  7  -> DQFZNHFDRP
+Stack  8  -> 
+------------------------
+Amount  3 Origin  5 Destination  8
+------------------------
+Stack  0  -> MNFFQBTP
+Stack  1  -> Z
+Stack  2  -> MQNVQ
+Stack  3  -> 
+Stack  4  -> HGMD
+Stack  5  -> 
+Stack  6  -> GQHTNBVZQBVDLWZSQZCDFVRDM
+Stack  7  -> DQFZNHFDRPHGM
+Stack  8  -> 
+------------------------
+Amount  1 Origin  2 Destination  5
+------------------------
+Stack  0  -> MNFFQBTP
+Stack  1  -> 
+Stack  2  -> MQNVQ
+Stack  3  -> 
+Stack  4  -> HGMDZ
+Stack  5  -> 
+Stack  6  -> GQHTNBVZQBVDLWZSQZCDFVRDM
+Stack  7  -> DQFZNHFDRPHGM
+Stack  8  -> 
+------------------------
+Amount  12 Origin  7 Destination  6
+------------------------
+Stack  0  -> MNFFQBTP
+Stack  1  -> 
+Stack  2  -> MQNVQ
+Stack  3  -> 
+Stack  4  -> HGMDZ
+Stack  5  -> WZSQZCDFVRDM
+Stack  6  -> GQHTNBVZQBVDL
+Stack  7  -> DQFZNHFDRPHGM
+Stack  8  -> 
+------------------------
+Amount  4 Origin  1 Destination  3
+------------------------
+Stack  0  -> MNFF
+Stack  1  -> 
+Stack  2  -> MQNVQQBTP
+Stack  3  -> 
+Stack  4  -> HGMDZ
+Stack  5  -> WZSQZCDFVRDM
+Stack  6  -> GQHTNBVZQBVDL
+Stack  7  -> DQFZNHFDRPHGM
+Stack  8  -> 
+------------------------
+Amount  2 Origin  5 Destination  6
+------------------------
+Stack  0  -> MNFF
+Stack  1  -> 
+Stack  2  -> MQNVQQBTP
+Stack  3  -> 
+Stack  4  -> HGM
+Stack  5  -> WZSQZCDFVRDMDZ
+Stack  6  -> GQHTNBVZQBVDL
+Stack  7  -> DQFZNHFDRPHGM
+Stack  8  -> 
+------------------------
+Amount  7 Origin  3 Destination  7
+------------------------
+Stack  0  -> MNFF
+Stack  1  -> 
+Stack  2  -> MQ
+Stack  3  -> 
+Stack  4  -> HGM
+Stack  5  -> WZSQZCDFVRDMDZ
+Stack  6  -> GQHTNBVZQBVDLNVQQBTP
+Stack  7  -> DQFZNHFDRPHGM
+Stack  8  -> 
+------------------------
+Amount  14 Origin  6 Destination  4
+------------------------
+Stack  0  -> MNFF
+Stack  1  -> 
+Stack  2  -> MQ
+Stack  3  -> WZSQZCDFVRDMDZ
+Stack  4  -> HGM
+Stack  5  -> 
+Stack  6  -> GQHTNBVZQBVDLNVQQBTP
+Stack  7  -> DQFZNHFDRPHGM
+Stack  8  -> 
+------------------------
+Amount  1 Origin  5 Destination  6
+------------------------
+Stack  0  -> MNFF
+Stack  1  -> 
+Stack  2  -> MQ
+Stack  3  -> WZSQZCDFVRDMDZ
+Stack  4  -> HG
+Stack  5  -> M
+Stack  6  -> GQHTNBVZQBVDLNVQQBTP
+Stack  7  -> DQFZNHFDRPHGM
+Stack  8  -> 
+------------------------
+Amount  3 Origin  1 Destination  3
+------------------------
+Stack  0  -> M
+Stack  1  -> 
+Stack  2  -> MQNFF
+Stack  3  -> WZSQZCDFVRDMDZ
+Stack  4  -> HG
+Stack  5  -> M
+Stack  6  -> GQHTNBVZQBVDLNVQQBTP
+Stack  7  -> DQFZNHFDRPHGM
+Stack  8  -> 
+------------------------
+Amount  4 Origin  3 Destination  2
+------------------------
+Stack  0  -> M
+Stack  1  -> QNFF
+Stack  2  -> M
+Stack  3  -> WZSQZCDFVRDMDZ
+Stack  4  -> HG
+Stack  5  -> M
+Stack  6  -> GQHTNBVZQBVDLNVQQBTP
+Stack  7  -> DQFZNHFDRPHGM
+Stack  8  -> 
+------------------------
+Amount  2 Origin  5 Destination  8
+------------------------
+Stack  0  -> M
+Stack  1  -> QNFF
+Stack  2  -> M
+Stack  3  -> WZSQZCDFVRDMDZ
+Stack  4  -> 
+Stack  5  -> M
+Stack  6  -> GQHTNBVZQBVDLNVQQBTP
+Stack  7  -> DQFZNHFDRPHGMHG
+Stack  8  -> 
+------------------------
+Amount  11 Origin  7 Destination  4
+------------------------
+Stack  0  -> M
+Stack  1  -> QNFF
+Stack  2  -> M
+Stack  3  -> WZSQZCDFVRDMDZBVDLNVQQBTP
+Stack  4  -> 
+Stack  5  -> M
+Stack  6  -> GQHTNBVZQ
+Stack  7  -> DQFZNHFDRPHGMHG
+Stack  8  -> 
+------------------------
+Amount  7 Origin  4 Destination  5
+------------------------
+Stack  0  -> M
+Stack  1  -> QNFF
+Stack  2  -> M
+Stack  3  -> WZSQZCDFVRDMDZBVDL
+Stack  4  -> NVQQBTP
+Stack  5  -> M
+Stack  6  -> GQHTNBVZQ
+Stack  7  -> DQFZNHFDRPHGMHG
+Stack  8  -> 
+------------------------
+Amount  1 Origin  3 Destination  4
+------------------------
+Stack  0  -> M
+Stack  1  -> QNFF
+Stack  2  -> 
+Stack  3  -> WZSQZCDFVRDMDZBVDLM
+Stack  4  -> NVQQBTP
+Stack  5  -> M
+Stack  6  -> GQHTNBVZQ
+Stack  7  -> DQFZNHFDRPHGMHG
+Stack  8  -> 
+------------------------
+Amount  1 Origin  5 Destination  6
+------------------------
+Stack  0  -> M
+Stack  1  -> QNFF
+Stack  2  -> 
+Stack  3  -> WZSQZCDFVRDMDZBVDLM
+Stack  4  -> NVQQBT
+Stack  5  -> MP
+Stack  6  -> GQHTNBVZQ
+Stack  7  -> DQFZNHFDRPHGMHG
+Stack  8  -> 
+------------------------
+Amount  14 Origin  8 Destination  7
+------------------------
+Stack  0  -> M
+Stack  1  -> QNFF
+Stack  2  -> 
+Stack  3  -> WZSQZCDFVRDMDZBVDLM
+Stack  4  -> NVQQBT
+Stack  5  -> MP
+Stack  6  -> GQHTNBVZQQFZNHFDRPHGMHG
+Stack  7  -> D
+Stack  8  -> 
+------------------------
+Amount  11 Origin  7 Destination  3
+------------------------
+Stack  0  -> M
+Stack  1  -> QNFF
+Stack  2  -> NHFDRPHGMHG
+Stack  3  -> WZSQZCDFVRDMDZBVDLM
+Stack  4  -> NVQQBT
+Stack  5  -> MP
+Stack  6  -> GQHTNBVZQQFZ
+Stack  7  -> D
+Stack  8  -> 
+------------------------
+Amount  2 Origin  2 Destination  6
+------------------------
+Stack  0  -> M
+Stack  1  -> QN
+Stack  2  -> NHFDRPHGMHG
+Stack  3  -> WZSQZCDFVRDMDZBVDLM
+Stack  4  -> NVQQBT
+Stack  5  -> MPFF
+Stack  6  -> GQHTNBVZQQFZ
+Stack  7  -> D
+Stack  8  -> 
+------------------------
+Amount  1 Origin  2 Destination  3
+------------------------
+Stack  0  -> M
+Stack  1  -> Q
+Stack  2  -> NHFDRPHGMHGN
+Stack  3  -> WZSQZCDFVRDMDZBVDLM
+Stack  4  -> NVQQBT
+Stack  5  -> MPFF
+Stack  6  -> GQHTNBVZQQFZ
+Stack  7  -> D
+Stack  8  -> 
+------------------------
+Amount  5 Origin  5 Destination  4
+------------------------
+Stack  0  -> M
+Stack  1  -> Q
+Stack  2  -> NHFDRPHGMHGN
+Stack  3  -> WZSQZCDFVRDMDZBVDLMVQQBT
+Stack  4  -> N
+Stack  5  -> MPFF
+Stack  6  -> GQHTNBVZQQFZ
+Stack  7  -> D
+Stack  8  -> 
+------------------------
+Amount  4 Origin  6 Destination  4
+------------------------
+Stack  0  -> M
+Stack  1  -> Q
+Stack  2  -> NHFDRPHGMHGN
+Stack  3  -> WZSQZCDFVRDMDZBVDLMVQQBTMPFF
+Stack  4  -> N
+Stack  5  -> 
+Stack  6  -> GQHTNBVZQQFZ
+Stack  7  -> D
+Stack  8  -> 
+------------------------
+Amount  8 Origin  7 Destination  8
+------------------------
+Stack  0  -> M
+Stack  1  -> Q
+Stack  2  -> NHFDRPHGMHGN
+Stack  3  -> WZSQZCDFVRDMDZBVDLMVQQBTMPFF
+Stack  4  -> N
+Stack  5  -> 
+Stack  6  -> GQHT
+Stack  7  -> DNBVZQQFZ
+Stack  8  -> 
+------------------------
+Amount  3 Origin  7 Destination  3
+------------------------
+Stack  0  -> M
+Stack  1  -> Q
+Stack  2  -> NHFDRPHGMHGNQHT
+Stack  3  -> WZSQZCDFVRDMDZBVDLMVQQBTMPFF
+Stack  4  -> N
+Stack  5  -> 
+Stack  6  -> G
+Stack  7  -> DNBVZQQFZ
+Stack  8  -> 
+------------------------
+Amount  1 Origin  2 Destination  1
+------------------------
+Stack  0  -> MQ
+Stack  1  -> 
+Stack  2  -> NHFDRPHGMHGNQHT
+Stack  3  -> WZSQZCDFVRDMDZBVDLMVQQBTMPFF
+Stack  4  -> N
+Stack  5  -> 
+Stack  6  -> G
+Stack  7  -> DNBVZQQFZ
+Stack  8  -> 
+------------------------
+Amount  5 Origin  8 Destination  2
+------------------------
+Stack  0  -> MQ
+Stack  1  -> ZQQFZ
+Stack  2  -> NHFDRPHGMHGNQHT
+Stack  3  -> WZSQZCDFVRDMDZBVDLMVQQBTMPFF
+Stack  4  -> N
+Stack  5  -> 
+Stack  6  -> G
+Stack  7  -> DNBV
+Stack  8  -> 
+------------------------
+Amount  4 Origin  4 Destination  3
+------------------------
+Stack  0  -> MQ
+Stack  1  -> ZQQFZ
+Stack  2  -> NHFDRPHGMHGNQHTMPFF
+Stack  3  -> WZSQZCDFVRDMDZBVDLMVQQBT
+Stack  4  -> N
+Stack  5  -> 
+Stack  6  -> G
+Stack  7  -> DNBV
+Stack  8  -> 
+------------------------
+Amount  1 Origin  2 Destination  9
+------------------------
+Stack  0  -> MQ
+Stack  1  -> ZQQF
+Stack  2  -> NHFDRPHGMHGNQHTMPFF
+Stack  3  -> WZSQZCDFVRDMDZBVDLMVQQBT
+Stack  4  -> N
+Stack  5  -> 
+Stack  6  -> G
+Stack  7  -> DNBV
+Stack  8  -> Z
+------------------------
+Amount  1 Origin  1 Destination  9
+------------------------
+Stack  0  -> M
+Stack  1  -> ZQQF
+Stack  2  -> NHFDRPHGMHGNQHTMPFF
+Stack  3  -> WZSQZCDFVRDMDZBVDLMVQQBT
+Stack  4  -> N
+Stack  5  -> 
+Stack  6  -> G
+Stack  7  -> DNBV
+Stack  8  -> ZQ
+------------------------
+Amount  3 Origin  2 Destination  1
+------------------------
+Stack  0  -> MQQF
+Stack  1  -> Z
+Stack  2  -> NHFDRPHGMHGNQHTMPFF
+Stack  3  -> WZSQZCDFVRDMDZBVDLMVQQBT
+Stack  4  -> N
+Stack  5  -> 
+Stack  6  -> G
+Stack  7  -> DNBV
+Stack  8  -> ZQ
+------------------------
+Amount  1 Origin  5 Destination  4
+------------------------
+Stack  0  -> MQQF
+Stack  1  -> Z
+Stack  2  -> NHFDRPHGMHGNQHTMPFF
+Stack  3  -> WZSQZCDFVRDMDZBVDLMVQQBTN
+Stack  4  -> 
+Stack  5  -> 
+Stack  6  -> G
+Stack  7  -> DNBV
+Stack  8  -> ZQ
+------------------------
+Amount  3 Origin  8 Destination  1
+------------------------
+Stack  0  -> MQQFNBV
+Stack  1  -> Z
+Stack  2  -> NHFDRPHGMHGNQHTMPFF
+Stack  3  -> WZSQZCDFVRDMDZBVDLMVQQBTN
+Stack  4  -> 
+Stack  5  -> 
+Stack  6  -> G
+Stack  7  -> D
+Stack  8  -> ZQ
+------------------------
+Amount  1 Origin  7 Destination  4
+------------------------
+Stack  0  -> MQQFNBV
+Stack  1  -> Z
+Stack  2  -> NHFDRPHGMHGNQHTMPFF
+Stack  3  -> WZSQZCDFVRDMDZBVDLMVQQBTNG
+Stack  4  -> 
+Stack  5  -> 
+Stack  6  -> 
+Stack  7  -> D
+Stack  8  -> ZQ
+------------------------
+Amount  4 Origin  3 Destination  9
+------------------------
+Stack  0  -> MQQFNBV
+Stack  1  -> Z
+Stack  2  -> NHFDRPHGMHGNQHT
+Stack  3  -> WZSQZCDFVRDMDZBVDLMVQQBTNG
+Stack  4  -> 
+Stack  5  -> 
+Stack  6  -> 
+Stack  7  -> D
+Stack  8  -> ZQMPFF
+------------------------
+Amount  1 Origin  8 Destination  7
+------------------------
+Stack  0  -> MQQFNBV
+Stack  1  -> Z
+Stack  2  -> NHFDRPHGMHGNQHT
+Stack  3  -> WZSQZCDFVRDMDZBVDLMVQQBTNG
+Stack  4  -> 
+Stack  5  -> 
+Stack  6  -> D
+Stack  7  -> 
+Stack  8  -> ZQMPFF
+------------------------
+Amount  2 Origin  9 Destination  1
+------------------------
+Stack  0  -> MQQFNBVFF
+Stack  1  -> Z
+Stack  2  -> NHFDRPHGMHGNQHT
+Stack  3  -> WZSQZCDFVRDMDZBVDLMVQQBTNG
+Stack  4  -> 
+Stack  5  -> 
+Stack  6  -> D
+Stack  7  -> 
+Stack  8  -> ZQMP
+------------------------
+Amount  6 Origin  3 Destination  4
+------------------------
+Stack  0  -> MQQFNBVFF
+Stack  1  -> Z
+Stack  2  -> NHFDRPHGM
+Stack  3  -> WZSQZCDFVRDMDZBVDLMVQQBTNGHGNQHT
+Stack  4  -> 
+Stack  5  -> 
+Stack  6  -> D
+Stack  7  -> 
+Stack  8  -> ZQMP
+------------------------
+Amount  28 Origin  4 Destination  7
+------------------------
+Stack  0  -> MQQFNBVFF
+Stack  1  -> Z
+Stack  2  -> NHFDRPHGM
+Stack  3  -> WZSQ
+Stack  4  -> 
+Stack  5  -> 
+Stack  6  -> DZCDFVRDMDZBVDLMVQQBTNGHGNQHT
+Stack  7  -> 
+Stack  8  -> ZQMP
+------------------------
+Amount  15 Origin  7 Destination  8
+------------------------
+Stack  0  -> MQQFNBVFF
+Stack  1  -> Z
+Stack  2  -> NHFDRPHGM
+Stack  3  -> WZSQ
+Stack  4  -> 
+Stack  5  -> 
+Stack  6  -> DZCDFVRDMDZBVD
+Stack  7  -> LMVQQBTNGHGNQHT
+Stack  8  -> ZQMP
+------------------------
+Amount  3 Origin  3 Destination  8
+------------------------
+Stack  0  -> MQQFNBVFF
+Stack  1  -> Z
+Stack  2  -> NHFDRP
+Stack  3  -> WZSQ
+Stack  4  -> 
+Stack  5  -> 
+Stack  6  -> DZCDFVRDMDZBVD
+Stack  7  -> LMVQQBTNGHGNQHTHGM
+Stack  8  -> ZQMP
+------------------------
+Amount  1 Origin  2 Destination  9
+------------------------
+Stack  0  -> MQQFNBVFF
+Stack  1  -> 
+Stack  2  -> NHFDRP
+Stack  3  -> WZSQ
+Stack  4  -> 
+Stack  5  -> 
+Stack  6  -> DZCDFVRDMDZBVD
+Stack  7  -> LMVQQBTNGHGNQHTHGM
+Stack  8  -> ZQMPZ
+------------------------
+Amount  2 Origin  3 Destination  2
+------------------------
+Stack  0  -> MQQFNBVFF
+Stack  1  -> RP
+Stack  2  -> NHFD
+Stack  3  -> WZSQ
+Stack  4  -> 
+Stack  5  -> 
+Stack  6  -> DZCDFVRDMDZBVD
+Stack  7  -> LMVQQBTNGHGNQHTHGM
+Stack  8  -> ZQMPZ
+------------------------
+Amount  7 Origin  1 Destination  4
+------------------------
+Stack  0  -> MQ
+Stack  1  -> RP
+Stack  2  -> NHFD
+Stack  3  -> WZSQQFNBVFF
+Stack  4  -> 
+Stack  5  -> 
+Stack  6  -> DZCDFVRDMDZBVD
+Stack  7  -> LMVQQBTNGHGNQHTHGM
+Stack  8  -> ZQMPZ
+------------------------
+Amount  10 Origin  4 Destination  5
+------------------------
+Stack  0  -> MQ
+Stack  1  -> RP
+Stack  2  -> NHFD
+Stack  3  -> W
+Stack  4  -> ZSQQFNBVFF
+Stack  5  -> 
+Stack  6  -> DZCDFVRDMDZBVD
+Stack  7  -> LMVQQBTNGHGNQHTHGM
+Stack  8  -> ZQMPZ
+------------------------
+Amount  10 Origin  5 Destination  6
+------------------------
+Stack  0  -> MQ
+Stack  1  -> RP
+Stack  2  -> NHFD
+Stack  3  -> W
+Stack  4  -> 
+Stack  5  -> ZSQQFNBVFF
+Stack  6  -> DZCDFVRDMDZBVD
+Stack  7  -> LMVQQBTNGHGNQHTHGM
+Stack  8  -> ZQMPZ
+------------------------
+Amount  3 Origin  8 Destination  2
+------------------------
+Stack  0  -> MQ
+Stack  1  -> RPHGM
+Stack  2  -> NHFD
+Stack  3  -> W
+Stack  4  -> 
+Stack  5  -> ZSQQFNBVFF
+Stack  6  -> DZCDFVRDMDZBVD
+Stack  7  -> LMVQQBTNGHGNQHT
+Stack  8  -> ZQMPZ
+------------------------
+Amount  1 Origin  1 Destination  7
+------------------------
+Stack  0  -> M
+Stack  1  -> RPHGM
+Stack  2  -> NHFD
+Stack  3  -> W
+Stack  4  -> 
+Stack  5  -> ZSQQFNBVFF
+Stack  6  -> DZCDFVRDMDZBVDQ
+Stack  7  -> LMVQQBTNGHGNQHT
+Stack  8  -> ZQMPZ
+------------------------
+Amount  1 Origin  4 Destination  7
+------------------------
+Stack  0  -> M
+Stack  1  -> RPHGM
+Stack  2  -> NHFD
+Stack  3  -> 
+Stack  4  -> 
+Stack  5  -> ZSQQFNBVFF
+Stack  6  -> DZCDFVRDMDZBVDQW
+Stack  7  -> LMVQQBTNGHGNQHT
+Stack  8  -> ZQMPZ
+------------------------
+Amount  1 Origin  9 Destination  6
+------------------------
+Stack  0  -> M
+Stack  1  -> RPHGM
+Stack  2  -> NHFD
+Stack  3  -> 
+Stack  4  -> 
+Stack  5  -> ZSQQFNBVFFZ
+Stack  6  -> DZCDFVRDMDZBVDQW
+Stack  7  -> LMVQQBTNGHGNQHT
+Stack  8  -> ZQMP
+------------------------
+Amount  9 Origin  6 Destination  7
+------------------------
+Stack  0  -> M
+Stack  1  -> RPHGM
+Stack  2  -> NHFD
+Stack  3  -> 
+Stack  4  -> 
+Stack  5  -> ZS
+Stack  6  -> DZCDFVRDMDZBVDQWQQFNBVFFZ
+Stack  7  -> LMVQQBTNGHGNQHT
+Stack  8  -> ZQMP
+------------------------
+Amount  1 Origin  2 Destination  4
+------------------------
+Stack  0  -> M
+Stack  1  -> RPHG
+Stack  2  -> NHFD
+Stack  3  -> M
+Stack  4  -> 
+Stack  5  -> ZS
+Stack  6  -> DZCDFVRDMDZBVDQWQQFNBVFFZ
+Stack  7  -> LMVQQBTNGHGNQHT
+Stack  8  -> ZQMP
+------------------------
+Amount  1 Origin  9 Destination  5
+TOPS AT THE END  MGDMPSZTM
