@@ -1,0 +1,7383 @@
+depth 6 width 8
+Queue len 1
+Processing status {time:0 currentDepth:0 currentWidth:1 goalDepth:5 goalWidth:6}
+ # E # # # # # #
+ # > > . < ^ < #
+ # . < . . < < #
+ # > v . > < > #
+ # < ^ v ^ ^ > #
+ # # # # # # . #
+
+Next minute (1) board is:
+ # . # # # # # #
+ # . > 3 . < . #
+ # < . . < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next option {depth:1 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # E > 3 . < . #
+ # < . . < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next option {depth:0 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # E # # # # # #
+ # . > 3 . < . #
+ # < . . < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+Queue len 2
+Processing status {time:1 currentDepth:1 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # E > 3 . < . #
+ # < . . < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next minute (2) board is:
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+
+Next option {depth:2 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # E ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+
+Next option {depth:1 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # E 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+Queue len 3
+Processing status {time:1 currentDepth:0 currentWidth:1 goalDepth:5 goalWidth:6}
+ # E # # # # # #
+ # . > 3 . < . #
+ # < . . < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next minute (2) board is:
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+
+Next option {depth:1 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # E 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+
+Next option {depth:0 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # E # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+Queue len 4
+Processing status {time:2 currentDepth:2 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # E ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+
+Next minute (3) board is:
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next option {depth:2 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # E 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+Queue len 4
+Processing status {time:2 currentDepth:1 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # E 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+
+Next minute (3) board is:
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next option {depth:2 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # E 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+Queue len 4
+Processing status {time:2 currentDepth:1 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # E 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+
+Next minute (3) board is:
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next option {depth:2 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # E 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+Queue len 4
+Processing status {time:2 currentDepth:0 currentWidth:1 goalDepth:5 goalWidth:6}
+ # E # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+
+Next minute (3) board is:
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next option {depth:0 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # E # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+Queue len 4
+Processing status {time:3 currentDepth:2 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # E 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next minute (4) board is:
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:1 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # E < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+Queue len 4
+Processing status {time:3 currentDepth:2 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # E 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next minute (4) board is:
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:1 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # E < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+Queue len 4
+Processing status {time:3 currentDepth:2 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # E 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next minute (4) board is:
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:1 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # E < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+Queue len 4
+Processing status {time:3 currentDepth:0 currentWidth:1 goalDepth:5 goalWidth:6}
+ # E # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next minute (4) board is:
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:1 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # E < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:0 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # E # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+Queue len 5
+Processing status {time:4 currentDepth:1 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # E < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (5) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:1 width:2}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 E v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+Queue len 5
+Processing status {time:4 currentDepth:1 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # E < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (5) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:1 width:2}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 E v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+Queue len 5
+Processing status {time:4 currentDepth:1 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # E < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (5) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:1 width:2}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 E v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+Queue len 5
+Processing status {time:4 currentDepth:1 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # E < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (5) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:1 width:2}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 E v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+Queue len 5
+Processing status {time:4 currentDepth:0 currentWidth:1 goalDepth:5 goalWidth:6}
+ # E # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (5) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:0 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # E # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+Queue len 5
+Processing status {time:5 currentDepth:1 currentWidth:2 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # 2 E v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next minute (6) board is:
+ # . # # # # # #
+ # > 2 . < . < #
+ # . 2 v ^ 2 < #
+ # > . . > 2 > #
+ # < . . . . > #
+ # # # # # # . #
+
+Next option {depth:1 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # > 2 E < . < #
+ # . 2 v ^ 2 < #
+ # > . . > 2 > #
+ # < . . . . > #
+ # # # # # # . #
+Queue len 5
+Processing status {time:5 currentDepth:1 currentWidth:2 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # 2 E v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next minute (6) board is:
+ # . # # # # # #
+ # > 2 . < . < #
+ # . 2 v ^ 2 < #
+ # > . . > 2 > #
+ # < . . . . > #
+ # # # # # # . #
+
+Next option {depth:1 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # > 2 E < . < #
+ # . 2 v ^ 2 < #
+ # > . . > 2 > #
+ # < . . . . > #
+ # # # # # # . #
+Queue len 5
+Processing status {time:5 currentDepth:1 currentWidth:2 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # 2 E v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next minute (6) board is:
+ # . # # # # # #
+ # > 2 . < . < #
+ # . 2 v ^ 2 < #
+ # > . . > 2 > #
+ # < . . . . > #
+ # # # # # # . #
+
+Next option {depth:1 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # > 2 E < . < #
+ # . 2 v ^ 2 < #
+ # > . . > 2 > #
+ # < . . . . > #
+ # # # # # # . #
+Queue len 5
+Processing status {time:5 currentDepth:1 currentWidth:2 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # 2 E v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next minute (6) board is:
+ # . # # # # # #
+ # > 2 . < . < #
+ # . 2 v ^ 2 < #
+ # > . . > 2 > #
+ # < . . . . > #
+ # # # # # # . #
+
+Next option {depth:1 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # > 2 E < . < #
+ # . 2 v ^ 2 < #
+ # > . . > 2 > #
+ # < . . . . > #
+ # # # # # # . #
+Queue len 5
+Processing status {time:5 currentDepth:0 currentWidth:1 goalDepth:5 goalWidth:6}
+ # E # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next minute (6) board is:
+ # . # # # # # #
+ # > 2 . < . < #
+ # . 2 v ^ 2 < #
+ # > . . > 2 > #
+ # < . . . . > #
+ # # # # # # . #
+
+Next option {depth:0 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # E # # # # # #
+ # > 2 . < . < #
+ # . 2 v ^ 2 < #
+ # > . . > 2 > #
+ # < . . . . > #
+ # # # # # # . #
+Queue len 5
+Processing status {time:6 currentDepth:1 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # > 2 E < . < #
+ # . 2 v ^ 2 < #
+ # > . . > 2 > #
+ # < . . . . > #
+ # # # # # # . #
+
+Next minute (7) board is:
+ # . # # # # # #
+ # . 2 2 ^ 2 . #
+ # < v . < 2 . #
+ # > > v < > . #
+ # > . . . . < #
+ # # # # # # . #
+
+Next option {depth:2 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . 2 2 ^ 2 . #
+ # < v E < 2 . #
+ # > > v < > . #
+ # > . . . . < #
+ # # # # # # . #
+Queue len 5
+Processing status {time:6 currentDepth:1 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # > 2 E < . < #
+ # . 2 v ^ 2 < #
+ # > . . > 2 > #
+ # < . . . . > #
+ # # # # # # . #
+
+Next minute (7) board is:
+ # . # # # # # #
+ # . 2 2 ^ 2 . #
+ # < v . < 2 . #
+ # > > v < > . #
+ # > . . . . < #
+ # # # # # # . #
+
+Next option {depth:2 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . 2 2 ^ 2 . #
+ # < v E < 2 . #
+ # > > v < > . #
+ # > . . . . < #
+ # # # # # # . #
+Queue len 5
+Processing status {time:6 currentDepth:1 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # > 2 E < . < #
+ # . 2 v ^ 2 < #
+ # > . . > 2 > #
+ # < . . . . > #
+ # # # # # # . #
+
+Next minute (7) board is:
+ # . # # # # # #
+ # . 2 2 ^ 2 . #
+ # < v . < 2 . #
+ # > > v < > . #
+ # > . . . . < #
+ # # # # # # . #
+
+Next option {depth:2 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . 2 2 ^ 2 . #
+ # < v E < 2 . #
+ # > > v < > . #
+ # > . . . . < #
+ # # # # # # . #
+Queue len 5
+Processing status {time:6 currentDepth:1 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # > 2 E < . < #
+ # . 2 v ^ 2 < #
+ # > . . > 2 > #
+ # < . . . . > #
+ # # # # # # . #
+
+Next minute (7) board is:
+ # . # # # # # #
+ # . 2 2 ^ 2 . #
+ # < v . < 2 . #
+ # > > v < > . #
+ # > . . . . < #
+ # # # # # # . #
+
+Next option {depth:2 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . 2 2 ^ 2 . #
+ # < v E < 2 . #
+ # > > v < > . #
+ # > . . . . < #
+ # # # # # # . #
+Queue len 5
+Processing status {time:6 currentDepth:0 currentWidth:1 goalDepth:5 goalWidth:6}
+ # E # # # # # #
+ # > 2 . < . < #
+ # . 2 v ^ 2 < #
+ # > . . > 2 > #
+ # < . . . . > #
+ # # # # # # . #
+
+Next minute (7) board is:
+ # . # # # # # #
+ # . 2 2 ^ 2 . #
+ # < v . < 2 . #
+ # > > v < > . #
+ # > . . . . < #
+ # # # # # # . #
+
+Next option {depth:1 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # E 2 2 ^ 2 . #
+ # < v . < 2 . #
+ # > > v < > . #
+ # > . . . . < #
+ # # # # # # . #
+
+Next option {depth:0 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # E # # # # # #
+ # . 2 2 ^ 2 . #
+ # < v . < 2 . #
+ # > > v < > . #
+ # > . . . . < #
+ # # # # # # . #
+Queue len 6
+Processing status {time:7 currentDepth:2 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . 2 2 ^ 2 . #
+ # < v E < 2 . #
+ # > > v < > . #
+ # > . . . . < #
+ # # # # # # . #
+
+Next minute (8) board is:
+ # . # # # # # #
+ # . < > 2 ^ . #
+ # . . < < . < #
+ # . 2 2 . . > #
+ # . 2 v ^ 2 . #
+ # # # # # # . #
+
+Next option {depth:2 width:2}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . < > 2 ^ . #
+ # . E < < . < #
+ # . 2 2 . . > #
+ # . 2 v ^ 2 . #
+ # # # # # # . #
+Queue len 6
+Processing status {time:7 currentDepth:2 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . 2 2 ^ 2 . #
+ # < v E < 2 . #
+ # > > v < > . #
+ # > . . . . < #
+ # # # # # # . #
+
+Next minute (8) board is:
+ # . # # # # # #
+ # . < > 2 ^ . #
+ # . . < < . < #
+ # . 2 2 . . > #
+ # . 2 v ^ 2 . #
+ # # # # # # . #
+
+Next option {depth:2 width:2}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . < > 2 ^ . #
+ # . E < < . < #
+ # . 2 2 . . > #
+ # . 2 v ^ 2 . #
+ # # # # # # . #
+Queue len 6
+Processing status {time:7 currentDepth:2 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . 2 2 ^ 2 . #
+ # < v E < 2 . #
+ # > > v < > . #
+ # > . . . . < #
+ # # # # # # . #
+
+Next minute (8) board is:
+ # . # # # # # #
+ # . < > 2 ^ . #
+ # . . < < . < #
+ # . 2 2 . . > #
+ # . 2 v ^ 2 . #
+ # # # # # # . #
+
+Next option {depth:2 width:2}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . < > 2 ^ . #
+ # . E < < . < #
+ # . 2 2 . . > #
+ # . 2 v ^ 2 . #
+ # # # # # # . #
+Queue len 6
+Processing status {time:7 currentDepth:2 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . 2 2 ^ 2 . #
+ # < v E < 2 . #
+ # > > v < > . #
+ # > . . . . < #
+ # # # # # # . #
+
+Next minute (8) board is:
+ # . # # # # # #
+ # . < > 2 ^ . #
+ # . . < < . < #
+ # . 2 2 . . > #
+ # . 2 v ^ 2 . #
+ # # # # # # . #
+
+Next option {depth:2 width:2}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . < > 2 ^ . #
+ # . E < < . < #
+ # . 2 2 . . > #
+ # . 2 v ^ 2 . #
+ # # # # # # . #
+Queue len 6
+Processing status {time:7 currentDepth:1 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # E 2 2 ^ 2 . #
+ # < v . < 2 . #
+ # > > v < > . #
+ # > . . . . < #
+ # # # # # # . #
+
+Next minute (8) board is:
+ # . # # # # # #
+ # . < > 2 ^ . #
+ # . . < < . < #
+ # . 2 2 . . > #
+ # . 2 v ^ 2 . #
+ # # # # # # . #
+
+Next option {depth:2 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . < > 2 ^ . #
+ # E . < < . < #
+ # . 2 2 . . > #
+ # . 2 v ^ 2 . #
+ # # # # # # . #
+
+Next option {depth:1 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # E < > 2 ^ . #
+ # . . < < . < #
+ # . 2 2 . . > #
+ # . 2 v ^ 2 . #
+ # # # # # # . #
+Queue len 7
+Processing status {time:7 currentDepth:0 currentWidth:1 goalDepth:5 goalWidth:6}
+ # E # # # # # #
+ # . 2 2 ^ 2 . #
+ # < v . < 2 . #
+ # > > v < > . #
+ # > . . . . < #
+ # # # # # # . #
+
+Next minute (8) board is:
+ # . # # # # # #
+ # . < > 2 ^ . #
+ # . . < < . < #
+ # . 2 2 . . > #
+ # . 2 v ^ 2 . #
+ # # # # # # . #
+
+Next option {depth:1 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # E < > 2 ^ . #
+ # . . < < . < #
+ # . 2 2 . . > #
+ # . 2 v ^ 2 . #
+ # # # # # # . #
+
+Next option {depth:0 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # E # # # # # #
+ # . < > 2 ^ . #
+ # . . < < . < #
+ # . 2 2 . . > #
+ # . 2 v ^ 2 . #
+ # # # # # # . #
+Queue len 8
+Processing status {time:8 currentDepth:2 currentWidth:2 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . < > 2 ^ . #
+ # . E < < . < #
+ # . 2 2 . . > #
+ # . 2 v ^ 2 . #
+ # # # # # # . #
+
+Next minute (9) board is:
+ # . # # # # # #
+ # < . 2 > > . #
+ # . < < . < . #
+ # > 2 > 2 ^ . #
+ # . v > < ^ . #
+ # # # # # # . #
+
+Next option {depth:1 width:2}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # < E 2 > > . #
+ # . < < . < . #
+ # > 2 > 2 ^ . #
+ # . v > < ^ . #
+ # # # # # # . #
+
+Next option {depth:2 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # < . 2 > > . #
+ # E < < . < . #
+ # > 2 > 2 ^ . #
+ # . v > < ^ . #
+ # # # # # # . #
+Queue len 9
+Processing status {time:8 currentDepth:2 currentWidth:2 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . < > 2 ^ . #
+ # . E < < . < #
+ # . 2 2 . . > #
+ # . 2 v ^ 2 . #
+ # # # # # # . #
+
+Next minute (9) board is:
+ # . # # # # # #
+ # < . 2 > > . #
+ # . < < . < . #
+ # > 2 > 2 ^ . #
+ # . v > < ^ . #
+ # # # # # # . #
+
+Next option {depth:1 width:2}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # < E 2 > > . #
+ # . < < . < . #
+ # > 2 > 2 ^ . #
+ # . v > < ^ . #
+ # # # # # # . #
+
+Next option {depth:2 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # < . 2 > > . #
+ # E < < . < . #
+ # > 2 > 2 ^ . #
+ # . v > < ^ . #
+ # # # # # # . #
+Queue len 10
+Processing status {time:8 currentDepth:2 currentWidth:2 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . < > 2 ^ . #
+ # . E < < . < #
+ # . 2 2 . . > #
+ # . 2 v ^ 2 . #
+ # # # # # # . #
+
+Next minute (9) board is:
+ # . # # # # # #
+ # < . 2 > > . #
+ # . < < . < . #
+ # > 2 > 2 ^ . #
+ # . v > < ^ . #
+ # # # # # # . #
+
+Next option {depth:1 width:2}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # < E 2 > > . #
+ # . < < . < . #
+ # > 2 > 2 ^ . #
+ # . v > < ^ . #
+ # # # # # # . #
+
+Next option {depth:2 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # < . 2 > > . #
+ # E < < . < . #
+ # > 2 > 2 ^ . #
+ # . v > < ^ . #
+ # # # # # # . #
+Queue len 11
+Processing status {time:8 currentDepth:2 currentWidth:2 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . < > 2 ^ . #
+ # . E < < . < #
+ # . 2 2 . . > #
+ # . 2 v ^ 2 . #
+ # # # # # # . #
+
+Next minute (9) board is:
+ # . # # # # # #
+ # < . 2 > > . #
+ # . < < . < . #
+ # > 2 > 2 ^ . #
+ # . v > < ^ . #
+ # # # # # # . #
+
+Next option {depth:1 width:2}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # < E 2 > > . #
+ # . < < . < . #
+ # > 2 > 2 ^ . #
+ # . v > < ^ . #
+ # # # # # # . #
+
+Next option {depth:2 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # < . 2 > > . #
+ # E < < . < . #
+ # > 2 > 2 ^ . #
+ # . v > < ^ . #
+ # # # # # # . #
+Queue len 12
+Processing status {time:8 currentDepth:2 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . < > 2 ^ . #
+ # E . < < . < #
+ # . 2 2 . . > #
+ # . 2 v ^ 2 . #
+ # # # # # # . #
+
+Next minute (9) board is:
+ # . # # # # # #
+ # < . 2 > > . #
+ # . < < . < . #
+ # > 2 > 2 ^ . #
+ # . v > < ^ . #
+ # # # # # # . #
+
+Next option {depth:2 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # < . 2 > > . #
+ # E < < . < . #
+ # > 2 > 2 ^ . #
+ # . v > < ^ . #
+ # # # # # # . #
+Queue len 12
+Processing status {time:8 currentDepth:1 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # E < > 2 ^ . #
+ # . . < < . < #
+ # . 2 2 . . > #
+ # . 2 v ^ 2 . #
+ # # # # # # . #
+
+Next minute (9) board is:
+ # . # # # # # #
+ # < . 2 > > . #
+ # . < < . < . #
+ # > 2 > 2 ^ . #
+ # . v > < ^ . #
+ # # # # # # . #
+
+Next option {depth:2 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # < . 2 > > . #
+ # E < < . < . #
+ # > 2 > 2 ^ . #
+ # . v > < ^ . #
+ # # # # # # . #
+
+Next option {depth:1 width:2}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # < E 2 > > . #
+ # . < < . < . #
+ # > 2 > 2 ^ . #
+ # . v > < ^ . #
+ # # # # # # . #
+Queue len 13
+Processing status {time:8 currentDepth:1 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # E < > 2 ^ . #
+ # . . < < . < #
+ # . 2 2 . . > #
+ # . 2 v ^ 2 . #
+ # # # # # # . #
+
+Next minute (9) board is:
+ # . # # # # # #
+ # < . 2 > > . #
+ # . < < . < . #
+ # > 2 > 2 ^ . #
+ # . v > < ^ . #
+ # # # # # # . #
+
+Next option {depth:2 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # < . 2 > > . #
+ # E < < . < . #
+ # > 2 > 2 ^ . #
+ # . v > < ^ . #
+ # # # # # # . #
+
+Next option {depth:1 width:2}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # < E 2 > > . #
+ # . < < . < . #
+ # > 2 > 2 ^ . #
+ # . v > < ^ . #
+ # # # # # # . #
+Queue len 14
+Processing status {time:8 currentDepth:0 currentWidth:1 goalDepth:5 goalWidth:6}
+ # E # # # # # #
+ # . < > 2 ^ . #
+ # . . < < . < #
+ # . 2 2 . . > #
+ # . 2 v ^ 2 . #
+ # # # # # # . #
+
+Next minute (9) board is:
+ # . # # # # # #
+ # < . 2 > > . #
+ # . < < . < . #
+ # > 2 > 2 ^ . #
+ # . v > < ^ . #
+ # # # # # # . #
+
+Next option {depth:0 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # E # # # # # #
+ # < . 2 > > . #
+ # . < < . < . #
+ # > 2 > 2 ^ . #
+ # . v > < ^ . #
+ # # # # # # . #
+Queue len 14
+Processing status {time:9 currentDepth:1 currentWidth:2 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # < E 2 > > . #
+ # . < < . < . #
+ # > 2 > 2 ^ . #
+ # . v > < ^ . #
+ # # # # # # . #
+
+Next minute (10) board is:
+ # . # # # # # #
+ # . 2 . . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+
+Next option {depth:1 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . 2 E . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+
+Next option {depth:1 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # E 2 . . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+Queue len 15
+Processing status {time:9 currentDepth:2 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # < . 2 > > . #
+ # E < < . < . #
+ # > 2 > 2 ^ . #
+ # . v > < ^ . #
+ # # # # # # . #
+
+Next minute (10) board is:
+ # . # # # # # #
+ # . 2 . . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+
+Next option {depth:1 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # E 2 . . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+Queue len 15
+Processing status {time:9 currentDepth:1 currentWidth:2 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # < E 2 > > . #
+ # . < < . < . #
+ # > 2 > 2 ^ . #
+ # . v > < ^ . #
+ # # # # # # . #
+
+Next minute (10) board is:
+ # . # # # # # #
+ # . 2 . . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+
+Next option {depth:1 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . 2 E . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+
+Next option {depth:1 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # E 2 . . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+Queue len 16
+Processing status {time:9 currentDepth:2 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # < . 2 > > . #
+ # E < < . < . #
+ # > 2 > 2 ^ . #
+ # . v > < ^ . #
+ # # # # # # . #
+
+Next minute (10) board is:
+ # . # # # # # #
+ # . 2 . . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+
+Next option {depth:1 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # E 2 . . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+Queue len 16
+Processing status {time:9 currentDepth:1 currentWidth:2 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # < E 2 > > . #
+ # . < < . < . #
+ # > 2 > 2 ^ . #
+ # . v > < ^ . #
+ # # # # # # . #
+
+Next minute (10) board is:
+ # . # # # # # #
+ # . 2 . . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+
+Next option {depth:1 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . 2 E . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+
+Next option {depth:1 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # E 2 . . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+Queue len 17
+Processing status {time:9 currentDepth:2 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # < . 2 > > . #
+ # E < < . < . #
+ # > 2 > 2 ^ . #
+ # . v > < ^ . #
+ # # # # # # . #
+
+Next minute (10) board is:
+ # . # # # # # #
+ # . 2 . . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+
+Next option {depth:1 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # E 2 . . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+Queue len 17
+Processing status {time:9 currentDepth:1 currentWidth:2 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # < E 2 > > . #
+ # . < < . < . #
+ # > 2 > 2 ^ . #
+ # . v > < ^ . #
+ # # # # # # . #
+
+Next minute (10) board is:
+ # . # # # # # #
+ # . 2 . . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+
+Next option {depth:1 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . 2 E . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+
+Next option {depth:1 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # E 2 . . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+Queue len 18
+Processing status {time:9 currentDepth:2 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # < . 2 > > . #
+ # E < < . < . #
+ # > 2 > 2 ^ . #
+ # . v > < ^ . #
+ # # # # # # . #
+
+Next minute (10) board is:
+ # . # # # # # #
+ # . 2 . . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+
+Next option {depth:1 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # E 2 . . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+Queue len 18
+Processing status {time:9 currentDepth:2 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # < . 2 > > . #
+ # E < < . < . #
+ # > 2 > 2 ^ . #
+ # . v > < ^ . #
+ # # # # # # . #
+
+Next minute (10) board is:
+ # . # # # # # #
+ # . 2 . . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+
+Next option {depth:1 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # E 2 . . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+Queue len 18
+Processing status {time:9 currentDepth:2 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # < . 2 > > . #
+ # E < < . < . #
+ # > 2 > 2 ^ . #
+ # . v > < ^ . #
+ # # # # # # . #
+
+Next minute (10) board is:
+ # . # # # # # #
+ # . 2 . . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+
+Next option {depth:1 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # E 2 . . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+Queue len 18
+Processing status {time:9 currentDepth:1 currentWidth:2 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # < E 2 > > . #
+ # . < < . < . #
+ # > 2 > 2 ^ . #
+ # . v > < ^ . #
+ # # # # # # . #
+
+Next minute (10) board is:
+ # . # # # # # #
+ # . 2 . . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+
+Next option {depth:1 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . 2 E . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+
+Next option {depth:1 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # E 2 . . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+Queue len 19
+Processing status {time:9 currentDepth:2 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # < . 2 > > . #
+ # E < < . < . #
+ # > 2 > 2 ^ . #
+ # . v > < ^ . #
+ # # # # # # . #
+
+Next minute (10) board is:
+ # . # # # # # #
+ # . 2 . . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+
+Next option {depth:1 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # E 2 . . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+Queue len 19
+Processing status {time:9 currentDepth:1 currentWidth:2 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # < E 2 > > . #
+ # . < < . < . #
+ # > 2 > 2 ^ . #
+ # . v > < ^ . #
+ # # # # # # . #
+
+Next minute (10) board is:
+ # . # # # # # #
+ # . 2 . . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+
+Next option {depth:1 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . 2 E . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+
+Next option {depth:1 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # E 2 . . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+Queue len 20
+Processing status {time:9 currentDepth:0 currentWidth:1 goalDepth:5 goalWidth:6}
+ # E # # # # # #
+ # < . 2 > > . #
+ # . < < . < . #
+ # > 2 > 2 ^ . #
+ # . v > < ^ . #
+ # # # # # # . #
+
+Next minute (10) board is:
+ # . # # # # # #
+ # . 2 . . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+
+Next option {depth:1 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # E 2 . . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+
+Next option {depth:0 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # E # # # # # #
+ # . 2 . . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+Queue len 21
+Processing status {time:10 currentDepth:1 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . 2 E . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+
+Next minute (11) board is:
+ # . # # # # # #
+ # 2 ^ . ^ 2 > #
+ # < v < . ^ < #
+ # . . 2 . > 2 #
+ # . < . . > . #
+ # # # # # # . #
+
+Next option {depth:1 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 ^ E ^ 2 > #
+ # < v < . ^ < #
+ # . . 2 . > 2 #
+ # . < . . > . #
+ # # # # # # . #
+Queue len 21
+Processing status {time:10 currentDepth:1 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # E 2 . . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+
+Next minute (11) board is:
+ # . # # # # # #
+ # 2 ^ . ^ 2 > #
+ # < v < . ^ < #
+ # . . 2 . > 2 #
+ # . < . . > . #
+ # # # # # # . #
+Queue len 20
+Processing status {time:10 currentDepth:1 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # E 2 . . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+
+Next minute (11) board is:
+ # . # # # # # #
+ # 2 ^ . ^ 2 > #
+ # < v < . ^ < #
+ # . . 2 . > 2 #
+ # . < . . > . #
+ # # # # # # . #
+Queue len 19
+Processing status {time:10 currentDepth:1 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . 2 E . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+
+Next minute (11) board is:
+ # . # # # # # #
+ # 2 ^ . ^ 2 > #
+ # < v < . ^ < #
+ # . . 2 . > 2 #
+ # . < . . > . #
+ # # # # # # . #
+
+Next option {depth:1 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 ^ E ^ 2 > #
+ # < v < . ^ < #
+ # . . 2 . > 2 #
+ # . < . . > . #
+ # # # # # # . #
+Queue len 19
+Processing status {time:10 currentDepth:1 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # E 2 . . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+
+Next minute (11) board is:
+ # . # # # # # #
+ # 2 ^ . ^ 2 > #
+ # < v < . ^ < #
+ # . . 2 . > 2 #
+ # . < . . > . #
+ # # # # # # . #
+Queue len 18
+Processing status {time:10 currentDepth:1 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # E 2 . . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+
+Next minute (11) board is:
+ # . # # # # # #
+ # 2 ^ . ^ 2 > #
+ # < v < . ^ < #
+ # . . 2 . > 2 #
+ # . < . . > . #
+ # # # # # # . #
+Queue len 17
+Processing status {time:10 currentDepth:1 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . 2 E . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+
+Next minute (11) board is:
+ # . # # # # # #
+ # 2 ^ . ^ 2 > #
+ # < v < . ^ < #
+ # . . 2 . > 2 #
+ # . < . . > . #
+ # # # # # # . #
+
+Next option {depth:1 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 ^ E ^ 2 > #
+ # < v < . ^ < #
+ # . . 2 . > 2 #
+ # . < . . > . #
+ # # # # # # . #
+Queue len 17
+Processing status {time:10 currentDepth:1 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # E 2 . . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+
+Next minute (11) board is:
+ # . # # # # # #
+ # 2 ^ . ^ 2 > #
+ # < v < . ^ < #
+ # . . 2 . > 2 #
+ # . < . . > . #
+ # # # # # # . #
+Queue len 16
+Processing status {time:10 currentDepth:1 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # E 2 . . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+
+Next minute (11) board is:
+ # . # # # # # #
+ # 2 ^ . ^ 2 > #
+ # < v < . ^ < #
+ # . . 2 . > 2 #
+ # . < . . > . #
+ # # # # # # . #
+Queue len 15
+Processing status {time:10 currentDepth:1 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . 2 E . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+
+Next minute (11) board is:
+ # . # # # # # #
+ # 2 ^ . ^ 2 > #
+ # < v < . ^ < #
+ # . . 2 . > 2 #
+ # . < . . > . #
+ # # # # # # . #
+
+Next option {depth:1 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 ^ E ^ 2 > #
+ # < v < . ^ < #
+ # . . 2 . > 2 #
+ # . < . . > . #
+ # # # # # # . #
+Queue len 15
+Processing status {time:10 currentDepth:1 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # E 2 . . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+
+Next minute (11) board is:
+ # . # # # # # #
+ # 2 ^ . ^ 2 > #
+ # < v < . ^ < #
+ # . . 2 . > 2 #
+ # . < . . > . #
+ # # # # # # . #
+Queue len 14
+Processing status {time:10 currentDepth:1 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # E 2 . . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+
+Next minute (11) board is:
+ # . # # # # # #
+ # 2 ^ . ^ 2 > #
+ # < v < . ^ < #
+ # . . 2 . > 2 #
+ # . < . . > . #
+ # # # # # # . #
+Queue len 13
+Processing status {time:10 currentDepth:1 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # E 2 . . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+
+Next minute (11) board is:
+ # . # # # # # #
+ # 2 ^ . ^ 2 > #
+ # < v < . ^ < #
+ # . . 2 . > 2 #
+ # . < . . > . #
+ # # # # # # . #
+Queue len 12
+Processing status {time:10 currentDepth:1 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # E 2 . . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+
+Next minute (11) board is:
+ # . # # # # # #
+ # 2 ^ . ^ 2 > #
+ # < v < . ^ < #
+ # . . 2 . > 2 #
+ # . < . . > . #
+ # # # # # # . #
+Queue len 11
+Processing status {time:10 currentDepth:1 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . 2 E . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+
+Next minute (11) board is:
+ # . # # # # # #
+ # 2 ^ . ^ 2 > #
+ # < v < . ^ < #
+ # . . 2 . > 2 #
+ # . < . . > . #
+ # # # # # # . #
+
+Next option {depth:1 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 ^ E ^ 2 > #
+ # < v < . ^ < #
+ # . . 2 . > 2 #
+ # . < . . > . #
+ # # # # # # . #
+Queue len 11
+Processing status {time:10 currentDepth:1 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # E 2 . . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+
+Next minute (11) board is:
+ # . # # # # # #
+ # 2 ^ . ^ 2 > #
+ # < v < . ^ < #
+ # . . 2 . > 2 #
+ # . < . . > . #
+ # # # # # # . #
+Queue len 10
+Processing status {time:10 currentDepth:1 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # E 2 . . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+
+Next minute (11) board is:
+ # . # # # # # #
+ # 2 ^ . ^ 2 > #
+ # < v < . ^ < #
+ # . . 2 . > 2 #
+ # . < . . > . #
+ # # # # # # . #
+Queue len 9
+Processing status {time:10 currentDepth:1 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . 2 E . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+
+Next minute (11) board is:
+ # . # # # # # #
+ # 2 ^ . ^ 2 > #
+ # < v < . ^ < #
+ # . . 2 . > 2 #
+ # . < . . > . #
+ # # # # # # . #
+
+Next option {depth:1 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 ^ E ^ 2 > #
+ # < v < . ^ < #
+ # . . 2 . > 2 #
+ # . < . . > . #
+ # # # # # # . #
+Queue len 9
+Processing status {time:10 currentDepth:1 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # E 2 . . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+
+Next minute (11) board is:
+ # . # # # # # #
+ # 2 ^ . ^ 2 > #
+ # < v < . ^ < #
+ # . . 2 . > 2 #
+ # . < . . > . #
+ # # # # # # . #
+Queue len 8
+Processing status {time:10 currentDepth:1 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # E 2 . . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+
+Next minute (11) board is:
+ # . # # # # # #
+ # 2 ^ . ^ 2 > #
+ # < v < . ^ < #
+ # . . 2 . > 2 #
+ # . < . . > . #
+ # # # # # # . #
+Queue len 7
+Processing status {time:10 currentDepth:0 currentWidth:1 goalDepth:5 goalWidth:6}
+ # E # # # # # #
+ # . 2 . . > 2 #
+ # < 2 v 2 ^ . #
+ # < > . > 2 . #
+ # . . < > . . #
+ # # # # # # . #
+
+Next minute (11) board is:
+ # . # # # # # #
+ # 2 ^ . ^ 2 > #
+ # < v < . ^ < #
+ # . . 2 . > 2 #
+ # . < . . > . #
+ # # # # # # . #
+
+Next option {depth:0 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # E # # # # # #
+ # 2 ^ . ^ 2 > #
+ # < v < . ^ < #
+ # . . 2 . > 2 #
+ # . < . . > . #
+ # # # # # # . #
+Queue len 7
+Processing status {time:11 currentDepth:1 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # 2 ^ E ^ 2 > #
+ # < v < . ^ < #
+ # . . 2 . > 2 #
+ # . < . . > . #
+ # # # # # # . #
+
+Next minute (12) board is:
+ # . # # # # # #
+ # > > . < ^ < #
+ # . < . . < < #
+ # > v . > < > #
+ # < ^ v ^ ^ > #
+ # # # # # # . #
+
+Next option {depth:2 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # > > . < ^ < #
+ # . < E . < < #
+ # > v . > < > #
+ # < ^ v ^ ^ > #
+ # # # # # # . #
+
+Next option {depth:1 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # > > E < ^ < #
+ # . < . . < < #
+ # > v . > < > #
+ # < ^ v ^ ^ > #
+ # # # # # # . #
+Queue len 8
+Processing status {time:11 currentDepth:1 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # 2 ^ E ^ 2 > #
+ # < v < . ^ < #
+ # . . 2 . > 2 #
+ # . < . . > . #
+ # # # # # # . #
+
+Next minute (12) board is:
+ # . # # # # # #
+ # > > . < ^ < #
+ # . < . . < < #
+ # > v . > < > #
+ # < ^ v ^ ^ > #
+ # # # # # # . #
+
+Next option {depth:2 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # > > . < ^ < #
+ # . < E . < < #
+ # > v . > < > #
+ # < ^ v ^ ^ > #
+ # # # # # # . #
+
+Next option {depth:1 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # > > E < ^ < #
+ # . < . . < < #
+ # > v . > < > #
+ # < ^ v ^ ^ > #
+ # # # # # # . #
+Queue len 9
+Processing status {time:11 currentDepth:1 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # 2 ^ E ^ 2 > #
+ # < v < . ^ < #
+ # . . 2 . > 2 #
+ # . < . . > . #
+ # # # # # # . #
+
+Next minute (12) board is:
+ # . # # # # # #
+ # > > . < ^ < #
+ # . < . . < < #
+ # > v . > < > #
+ # < ^ v ^ ^ > #
+ # # # # # # . #
+
+Next option {depth:2 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # > > . < ^ < #
+ # . < E . < < #
+ # > v . > < > #
+ # < ^ v ^ ^ > #
+ # # # # # # . #
+
+Next option {depth:1 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # > > E < ^ < #
+ # . < . . < < #
+ # > v . > < > #
+ # < ^ v ^ ^ > #
+ # # # # # # . #
+Queue len 10
+Processing status {time:11 currentDepth:1 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # 2 ^ E ^ 2 > #
+ # < v < . ^ < #
+ # . . 2 . > 2 #
+ # . < . . > . #
+ # # # # # # . #
+
+Next minute (12) board is:
+ # . # # # # # #
+ # > > . < ^ < #
+ # . < . . < < #
+ # > v . > < > #
+ # < ^ v ^ ^ > #
+ # # # # # # . #
+
+Next option {depth:2 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # > > . < ^ < #
+ # . < E . < < #
+ # > v . > < > #
+ # < ^ v ^ ^ > #
+ # # # # # # . #
+
+Next option {depth:1 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # > > E < ^ < #
+ # . < . . < < #
+ # > v . > < > #
+ # < ^ v ^ ^ > #
+ # # # # # # . #
+Queue len 11
+Processing status {time:11 currentDepth:1 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # 2 ^ E ^ 2 > #
+ # < v < . ^ < #
+ # . . 2 . > 2 #
+ # . < . . > . #
+ # # # # # # . #
+
+Next minute (12) board is:
+ # . # # # # # #
+ # > > . < ^ < #
+ # . < . . < < #
+ # > v . > < > #
+ # < ^ v ^ ^ > #
+ # # # # # # . #
+
+Next option {depth:2 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # > > . < ^ < #
+ # . < E . < < #
+ # > v . > < > #
+ # < ^ v ^ ^ > #
+ # # # # # # . #
+
+Next option {depth:1 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # > > E < ^ < #
+ # . < . . < < #
+ # > v . > < > #
+ # < ^ v ^ ^ > #
+ # # # # # # . #
+Queue len 12
+Processing status {time:11 currentDepth:1 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # 2 ^ E ^ 2 > #
+ # < v < . ^ < #
+ # . . 2 . > 2 #
+ # . < . . > . #
+ # # # # # # . #
+
+Next minute (12) board is:
+ # . # # # # # #
+ # > > . < ^ < #
+ # . < . . < < #
+ # > v . > < > #
+ # < ^ v ^ ^ > #
+ # # # # # # . #
+
+Next option {depth:2 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # > > . < ^ < #
+ # . < E . < < #
+ # > v . > < > #
+ # < ^ v ^ ^ > #
+ # # # # # # . #
+
+Next option {depth:1 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # > > E < ^ < #
+ # . < . . < < #
+ # > v . > < > #
+ # < ^ v ^ ^ > #
+ # # # # # # . #
+Queue len 13
+Processing status {time:11 currentDepth:0 currentWidth:1 goalDepth:5 goalWidth:6}
+ # E # # # # # #
+ # 2 ^ . ^ 2 > #
+ # < v < . ^ < #
+ # . . 2 . > 2 #
+ # . < . . > . #
+ # # # # # # . #
+
+Next minute (12) board is:
+ # . # # # # # #
+ # > > . < ^ < #
+ # . < . . < < #
+ # > v . > < > #
+ # < ^ v ^ ^ > #
+ # # # # # # . #
+
+Next option {depth:0 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # E # # # # # #
+ # > > . < ^ < #
+ # . < . . < < #
+ # > v . > < > #
+ # < ^ v ^ ^ > #
+ # # # # # # . #
+Queue len 13
+Processing status {time:12 currentDepth:2 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # > > . < ^ < #
+ # . < E . < < #
+ # > v . > < > #
+ # < ^ v ^ ^ > #
+ # # # # # # . #
+
+Next minute (13) board is:
+ # . # # # # # #
+ # . > 3 . < . #
+ # < . . < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next option {depth:3 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . > 3 . < . #
+ # < . . < < . #
+ # > 2 E 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next option {depth:2 width:2}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . > 3 . < . #
+ # < E . < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next option {depth:2 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . > 3 . < . #
+ # < . E < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+Queue len 15
+Processing status {time:12 currentDepth:1 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # > > E < ^ < #
+ # . < . . < < #
+ # > v . > < > #
+ # < ^ v ^ ^ > #
+ # # # # # # . #
+
+Next minute (13) board is:
+ # . # # # # # #
+ # . > 3 . < . #
+ # < . . < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next option {depth:2 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . > 3 . < . #
+ # < . E < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next option {depth:1 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . > 3 E < . #
+ # < . . < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+Queue len 16
+Processing status {time:12 currentDepth:2 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # > > . < ^ < #
+ # . < E . < < #
+ # > v . > < > #
+ # < ^ v ^ ^ > #
+ # # # # # # . #
+
+Next minute (13) board is:
+ # . # # # # # #
+ # . > 3 . < . #
+ # < . . < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next option {depth:3 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . > 3 . < . #
+ # < . . < < . #
+ # > 2 E 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next option {depth:2 width:2}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . > 3 . < . #
+ # < E . < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next option {depth:2 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . > 3 . < . #
+ # < . E < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+Queue len 18
+Processing status {time:12 currentDepth:1 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # > > E < ^ < #
+ # . < . . < < #
+ # > v . > < > #
+ # < ^ v ^ ^ > #
+ # # # # # # . #
+
+Next minute (13) board is:
+ # . # # # # # #
+ # . > 3 . < . #
+ # < . . < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next option {depth:2 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . > 3 . < . #
+ # < . E < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next option {depth:1 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . > 3 E < . #
+ # < . . < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+Queue len 19
+Processing status {time:12 currentDepth:2 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # > > . < ^ < #
+ # . < E . < < #
+ # > v . > < > #
+ # < ^ v ^ ^ > #
+ # # # # # # . #
+
+Next minute (13) board is:
+ # . # # # # # #
+ # . > 3 . < . #
+ # < . . < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next option {depth:3 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . > 3 . < . #
+ # < . . < < . #
+ # > 2 E 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next option {depth:2 width:2}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . > 3 . < . #
+ # < E . < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next option {depth:2 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . > 3 . < . #
+ # < . E < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+Queue len 21
+Processing status {time:12 currentDepth:1 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # > > E < ^ < #
+ # . < . . < < #
+ # > v . > < > #
+ # < ^ v ^ ^ > #
+ # # # # # # . #
+
+Next minute (13) board is:
+ # . # # # # # #
+ # . > 3 . < . #
+ # < . . < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next option {depth:2 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . > 3 . < . #
+ # < . E < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next option {depth:1 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . > 3 E < . #
+ # < . . < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+Queue len 22
+Processing status {time:12 currentDepth:2 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # > > . < ^ < #
+ # . < E . < < #
+ # > v . > < > #
+ # < ^ v ^ ^ > #
+ # # # # # # . #
+
+Next minute (13) board is:
+ # . # # # # # #
+ # . > 3 . < . #
+ # < . . < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next option {depth:3 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . > 3 . < . #
+ # < . . < < . #
+ # > 2 E 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next option {depth:2 width:2}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . > 3 . < . #
+ # < E . < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next option {depth:2 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . > 3 . < . #
+ # < . E < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+Queue len 24
+Processing status {time:12 currentDepth:1 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # > > E < ^ < #
+ # . < . . < < #
+ # > v . > < > #
+ # < ^ v ^ ^ > #
+ # # # # # # . #
+
+Next minute (13) board is:
+ # . # # # # # #
+ # . > 3 . < . #
+ # < . . < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next option {depth:2 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . > 3 . < . #
+ # < . E < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next option {depth:1 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . > 3 E < . #
+ # < . . < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+Queue len 25
+Processing status {time:12 currentDepth:2 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # > > . < ^ < #
+ # . < E . < < #
+ # > v . > < > #
+ # < ^ v ^ ^ > #
+ # # # # # # . #
+
+Next minute (13) board is:
+ # . # # # # # #
+ # . > 3 . < . #
+ # < . . < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next option {depth:3 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . > 3 . < . #
+ # < . . < < . #
+ # > 2 E 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next option {depth:2 width:2}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . > 3 . < . #
+ # < E . < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next option {depth:2 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . > 3 . < . #
+ # < . E < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+Queue len 27
+Processing status {time:12 currentDepth:1 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # > > E < ^ < #
+ # . < . . < < #
+ # > v . > < > #
+ # < ^ v ^ ^ > #
+ # # # # # # . #
+
+Next minute (13) board is:
+ # . # # # # # #
+ # . > 3 . < . #
+ # < . . < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next option {depth:2 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . > 3 . < . #
+ # < . E < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next option {depth:1 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . > 3 E < . #
+ # < . . < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+Queue len 28
+Processing status {time:12 currentDepth:2 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # > > . < ^ < #
+ # . < E . < < #
+ # > v . > < > #
+ # < ^ v ^ ^ > #
+ # # # # # # . #
+
+Next minute (13) board is:
+ # . # # # # # #
+ # . > 3 . < . #
+ # < . . < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next option {depth:3 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . > 3 . < . #
+ # < . . < < . #
+ # > 2 E 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next option {depth:2 width:2}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . > 3 . < . #
+ # < E . < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next option {depth:2 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . > 3 . < . #
+ # < . E < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+Queue len 30
+Processing status {time:12 currentDepth:1 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # > > E < ^ < #
+ # . < . . < < #
+ # > v . > < > #
+ # < ^ v ^ ^ > #
+ # # # # # # . #
+
+Next minute (13) board is:
+ # . # # # # # #
+ # . > 3 . < . #
+ # < . . < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next option {depth:2 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . > 3 . < . #
+ # < . E < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next option {depth:1 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . > 3 E < . #
+ # < . . < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+Queue len 31
+Processing status {time:12 currentDepth:0 currentWidth:1 goalDepth:5 goalWidth:6}
+ # E # # # # # #
+ # > > . < ^ < #
+ # . < . . < < #
+ # > v . > < > #
+ # < ^ v ^ ^ > #
+ # # # # # # . #
+
+Next minute (13) board is:
+ # . # # # # # #
+ # . > 3 . < . #
+ # < . . < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next option {depth:1 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # E > 3 . < . #
+ # < . . < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next option {depth:0 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # E # # # # # #
+ # . > 3 . < . #
+ # < . . < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+Queue len 32
+Processing status {time:13 currentDepth:3 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . > 3 . < . #
+ # < . . < < . #
+ # > 2 E 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next minute (14) board is:
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+
+Next option {depth:4 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > E . < . #
+ # # # # # # . #
+
+Next option {depth:3 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 E ^ > #
+ # . > . . < . #
+ # # # # # # . #
+Queue len 33
+Processing status {time:13 currentDepth:2 currentWidth:2 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . > 3 . < . #
+ # < E . < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next minute (14) board is:
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+
+Next option {depth:2 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # E ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+Queue len 33
+Processing status {time:13 currentDepth:2 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . > 3 . < . #
+ # < . E < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next minute (14) board is:
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+Queue len 32
+Processing status {time:13 currentDepth:2 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . > 3 . < . #
+ # < . E < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next minute (14) board is:
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+Queue len 31
+Processing status {time:13 currentDepth:1 currentWidth:4 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . > 3 E < . #
+ # < . . < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next minute (14) board is:
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+
+Next option {depth:1 width:5}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . 2 > 2 E . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+Queue len 31
+Processing status {time:13 currentDepth:3 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . > 3 . < . #
+ # < . . < < . #
+ # > 2 E 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next minute (14) board is:
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+
+Next option {depth:4 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > E . < . #
+ # # # # # # . #
+
+Next option {depth:3 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 E ^ > #
+ # . > . . < . #
+ # # # # # # . #
+Queue len 32
+Processing status {time:13 currentDepth:2 currentWidth:2 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . > 3 . < . #
+ # < E . < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next minute (14) board is:
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+
+Next option {depth:2 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # E ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+Queue len 32
+Processing status {time:13 currentDepth:2 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . > 3 . < . #
+ # < . E < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next minute (14) board is:
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+Queue len 31
+Processing status {time:13 currentDepth:2 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . > 3 . < . #
+ # < . E < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next minute (14) board is:
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+Queue len 30
+Processing status {time:13 currentDepth:1 currentWidth:4 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . > 3 E < . #
+ # < . . < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next minute (14) board is:
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+
+Next option {depth:1 width:5}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . 2 > 2 E . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+Queue len 30
+Processing status {time:13 currentDepth:3 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . > 3 . < . #
+ # < . . < < . #
+ # > 2 E 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next minute (14) board is:
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+
+Next option {depth:4 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > E . < . #
+ # # # # # # . #
+
+Next option {depth:3 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 E ^ > #
+ # . > . . < . #
+ # # # # # # . #
+Queue len 31
+Processing status {time:13 currentDepth:2 currentWidth:2 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . > 3 . < . #
+ # < E . < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next minute (14) board is:
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+
+Next option {depth:2 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # E ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+Queue len 31
+Processing status {time:13 currentDepth:2 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . > 3 . < . #
+ # < . E < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next minute (14) board is:
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+Queue len 30
+Processing status {time:13 currentDepth:2 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . > 3 . < . #
+ # < . E < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next minute (14) board is:
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+Queue len 29
+Processing status {time:13 currentDepth:1 currentWidth:4 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . > 3 E < . #
+ # < . . < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next minute (14) board is:
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+
+Next option {depth:1 width:5}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . 2 > 2 E . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+Queue len 29
+Processing status {time:13 currentDepth:3 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . > 3 . < . #
+ # < . . < < . #
+ # > 2 E 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next minute (14) board is:
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+
+Next option {depth:4 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > E . < . #
+ # # # # # # . #
+
+Next option {depth:3 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 E ^ > #
+ # . > . . < . #
+ # # # # # # . #
+Queue len 30
+Processing status {time:13 currentDepth:2 currentWidth:2 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . > 3 . < . #
+ # < E . < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next minute (14) board is:
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+
+Next option {depth:2 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # E ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+Queue len 30
+Processing status {time:13 currentDepth:2 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . > 3 . < . #
+ # < . E < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next minute (14) board is:
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+Queue len 29
+Processing status {time:13 currentDepth:2 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . > 3 . < . #
+ # < . E < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next minute (14) board is:
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+Queue len 28
+Processing status {time:13 currentDepth:1 currentWidth:4 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . > 3 E < . #
+ # < . . < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next minute (14) board is:
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+
+Next option {depth:1 width:5}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . 2 > 2 E . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+Queue len 28
+Processing status {time:13 currentDepth:3 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . > 3 . < . #
+ # < . . < < . #
+ # > 2 E 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next minute (14) board is:
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+
+Next option {depth:4 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > E . < . #
+ # # # # # # . #
+
+Next option {depth:3 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 E ^ > #
+ # . > . . < . #
+ # # # # # # . #
+Queue len 29
+Processing status {time:13 currentDepth:2 currentWidth:2 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . > 3 . < . #
+ # < E . < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next minute (14) board is:
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+
+Next option {depth:2 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # E ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+Queue len 29
+Processing status {time:13 currentDepth:2 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . > 3 . < . #
+ # < . E < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next minute (14) board is:
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+Queue len 28
+Processing status {time:13 currentDepth:2 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . > 3 . < . #
+ # < . E < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next minute (14) board is:
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+Queue len 27
+Processing status {time:13 currentDepth:1 currentWidth:4 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . > 3 E < . #
+ # < . . < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next minute (14) board is:
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+
+Next option {depth:1 width:5}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . 2 > 2 E . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+Queue len 27
+Processing status {time:13 currentDepth:3 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . > 3 . < . #
+ # < . . < < . #
+ # > 2 E 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next minute (14) board is:
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+
+Next option {depth:4 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > E . < . #
+ # # # # # # . #
+
+Next option {depth:3 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 E ^ > #
+ # . > . . < . #
+ # # # # # # . #
+Queue len 28
+Processing status {time:13 currentDepth:2 currentWidth:2 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . > 3 . < . #
+ # < E . < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next minute (14) board is:
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+
+Next option {depth:2 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # E ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+Queue len 28
+Processing status {time:13 currentDepth:2 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . > 3 . < . #
+ # < . E < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next minute (14) board is:
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+Queue len 27
+Processing status {time:13 currentDepth:2 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . > 3 . < . #
+ # < . E < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next minute (14) board is:
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+Queue len 26
+Processing status {time:13 currentDepth:1 currentWidth:4 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . > 3 E < . #
+ # < . . < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next minute (14) board is:
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+
+Next option {depth:1 width:5}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . 2 > 2 E . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+Queue len 26
+Processing status {time:13 currentDepth:1 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # E > 3 . < . #
+ # < . . < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next minute (14) board is:
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+
+Next option {depth:2 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # E ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+
+Next option {depth:1 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # E 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+Queue len 27
+Processing status {time:13 currentDepth:0 currentWidth:1 goalDepth:5 goalWidth:6}
+ # E # # # # # #
+ # . > 3 . < . #
+ # < . . < < . #
+ # > 2 . 2 2 . #
+ # > v . . ^ < #
+ # # # # # # . #
+
+Next minute (14) board is:
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+
+Next option {depth:1 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # E 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+
+Next option {depth:0 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # E # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+Queue len 28
+Processing status {time:14 currentDepth:4 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > E . < . #
+ # # # # # # . #
+
+Next minute (15) board is:
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next option {depth:4 width:2}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . E > < . . #
+ # # # # # # . #
+Queue len 28
+Processing status {time:14 currentDepth:3 currentWidth:4 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 E ^ > #
+ # . > . . < . #
+ # # # # # # . #
+
+Next minute (15) board is:
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next option {depth:2 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < E 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next option {depth:3 width:5}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > E . #
+ # . . > < . . #
+ # # # # # # . #
+Queue len 29
+Processing status {time:14 currentDepth:2 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # E ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+
+Next minute (15) board is:
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next option {depth:2 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # E 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+Queue len 29
+Processing status {time:14 currentDepth:1 currentWidth:5 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . 2 > 2 E . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+
+Next minute (15) board is:
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next option {depth:1 width:6}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # < ^ < 2 2 E #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+Queue len 29
+Processing status {time:14 currentDepth:4 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > E . < . #
+ # # # # # # . #
+
+Next minute (15) board is:
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next option {depth:4 width:2}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . E > < . . #
+ # # # # # # . #
+Queue len 29
+Processing status {time:14 currentDepth:3 currentWidth:4 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 E ^ > #
+ # . > . . < . #
+ # # # # # # . #
+
+Next minute (15) board is:
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next option {depth:2 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < E 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next option {depth:3 width:5}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > E . #
+ # . . > < . . #
+ # # # # # # . #
+Queue len 30
+Processing status {time:14 currentDepth:2 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # E ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+
+Next minute (15) board is:
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next option {depth:2 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # E 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+Queue len 30
+Processing status {time:14 currentDepth:1 currentWidth:5 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . 2 > 2 E . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+
+Next minute (15) board is:
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next option {depth:1 width:6}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # < ^ < 2 2 E #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+Queue len 30
+Processing status {time:14 currentDepth:4 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > E . < . #
+ # # # # # # . #
+
+Next minute (15) board is:
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next option {depth:4 width:2}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . E > < . . #
+ # # # # # # . #
+Queue len 30
+Processing status {time:14 currentDepth:3 currentWidth:4 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 E ^ > #
+ # . > . . < . #
+ # # # # # # . #
+
+Next minute (15) board is:
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next option {depth:2 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < E 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next option {depth:3 width:5}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > E . #
+ # . . > < . . #
+ # # # # # # . #
+Queue len 31
+Processing status {time:14 currentDepth:2 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # E ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+
+Next minute (15) board is:
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next option {depth:2 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # E 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+Queue len 31
+Processing status {time:14 currentDepth:1 currentWidth:5 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . 2 > 2 E . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+
+Next minute (15) board is:
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next option {depth:1 width:6}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # < ^ < 2 2 E #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+Queue len 31
+Processing status {time:14 currentDepth:4 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > E . < . #
+ # # # # # # . #
+
+Next minute (15) board is:
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next option {depth:4 width:2}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . E > < . . #
+ # # # # # # . #
+Queue len 31
+Processing status {time:14 currentDepth:3 currentWidth:4 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 E ^ > #
+ # . > . . < . #
+ # # # # # # . #
+
+Next minute (15) board is:
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next option {depth:2 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < E 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next option {depth:3 width:5}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > E . #
+ # . . > < . . #
+ # # # # # # . #
+Queue len 32
+Processing status {time:14 currentDepth:2 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # E ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+
+Next minute (15) board is:
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next option {depth:2 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # E 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+Queue len 32
+Processing status {time:14 currentDepth:1 currentWidth:5 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . 2 > 2 E . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+
+Next minute (15) board is:
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next option {depth:1 width:6}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # < ^ < 2 2 E #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+Queue len 32
+Processing status {time:14 currentDepth:4 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > E . < . #
+ # # # # # # . #
+
+Next minute (15) board is:
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next option {depth:4 width:2}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . E > < . . #
+ # # # # # # . #
+Queue len 32
+Processing status {time:14 currentDepth:3 currentWidth:4 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 E ^ > #
+ # . > . . < . #
+ # # # # # # . #
+
+Next minute (15) board is:
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next option {depth:2 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < E 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next option {depth:3 width:5}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > E . #
+ # . . > < . . #
+ # # # # # # . #
+Queue len 33
+Processing status {time:14 currentDepth:2 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # E ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+
+Next minute (15) board is:
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next option {depth:2 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # E 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+Queue len 33
+Processing status {time:14 currentDepth:1 currentWidth:5 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . 2 > 2 E . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+
+Next minute (15) board is:
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next option {depth:1 width:6}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # < ^ < 2 2 E #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+Queue len 33
+Processing status {time:14 currentDepth:4 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > E . < . #
+ # # # # # # . #
+
+Next minute (15) board is:
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next option {depth:4 width:2}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . E > < . . #
+ # # # # # # . #
+Queue len 33
+Processing status {time:14 currentDepth:3 currentWidth:4 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 E ^ > #
+ # . > . . < . #
+ # # # # # # . #
+
+Next minute (15) board is:
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next option {depth:2 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < E 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next option {depth:3 width:5}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > E . #
+ # . . > < . . #
+ # # # # # # . #
+Queue len 34
+Processing status {time:14 currentDepth:2 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # E ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+
+Next minute (15) board is:
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next option {depth:2 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # E 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+Queue len 34
+Processing status {time:14 currentDepth:1 currentWidth:5 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . 2 > 2 E . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+
+Next minute (15) board is:
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next option {depth:1 width:6}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # < ^ < 2 2 E #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+Queue len 34
+Processing status {time:14 currentDepth:2 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . 2 > 2 . . #
+ # E ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+
+Next minute (15) board is:
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next option {depth:2 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # E 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+Queue len 34
+Processing status {time:14 currentDepth:1 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # E 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+
+Next minute (15) board is:
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next option {depth:2 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # E 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+Queue len 34
+Processing status {time:14 currentDepth:1 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # E 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+
+Next minute (15) board is:
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next option {depth:2 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # E 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+Queue len 34
+Processing status {time:14 currentDepth:0 currentWidth:1 goalDepth:5 goalWidth:6}
+ # E # # # # # #
+ # . 2 > 2 . . #
+ # . ^ 2 2 ^ < #
+ # . > 2 . ^ > #
+ # . > . . < . #
+ # # # # # # . #
+
+Next minute (15) board is:
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next option {depth:0 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # E # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+Queue len 34
+Processing status {time:15 currentDepth:4 currentWidth:2 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . E > < . . #
+ # # # # # # . #
+
+Next minute (16) board is:
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:4 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # E ^ 2 2 ^ . #
+ # # # # # # . #
+Queue len 34
+Processing status {time:15 currentDepth:2 currentWidth:4 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < E 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next minute (16) board is:
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:1 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . < . E 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:2 width:5}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < E . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:2 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < E < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+Queue len 36
+Processing status {time:15 currentDepth:3 currentWidth:5 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > E . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next minute (16) board is:
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:2 width:5}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < E . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:3 width:6}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > E #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+Queue len 37
+Processing status {time:15 currentDepth:2 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # E 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next minute (16) board is:
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:1 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # E < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+Queue len 37
+Processing status {time:15 currentDepth:1 currentWidth:6 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # < ^ < 2 2 E #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next minute (16) board is:
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:2 width:6}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . E #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+Queue len 37
+Processing status {time:15 currentDepth:4 currentWidth:2 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . E > < . . #
+ # # # # # # . #
+
+Next minute (16) board is:
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:4 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # E ^ 2 2 ^ . #
+ # # # # # # . #
+Queue len 37
+Processing status {time:15 currentDepth:2 currentWidth:4 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < E 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next minute (16) board is:
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:1 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . < . E 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:2 width:5}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < E . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:2 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < E < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+Queue len 39
+Processing status {time:15 currentDepth:3 currentWidth:5 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > E . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next minute (16) board is:
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:2 width:5}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < E . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:3 width:6}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > E #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+Queue len 40
+Processing status {time:15 currentDepth:2 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # E 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next minute (16) board is:
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:1 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # E < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+Queue len 40
+Processing status {time:15 currentDepth:1 currentWidth:6 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # < ^ < 2 2 E #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next minute (16) board is:
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:2 width:6}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . E #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+Queue len 40
+Processing status {time:15 currentDepth:4 currentWidth:2 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . E > < . . #
+ # # # # # # . #
+
+Next minute (16) board is:
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:4 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # E ^ 2 2 ^ . #
+ # # # # # # . #
+Queue len 40
+Processing status {time:15 currentDepth:2 currentWidth:4 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < E 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next minute (16) board is:
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:1 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . < . E 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:2 width:5}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < E . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:2 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < E < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+Queue len 42
+Processing status {time:15 currentDepth:3 currentWidth:5 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > E . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next minute (16) board is:
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:2 width:5}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < E . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:3 width:6}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > E #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+Queue len 43
+Processing status {time:15 currentDepth:2 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # E 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next minute (16) board is:
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:1 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # E < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+Queue len 43
+Processing status {time:15 currentDepth:1 currentWidth:6 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # < ^ < 2 2 E #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next minute (16) board is:
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:2 width:6}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . E #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+Queue len 43
+Processing status {time:15 currentDepth:4 currentWidth:2 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . E > < . . #
+ # # # # # # . #
+
+Next minute (16) board is:
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:4 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # E ^ 2 2 ^ . #
+ # # # # # # . #
+Queue len 43
+Processing status {time:15 currentDepth:2 currentWidth:4 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < E 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next minute (16) board is:
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:1 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . < . E 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:2 width:5}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < E . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:2 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < E < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+Queue len 45
+Processing status {time:15 currentDepth:3 currentWidth:5 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > E . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next minute (16) board is:
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:2 width:5}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < E . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:3 width:6}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > E #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+Queue len 46
+Processing status {time:15 currentDepth:2 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # E 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next minute (16) board is:
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:1 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # E < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+Queue len 46
+Processing status {time:15 currentDepth:1 currentWidth:6 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # < ^ < 2 2 E #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next minute (16) board is:
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:2 width:6}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . E #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+Queue len 46
+Processing status {time:15 currentDepth:4 currentWidth:2 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . E > < . . #
+ # # # # # # . #
+
+Next minute (16) board is:
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:4 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # E ^ 2 2 ^ . #
+ # # # # # # . #
+Queue len 46
+Processing status {time:15 currentDepth:2 currentWidth:4 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < E 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next minute (16) board is:
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:1 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . < . E 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:2 width:5}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < E . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:2 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < E < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+Queue len 48
+Processing status {time:15 currentDepth:3 currentWidth:5 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > E . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next minute (16) board is:
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:2 width:5}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < E . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:3 width:6}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > E #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+Queue len 49
+Processing status {time:15 currentDepth:2 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # E 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next minute (16) board is:
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:1 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # E < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+Queue len 49
+Processing status {time:15 currentDepth:1 currentWidth:6 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # < ^ < 2 2 E #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next minute (16) board is:
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:2 width:6}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . E #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+Queue len 49
+Processing status {time:15 currentDepth:4 currentWidth:2 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . E > < . . #
+ # # # # # # . #
+
+Next minute (16) board is:
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:4 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # E ^ 2 2 ^ . #
+ # # # # # # . #
+Queue len 49
+Processing status {time:15 currentDepth:2 currentWidth:4 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < E 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next minute (16) board is:
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:1 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . < . E 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:2 width:5}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < E . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:2 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < E < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+Queue len 51
+Processing status {time:15 currentDepth:3 currentWidth:5 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > E . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next minute (16) board is:
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:2 width:5}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < E . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:3 width:6}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > E #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+Queue len 52
+Processing status {time:15 currentDepth:2 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # E 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next minute (16) board is:
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:1 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # E < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+Queue len 52
+Processing status {time:15 currentDepth:1 currentWidth:6 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # < ^ < 2 2 E #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next minute (16) board is:
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:2 width:6}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . E #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+Queue len 52
+Processing status {time:15 currentDepth:2 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # E 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next minute (16) board is:
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:1 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # E < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+Queue len 52
+Processing status {time:15 currentDepth:2 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # E 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next minute (16) board is:
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:1 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # E < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+Queue len 52
+Processing status {time:15 currentDepth:2 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # < ^ < 2 2 . #
+ # E 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next minute (16) board is:
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:1 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # E < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+Queue len 52
+Processing status {time:15 currentDepth:0 currentWidth:1 goalDepth:5 goalWidth:6}
+ # E # # # # # #
+ # < ^ < 2 2 . #
+ # . 2 < . 2 . #
+ # > < 2 > . . #
+ # . . > < . . #
+ # # # # # # . #
+
+Next minute (16) board is:
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:1 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # E < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next option {depth:0 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # E # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+Queue len 53
+Processing status {time:16 currentDepth:4 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # E ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (17) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:3 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # E ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:4 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # E 2 . . 2 . #
+ # # # # # # . #
+Queue len 54
+Processing status {time:16 currentDepth:1 currentWidth:4 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . < . E 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (17) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:2 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < E . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:1 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v E < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+Queue len 55
+Processing status {time:16 currentDepth:2 currentWidth:5 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < E . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (17) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:2 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < E . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:2 width:5}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . E < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+Queue len 56
+Processing status {time:16 currentDepth:2 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < E < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (17) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:2 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < E . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:2 width:2}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < E < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+Queue len 57
+Processing status {time:16 currentDepth:2 currentWidth:5 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < E . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (17) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:2 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < E . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:2 width:5}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . E < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+Queue len 58
+Processing status {time:16 currentDepth:3 currentWidth:6 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > E #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (17) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:4 width:6}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 E #
+ # # # # # # . #
+Queue len 58
+Processing status {time:16 currentDepth:1 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # E < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (17) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:1 width:2}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 E v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+Queue len 58
+Processing status {time:16 currentDepth:2 currentWidth:6 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . E #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (17) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:2 width:5}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . E < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+Queue len 58
+Processing status {time:16 currentDepth:4 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # E ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (17) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:3 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # E ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:4 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # E 2 . . 2 . #
+ # # # # # # . #
+Queue len 59
+Processing status {time:16 currentDepth:1 currentWidth:4 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . < . E 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (17) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:2 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < E . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:1 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v E < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+Queue len 60
+Processing status {time:16 currentDepth:2 currentWidth:5 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < E . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (17) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:2 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < E . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:2 width:5}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . E < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+Queue len 61
+Processing status {time:16 currentDepth:2 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < E < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (17) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:2 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < E . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:2 width:2}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < E < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+Queue len 62
+Processing status {time:16 currentDepth:2 currentWidth:5 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < E . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (17) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:2 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < E . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:2 width:5}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . E < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+Queue len 63
+Processing status {time:16 currentDepth:3 currentWidth:6 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > E #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (17) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:4 width:6}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 E #
+ # # # # # # . #
+Queue len 63
+Processing status {time:16 currentDepth:1 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # E < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (17) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:1 width:2}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 E v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+Queue len 63
+Processing status {time:16 currentDepth:2 currentWidth:6 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . E #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (17) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:2 width:5}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . E < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+Queue len 63
+Processing status {time:16 currentDepth:4 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # E ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (17) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:3 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # E ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:4 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # E 2 . . 2 . #
+ # # # # # # . #
+Queue len 64
+Processing status {time:16 currentDepth:1 currentWidth:4 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . < . E 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (17) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:2 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < E . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:1 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v E < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+Queue len 65
+Processing status {time:16 currentDepth:2 currentWidth:5 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < E . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (17) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:2 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < E . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:2 width:5}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . E < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+Queue len 66
+Processing status {time:16 currentDepth:2 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < E < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (17) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:2 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < E . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:2 width:2}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < E < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+Queue len 67
+Processing status {time:16 currentDepth:2 currentWidth:5 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < E . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (17) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:2 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < E . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:2 width:5}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . E < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+Queue len 68
+Processing status {time:16 currentDepth:3 currentWidth:6 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > E #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (17) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:4 width:6}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 E #
+ # # # # # # . #
+Queue len 68
+Processing status {time:16 currentDepth:1 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # E < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (17) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:1 width:2}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 E v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+Queue len 68
+Processing status {time:16 currentDepth:2 currentWidth:6 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . E #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (17) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:2 width:5}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . E < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+Queue len 68
+Processing status {time:16 currentDepth:4 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # E ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (17) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:3 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # E ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:4 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # E 2 . . 2 . #
+ # # # # # # . #
+Queue len 69
+Processing status {time:16 currentDepth:1 currentWidth:4 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . < . E 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (17) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:2 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < E . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:1 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v E < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+Queue len 70
+Processing status {time:16 currentDepth:2 currentWidth:5 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < E . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (17) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:2 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < E . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:2 width:5}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . E < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+Queue len 71
+Processing status {time:16 currentDepth:2 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < E < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (17) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:2 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < E . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:2 width:2}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < E < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+Queue len 72
+Processing status {time:16 currentDepth:2 currentWidth:5 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < E . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (17) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:2 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < E . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:2 width:5}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . E < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+Queue len 73
+Processing status {time:16 currentDepth:3 currentWidth:6 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > E #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (17) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:4 width:6}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 E #
+ # # # # # # . #
+Queue len 73
+Processing status {time:16 currentDepth:1 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # E < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (17) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:1 width:2}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 E v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+Queue len 73
+Processing status {time:16 currentDepth:2 currentWidth:6 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . E #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (17) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:2 width:5}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . E < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+Queue len 73
+Processing status {time:16 currentDepth:4 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # E ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (17) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:3 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # E ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:4 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # E 2 . . 2 . #
+ # # # # # # . #
+Queue len 74
+Processing status {time:16 currentDepth:1 currentWidth:4 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . < . E 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (17) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:2 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < E . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:1 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v E < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+Queue len 75
+Processing status {time:16 currentDepth:2 currentWidth:5 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < E . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (17) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:2 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < E . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:2 width:5}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . E < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+Queue len 76
+Processing status {time:16 currentDepth:2 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < E < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (17) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:2 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < E . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:2 width:2}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < E < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+Queue len 77
+Processing status {time:16 currentDepth:2 currentWidth:5 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < E . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (17) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:2 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < E . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:2 width:5}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . E < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+Queue len 78
+Processing status {time:16 currentDepth:3 currentWidth:6 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > E #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (17) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:4 width:6}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 E #
+ # # # # # # . #
+Queue len 78
+Processing status {time:16 currentDepth:1 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # E < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (17) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:1 width:2}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 E v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+Queue len 78
+Processing status {time:16 currentDepth:2 currentWidth:6 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . E #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (17) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:2 width:5}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . E < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+Queue len 78
+Processing status {time:16 currentDepth:4 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # E ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (17) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:3 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # E ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:4 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # E 2 . . 2 . #
+ # # # # # # . #
+Queue len 79
+Processing status {time:16 currentDepth:1 currentWidth:4 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . < . E 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (17) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:2 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < E . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:1 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v E < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+Queue len 80
+Processing status {time:16 currentDepth:2 currentWidth:5 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < E . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (17) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:2 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < E . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:2 width:5}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . E < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+Queue len 81
+Processing status {time:16 currentDepth:2 currentWidth:3 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < E < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (17) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:2 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < E . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:2 width:2}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < E < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+Queue len 82
+Processing status {time:16 currentDepth:2 currentWidth:5 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < E . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (17) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:2 width:4}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < E . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:2 width:5}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . E < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+Queue len 83
+Processing status {time:16 currentDepth:3 currentWidth:6 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > E #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (17) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:4 width:6}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 E #
+ # # # # # # . #
+Queue len 83
+Processing status {time:16 currentDepth:1 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # E < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (17) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:1 width:2}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 E v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+Queue len 83
+Processing status {time:16 currentDepth:2 currentWidth:6 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # . < . . 2 2 #
+ # < < . < . E #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (17) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:2 width:5}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . E < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+Queue len 83
+Processing status {time:16 currentDepth:1 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # E < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (17) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:1 width:2}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 E v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+Queue len 83
+Processing status {time:16 currentDepth:1 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # E < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (17) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:1 width:2}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 E v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+Queue len 83
+Processing status {time:16 currentDepth:1 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # E < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (17) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:1 width:2}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 E v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+Queue len 83
+Processing status {time:16 currentDepth:1 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # E < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (17) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:1 width:2}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # 2 E v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+Queue len 83
+Processing status {time:16 currentDepth:0 currentWidth:1 goalDepth:5 goalWidth:6}
+ # E # # # # # #
+ # . < . . 2 2 #
+ # < < . < . . #
+ # < 2 . > > . #
+ # . ^ 2 2 ^ . #
+ # # # # # # . #
+
+Next minute (17) board is:
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next option {depth:0 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # E # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+Queue len 83
+Processing status {time:17 currentDepth:3 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # E ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next minute (18) board is:
+ # . # # # # # #
+ # > 2 . < . < #
+ # . 2 v ^ 2 < #
+ # > . . > 2 > #
+ # < . . . . > #
+ # # # # # # . #
+
+Next option {depth:2 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # > 2 . < . < #
+ # E 2 v ^ 2 < #
+ # > . . > 2 > #
+ # < . . . . > #
+ # # # # # # . #
+
+Next option {depth:3 width:2}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # > 2 . < . < #
+ # . 2 v ^ 2 < #
+ # > E . > 2 > #
+ # < . . . . > #
+ # # # # # # . #
+Queue len 84
+Processing status {time:17 currentDepth:4 currentWidth:1 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # E 2 . . 2 . #
+ # # # # # # . #
+
+Next minute (18) board is:
+ # . # # # # # #
+ # > 2 . < . < #
+ # . 2 v ^ 2 < #
+ # > . . > 2 > #
+ # < . . . . > #
+ # # # # # # . #
+
+Next option {depth:4 width:2}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # > 2 . < . < #
+ # . 2 v ^ 2 < #
+ # > . . > 2 > #
+ # < E . . . > #
+ # # # # # # . #
+Queue len 84
+Processing status {time:17 currentDepth:2 currentWidth:4 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < E . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next minute (18) board is:
+ # . # # # # # #
+ # > 2 . < . < #
+ # . 2 v ^ 2 < #
+ # > . . > 2 > #
+ # < . . . . > #
+ # # # # # # . #
+Queue len 83
+Processing status {time:17 currentDepth:1 currentWidth:4 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # 2 . v E < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next minute (18) board is:
+ # . # # # # # #
+ # > 2 . < . < #
+ # . 2 v ^ 2 < #
+ # > . . > 2 > #
+ # < . . . . > #
+ # # # # # # . #
+
+Next option {depth:1 width:5}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # > 2 . < E < #
+ # . 2 v ^ 2 < #
+ # > . . > 2 > #
+ # < . . . . > #
+ # # # # # # . #
+
+Next option {depth:1 width:3}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # > 2 E < . < #
+ # . 2 v ^ 2 < #
+ # > . . > 2 > #
+ # < . . . . > #
+ # # # # # # . #
+Queue len 84
+Processing status {time:17 currentDepth:2 currentWidth:4 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < E . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next minute (18) board is:
+ # . # # # # # #
+ # > 2 . < . < #
+ # . 2 v ^ 2 < #
+ # > . . > 2 > #
+ # < . . . . > #
+ # # # # # # . #
+Queue len 83
+Processing status {time:17 currentDepth:2 currentWidth:5 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . E < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next minute (18) board is:
+ # . # # # # # #
+ # > 2 . < . < #
+ # . 2 v ^ 2 < #
+ # > . . > 2 > #
+ # < . . . . > #
+ # # # # # # . #
+
+Next option {depth:1 width:5}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # > 2 . < E < #
+ # . 2 v ^ 2 < #
+ # > . . > 2 > #
+ # < . . . . > #
+ # # # # # # . #
+Queue len 83
+Processing status {time:17 currentDepth:2 currentWidth:4 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < E . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next minute (18) board is:
+ # . # # # # # #
+ # > 2 . < . < #
+ # . 2 v ^ 2 < #
+ # > . . > 2 > #
+ # < . . . . > #
+ # # # # # # . #
+Queue len 82
+Processing status {time:17 currentDepth:2 currentWidth:2 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # 2 . v . < > #
+ # < E < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next minute (18) board is:
+ # . # # # # # #
+ # > 2 . < . < #
+ # . 2 v ^ 2 < #
+ # > . . > 2 > #
+ # < . . . . > #
+ # # # # # # . #
+
+Next option {depth:3 width:2}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # > 2 . < . < #
+ # . 2 v ^ 2 < #
+ # > E . > 2 > #
+ # < . . . . > #
+ # # # # # # . #
+
+Next option {depth:2 width:1}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # > 2 . < . < #
+ # E 2 v ^ 2 < #
+ # > . . > 2 > #
+ # < . . . . > #
+ # # # # # # . #
+Queue len 83
+Processing status {time:17 currentDepth:2 currentWidth:4 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < E . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next minute (18) board is:
+ # . # # # # # #
+ # > 2 . < . < #
+ # . 2 v ^ 2 < #
+ # > . . > 2 > #
+ # < . . . . > #
+ # # # # # # . #
+Queue len 82
+Processing status {time:17 currentDepth:2 currentWidth:5 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . E < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 . #
+ # # # # # # . #
+
+Next minute (18) board is:
+ # . # # # # # #
+ # > 2 . < . < #
+ # . 2 v ^ 2 < #
+ # > . . > 2 > #
+ # < . . . . > #
+ # # # # # # . #
+
+Next option {depth:1 width:5}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Next STEP BOARD
+ # . # # # # # #
+ # > 2 . < E < #
+ # . 2 v ^ 2 < #
+ # > . . > 2 > #
+ # < . . . . > #
+ # # # # # # . #
+Queue len 82
+Processing status {time:17 currentDepth:4 currentWidth:6 goalDepth:5 goalWidth:6}
+ # . # # # # # #
+ # 2 . v . < > #
+ # < . < . . < #
+ # . ^ > ^ 2 2 #
+ # . 2 . . 2 E #
+ # # # # # # . #
+
+Next minute (18) board is:
+ # . # # # # # #
+ # > 2 . < . < #
+ # . 2 v ^ 2 < #
+ # > . . > 2 > #
+ # < . . . . > #
+ # # # # # # . #
+
+Next option {depth:5 width:6}
+GOAL DEPTH: 5 GOAL WIDTH 6
+Found solution, 18
